@@ -1,0 +1,2274 @@
+{
+  "batchNumber": 8,
+  "totalBatches": 12,
+  "orderBy": "confidence",
+  "generatedAt": "2026-09-13T13:10:47.140Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+      "authorHandle": "photosbyrjt.bsky.social",
+      "totalCandidates": 9,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mv5erjeavp2d",
+          "cid": "bafyreic6pscp4ybv3itpv66u2ravytkcsg5v4ejq7ebi6m6qpn76k54aka",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #06/#07 - Cock & Candelabra\n\nThe islanders have created a picnic haven in a clearing overlooking the docks.\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreibgqhpoocvtxclqfkeu7zhhgi5y7rceswdksuucryioz44lazriwi"
+          ],
+          "indexedAt": "2026-09-10T06:00:23.768Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mv2ufzj7ot2m",
+          "cid": "bafyreiea4edptpcyycbdyocgtvmmtgub6jnizsdirqveahg5w7jdayc7vy",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #05/#07 - Industrial remnants\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreibqj62cubgtpkvzvqj3722xlbeqzo3extymb3nukl5uj4ualuddcq"
+          ],
+          "indexedAt": "2026-09-09T06:02:18.060Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3muydx4ihog2p",
+          "cid": "bafyreibpimxwemghiyo2plxb4ey66d7oxlekwxazdrv2pxl6krwwvsb52y",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #04/#07 - Lot’s Ait\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson #BarbelIsland #AfricanQueen",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreihj6vzoezxmb2qbipbspd2orzvrrelnn4xgpfjq4yzhel326sbbuq"
+          ],
+          "indexedAt": "2026-09-08T06:02:18.368Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3muvtiabizf2d",
+          "cid": "bafyreifjrhyrf4fj7wtx2sbs2ibyjkht4uqvtn3sftjjs6hr4ig4el47oi",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #03/#07 - Bridge Views\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreib6b2muknvkww2k6bhy3edvdel3wafl3xn4pap3psmpatn2vbczpq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreicyxob2pjsdh3agt72mjwa35s56qdmohc4eaj3tm6sr7iuqy74kqm"
+          ],
+          "indexedAt": "2026-09-07T06:02:19.759Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mutczdvnvd27",
+          "cid": "bafyreidfecnou4bjcwignp6fmpzlocov3j2ww2zaa5uurwgqimnnbjh5vi",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #02/#07 - Boatyard Views\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreihn2h7bpko3rn4sr2ko7h6matvxieo3kj7ea2pfebumablx4bra7m",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreidtrfd2xy64u5htlgoawx7g7w7lpk65bonoqimi5utg25fdrpw6se"
+          ],
+          "indexedAt": "2026-09-06T06:02:20.766Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3muqskecu2c2q",
+          "cid": "bafyreiayytvx3kws26d3pt5udjtolz3fjqa5iv4avjyf46jcawkvzvpk4i",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #01/#07 - The bridge at low tide\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #FilmPhotography #PatrickUnwin #JohnWatson",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreihcz7hqpn7y6odm4i5gr5inf2lvg4n2qgyu6g2zmksgijtjiq3hu4"
+          ],
+          "indexedAt": "2026-09-05T06:02:18.660Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mv7vdx6lts2n",
+          "cid": "bafyreieunsjk2lusw4v4mrp5axnxxgwh6b7mlebb2wpkwp6rz4sdmls7zq",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "Dahlia Bridge 28/07/2026 #07/#07 - Liquidity\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #dahliafootbridge #riverthames #thames #LotsAit #JohnsBoatWorks #Liquidity #SimonPackard #FilmPhotography #FerryQuay",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreiavmigfvrjmh7hzypf4b3yjpw7d77f3pwj5mdybn75ztjowwa7poa",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreieiecj4ito5muqvp4mkv2lno74pk62vdifb7bnsijpxy5i6ofgiwi"
+          ],
+          "indexedAt": "2026-09-11T06:02:21.762Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mvcfsuob7j27",
+          "cid": "bafyreidmgsqnesqehvvfhdnonbg32peeu2zoti5gyat7twa2o47mmy25ci",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "River Brent 28/07/2026 #01/#09 - Point Wharf\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #riverbrent #riverthames #thames  #FilmPhotography #PointWharf #ThamesDock  #RiverBrent #GrandUnionCanal #DockRoad #ThamesLock #brentfordandchiswicklhs",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreic64hgmkvn4udjgpi5lxf6qhnxqtcf54dmt2hdtx7mylylh3fkh7i",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreid5lof7jusyzuxmoptvsfjvrigr5z2bs2f27yuxzeise53aopfwh4"
+          ],
+          "indexedAt": "2026-09-12T06:02:22.266Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:2u33nna55cyvmnj4yzmyoor4/app.bsky.feed.post/3mvewbqcdgj2h",
+          "cid": "bafyreihenefs6z2gd5mpd2xnxjnnfyi6mi2ej7gcixgnrzqgv3cq2srfnm",
+          "authorDid": "did:plc:2u33nna55cyvmnj4yzmyoor4",
+          "authorHandle": "photosbyrjt.bsky.social",
+          "text": "River Brent 28/07/2026 #02/#09 - Sparks will Fly\n\n\n#withmycamera #streetphotography #photosbyrjt #outdoors #riverbrent #riverthames #thames  #FilmPhotography #ThamesDock #MSOMarine #RiverBrent #DockRoad #ThamesLock  #brentfordandchiswicklhs",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2u33nna55cyvmnj4yzmyoor4/bafkreid7c5phzyahlclod6g6enu3lzwaij3gd724leaivgrk62i3x56nn4"
+          ],
+          "indexedAt": "2026-09-13T06:02:18.861Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+      "authorHandle": "heartywhite.bsky.social",
+      "totalCandidates": 6,
+      "avgConfidence": 4,
+      "sample": [
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mv7cwu5lbc22",
+          "cid": "bafyreihbvfx6ryd3pmcsuzpg5w3d4tvrlzgvy64xdhot35s657solnds6u",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "Blow dry. Kentucky State Fair. #filmphotography #film #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreigjdpgyupvip46owefezhmloytaybhtc6eznf4n4ocnfq7vni5tbe"
+          ],
+          "indexedAt": "2026-09-11T00:32:59.673Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mv7cgtfauc2b",
+          "cid": "bafyreigojrolsj5tudeway5zcegfmfgo2eyptdfk5ar7ua5tpfru6us7vq",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "Thank you Jesus burgers. Kentucky State fair. #filmphotography #film #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreiaeyjlqaxlh3omoxi7jj3mhxxwopl4a6afxwfq2s6f2ssqptcmp5e"
+          ],
+          "indexedAt": "2026-09-11T00:24:05.763Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mv7crs2hxk2b",
+          "cid": "bafyreid7fztikp2kvtoozqqkgfuxo5ubo64w73qv36c4x5jb3dnqa4ll2m",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "Scary fair dolls. Kentucky State Fair. #filmphotography #film #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreifju2qcdwxluag7nbzt5ozcdu36zcrvlxgerm745bmtv7jlhl5xlu"
+          ],
+          "indexedAt": "2026-09-11T00:30:09.958Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mvdxqaruz225",
+          "cid": "bafyreid7mxgqmcqxtte55hcjefsom4za7e34olueqpyf5z4iiq7xngqqzq",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "Sullivan's the G.O.A.T. Kentucky State fair. #filmphotography #film #35mm #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreid4ule5k72aqziys6mwmaznnq3vtntl6brnycccoqggp3rbclkaba"
+          ],
+          "indexedAt": "2026-09-12T20:55:45.660Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mvdxn6gqys25",
+          "cid": "bafyreidulvalea6cksqgahn2q6ohlvxim4qoayr6mvnchtri2jen5hfvve",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "American wedding. #filmphotography #film #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreie267ns6n75th37zobxcpfdgfidoewlqpne24ojniwys2r24b4rmu"
+          ],
+          "indexedAt": "2026-09-12T20:54:05.467Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:s2ivm2wlrpflq2foddvjpa64/app.bsky.feed.post/3mvdwwhdtyc25",
+          "cid": "bafyreihi462k6sfyya7evtd5n4xeuoch4accvhfjougdxwnfckvmimez5i",
+          "authorDid": "did:plc:s2ivm2wlrpflq2foddvjpa64",
+          "authorHandle": "heartywhite.bsky.social",
+          "text": "USA road trip. #filmphotography #film #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s2ivm2wlrpflq2foddvjpa64/bafkreieuwbobjhuvujf2lopw34avr5ybckdetlf23i3jttcqz2kiuq3nq4"
+          ],
+          "indexedAt": "2026-09-12T20:41:19.462Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+      "authorHandle": "venenum.bsky.social",
+      "totalCandidates": 19,
+      "avgConfidence": 1.2105263157894737,
+      "sample": [
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mrcirsguis24",
+          "cid": "bafyreigkm3qykb5pua3suic52pmj4kohjpp7lamggtzdimm3sdzm43h6xm",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Hatte im Dezember 2022 die Chemie hier mal gekauft, hat jemand nen Plan, ob ich die noch verwenden kann?\n\n#analogphotography #filmphotography #filmisnotdead #filmdeveloping #FilmProcessing",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreibrhxo2a2eaoch45a6a2qivladz2ztd3z2gykvba76atgdani7e2e"
+          ],
+          "indexedAt": "2026-07-23T09:14:42.965Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mrcccc2ho224",
+          "cid": "bafyreidz675o4jv3ml7s2gvgclyq5grgrgfgfuncf7cgghe222qpuso4je",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Noch fix ein paar Filme entwickeln 🎞📷🧪\n\n#photography #analogphotography #filmisnotdead #keepfilmalive #believeinfilm #DevelopFilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreibxlcdkg7w4gfthezdqnhw7tbrrvnwjnpkmr52zlnmhxvwp54di3u"
+          ],
+          "indexedAt": "2026-07-23T07:19:33.071Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mtde7rri3c2b",
+          "cid": "bafyreihpwhvj5cj4gp2nkrd5dpsugoom7szh77fawefnyxyspfzb6harbq",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreibbay3ge3guhqamxv4urquwufpnu4762r6mlx2n6e3evvuqxqhcua"
+          ],
+          "indexedAt": "2026-08-18T04:17:14.967Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mtb253g5cc2b",
+          "cid": "bafyreieliua5qeti5fbmscsf6rb47pacusdsop6ke6hv3l7vlkyq4in2m4",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreih4rv4rxv55br6bfhmjxkw7n5rzphbxyfv6n7ctt3ovvvgkldhzta"
+          ],
+          "indexedAt": "2026-08-17T06:10:56.366Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mt6n2yrjls2t",
+          "cid": "bafyreidsggq33yavyitevjwjfovvdyvgoao424oiolf2awgmjaijfxy7q4",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreiedp6okd4jzmzwmnqsve3euzipkdjcsadvyyaeqk4eqwcptnm2cre"
+          ],
+          "indexedAt": "2026-08-16T07:12:11.674Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mt3yudokrk2t",
+          "cid": "bafyreihhf4oxik627lrzydl3eyhbldifl4z2upelnx4wxl4krcep5fmvfm",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreihmmk2nkf4pfz5pnvqflvr5by2nkddslycm5cd5ldgvakmo2n7wrq"
+          ],
+          "indexedAt": "2026-08-15T06:05:01.072Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mszep3pssc2t",
+          "cid": "bafyreiclq4uaalh2zqp7meilfqdmdmdnt65h2ocozskwh7eartev6mo37e",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreidrbdx2yjlkc7oogdvnbb5jw3de7lis7jewazeh6ewcd3oiy6arhq"
+          ],
+          "indexedAt": "2026-08-14T04:58:53.764Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mswssrqtmc2t",
+          "cid": "bafyreibgwmyhizlllrllaar43bnhfqko4r6k2jaeltqwkzxbdxulou7x44",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreifae3jlxycgd2uvtqxff2trjatc3hiz5omdo2hl63vxa3rn4sjryy"
+          ],
+          "indexedAt": "2026-08-13T04:32:56.069Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mss3kv35tk2r",
+          "cid": "bafyreibe3cygx7ldcbbibw2ghvygb7cwmeffzwxfszkjgzwkwt4chiy6me",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nFuji Velvia 100\n\n©️by|me\n\n#photography #analogphotography #nature #fuji #velvia100",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreibm6g2matyyinuomgcerf6eenkl6wxcrf6qiax2ixbhy2a3ynccqq"
+          ],
+          "indexedAt": "2026-08-11T07:26:36.265Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mspanugke22k",
+          "cid": "bafyreib4xnlepcal7hmxzvtzc6kj4koxeergr7pbypgp7t5kzaqblluuia",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreiersqlk5wvt7gsck3p3hnspw6wzy5b2qfes423xabiq4ez24vho6u"
+          ],
+          "indexedAt": "2026-08-10T04:19:41.671Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3msn6nweuuk2z",
+          "cid": "bafyreiepulvx2hiaucexqxklrmbenw624uagsntzzws63cn475v3gg4yty",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreibui67a4n7b6xp6kbaqdblajvkeurhysp6wzk27rmb2i2io4szlj4"
+          ],
+          "indexedAt": "2026-08-09T08:38:38.978Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3msf6ovbaqk2c",
+          "cid": "bafyreib63ieqx7hsrlix3i3sct4sqapjplmtcl2zlsonz4xnw7ongleigi",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreihsq4glpp4wccljuh6ofvjhyoou4lo5sitgldootk4mad6dggwjau"
+          ],
+          "indexedAt": "2026-08-06T04:17:53.272Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3mscoaimx7k2y",
+          "cid": "bafyreiccrmjocn77dm2dtqtgqd7p55knqu2qpihjxzeoztk6uqp5jgsoke",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreigffoxesjjsieicncce6toas3hwi7aldb6nkpra7ae6sx5h3tg6ki"
+          ],
+          "indexedAt": "2026-08-05T04:18:11.163Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3msa5m2kbv22o",
+          "cid": "bafyreid4cylsbzrtg6r5hklkhsrap6rw4ugfcdliw6uoubwffvtaperrfi",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreihbloecz7gsi4yvyltxprtzl4dena2ylfmj5ryfjroueapvmfyuuy"
+          ],
+          "indexedAt": "2026-08-04T04:17:06.366Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:qhosrczkwlguukh7kcaa3br3/app.bsky.feed.post/3ms37kjgo3c2s",
+          "cid": "bafyreiabxuynig2drxaapenqsp55jnkb3n6v4weid3d2njk6sjeq35dhxq",
+          "authorDid": "did:plc:qhosrczkwlguukh7kcaa3br3",
+          "authorHandle": "venenum.bsky.social",
+          "text": "Moin ☕🍀🍀☕\n\nAnalog Photography\nRolleiflex 6008\n2,8/80 Planar HFT \nCinestill Daylight 50\n\n©️by|me\n\n#photography #analogphotography #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhosrczkwlguukh7kcaa3br3/bafkreihhkyk4blhlmdsrorxo3t2hpk2qyvcid3vx5pdafrd32c4pvv3p2y"
+          ],
+          "indexedAt": "2026-08-02T05:10:33.875Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:efidcjlqy4qp3hxk3rrorkzd",
+      "authorHandle": "nikonwalt.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 4,
+      "sample": [
+        {
+          "uri": "at://did:plc:efidcjlqy4qp3hxk3rrorkzd/app.bsky.feed.post/3mumiafmqsk2q",
+          "cid": "bafyreiesrgkmubcbqp2frqake6l54dbmkah3sytooxnuo6cnepede4nozu",
+          "authorDid": "did:plc:efidcjlqy4qp3hxk3rrorkzd",
+          "authorHandle": "nikonwalt.bsky.social",
+          "text": "Havana, Cuba\nJanuary 2026\n#eastcoastkin #PhotographersOfBluesky #BlueskyPhotographers #ArtistsOfBlueSky #35mm #analogcamera #analogphotography #believeinfilm #buyfilm #classicfilm #film #filmcamera #filmisnotdead #filmphoto #filmphotographer #grainisgood #photohour #staybrokeshootfilm #vintagecamera",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efidcjlqy4qp3hxk3rrorkzd/bafkreidxrxua3umsk2ymjdteidvbecxzg3q4ismxikjpzdve5dlzugvhk4"
+          ],
+          "indexedAt": "2026-09-03T12:47:11.612Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:efidcjlqy4qp3hxk3rrorkzd/app.bsky.feed.post/3memdge6cgc2y",
+          "cid": "bafyreibtkc2d3hrsth2icg2dblvi3r4sbwjb4z7e5wez7fbds3urb6ssey",
+          "authorDid": "did:plc:efidcjlqy4qp3hxk3rrorkzd",
+          "authorHandle": "nikonwalt.bsky.social",
+          "text": "Alexandra\n#eastcoastkin #PhotographersOfBluesky #BlueskyPhotographers #ArtistsOfBlueSky #35mm #analogphotography #believeinfilm #buyfilm #classic #film #filmcamera #filmcommunity #filmisnotdead #filmphoto #filmphotographer #grainisgood #photohour #staybrokeshootfilm #vintagecamera #fuji #fujicolor",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efidcjlqy4qp3hxk3rrorkzd/bafkreigz5emwgvimvda2trr35i5pwdn5sw53q27qpa7vxgpcloskgxlcfm"
+          ],
+          "indexedAt": "2026-02-11T20:37:58.654Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:efidcjlqy4qp3hxk3rrorkzd/app.bsky.feed.post/3mb5ffcwoic26",
+          "cid": "bafyreics7o3ebj26gcufelqbw7a2gqigysp3iljuirofqjzmwow4t26gxu",
+          "authorDid": "did:plc:efidcjlqy4qp3hxk3rrorkzd",
+          "authorHandle": "nikonwalt.bsky.social",
+          "text": "playing around in the darkroom, managed to achieve a partial sabattier effect image \n#eastcoastkin #PhotographersOfBluesky #BlueskyPhotographers #ArtistsOfBlueSky #35mm #analogcamera #analogphotography #believeinfilm #buyfilm #classicfilm #film #filmcamera #filmcommunity #filmisnotdead #filmphoto",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efidcjlqy4qp3hxk3rrorkzd/bafkreihfb7dljkciyu36vp65h3txclspkfldp7f7unth2clrssbqxiub5q"
+          ],
+          "indexedAt": "2025-12-29T17:47:41.229Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:efidcjlqy4qp3hxk3rrorkzd/app.bsky.feed.post/3ljplwzdjns2g",
+          "cid": "bafyreifc3tjiukituqzsxnify253pm6jkyus2ru6nyyadseq5bk5tjbnie",
+          "authorDid": "did:plc:efidcjlqy4qp3hxk3rrorkzd",
+          "authorHandle": "nikonwalt.bsky.social",
+          "text": "and there will be dancing in the streets\nSantiago de Cuba\nNikon N90, Kodacolor 200 film, 24-85mm f/2.8D Nikkor \n#analog #analogcamera #analogforever #analogphotography #believeinfilm #film #filmcamera #filmfeed #filmforever #filmisalive #filmisnotdead #filmphoto #filmphotography #grainisgood",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efidcjlqy4qp3hxk3rrorkzd/bafkreicnyz4xs44ar5x3oqe7sj3uo4xvzsxczbfopxehopswl6eiop6xty"
+          ],
+          "indexedAt": "2025-03-06T13:28:09.549Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 4,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+      "authorHandle": "spacekop.bsky.social",
+      "totalCandidates": 10,
+      "avgConfidence": 1.5,
+      "sample": [
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3mhjd5z5rfk2d",
+          "cid": "bafyreifdnpl7sjtg77llle6axtqmrwibpokoun4txqzp55wficyoqpd4ai",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Trying a new film. Delta 3200. The first one is insane...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiezmnfw7vvgsb6s43sb4qkqwxzbdd7n43d2up25ofkvvebisg4i5e",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreianjntwl6idwajlpznz7v7zvwgccgp4r5uc5voro3tbcr5khfc7ra",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreibunb6swrzfnevrephsbltmnlgi4b6hi35ujmfsyksicdeuq7ztgq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiewupwujqjyy52hts7c2ub7kqc5o6bsohbdafpxzi22zyyxez43za"
+          ],
+          "indexedAt": "2026-03-20T20:10:56.952Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Delta 3200",
+              "category": "filmStock",
+              "matchedText": "Delta 3200"
+            },
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3m4ylkyqjf22o",
+          "cid": "bafyreigt6xydjtdz5qpz36qr3ip4txaoldazdt6x72qg7dd6x4cirvevm4",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "I was up in Northern VA recently and needed to finish off a roll of Cinestill 800T",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiadh5y4oo76z2q4bxbysy6igy5g5onbic2spfkjx5omlix24oorbi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreihkzt2oukhvprllgk7g5xlrconavypaxt5phz72xb75lbu7ad77aa",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiaiu67jb7m3fpt2jylsmcnvpubhp7dv4mfowfmtw4wz3kqopzzlga",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiaayf5tsgnfue3abkxix7d7eko5nxokzl7jdynlrypu4p7hcc7nsm"
+          ],
+          "indexedAt": "2025-11-06T22:14:07.270Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:CineStill 800T",
+              "category": "filmStock",
+              "matchedText": "Cinestill 800T"
+            },
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3m3ne7myy5c2b",
+          "cid": "bafyreic6gbitzcrhepidsosennqbqmijx7awahkiagmdrcx5oigrwuvpcm",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "4th of July fireworks on Cinestill 800T #film #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreicyizvhkwoduayzpfm5jv6zoresknoy3fgs7qbsldqta5hkgywqqi"
+          ],
+          "indexedAt": "2025-10-20T17:38:06.359Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:CineStill 800T",
+              "category": "filmStock",
+              "matchedText": "Cinestill 800T"
+            },
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3m3my5onkjc23",
+          "cid": "bafyreiau5ye2cgcibdo5gdkduohj3byroxbfbk3rxq3ivaopzibrgh5dru",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Crepuscular Rays on Velvia 50 #film #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreicm3don7ozp254u3izuyvd3e5rvktwn33tmtbsvcy3xhfppwtgyyy"
+          ],
+          "indexedAt": "2025-10-20T14:02:14.057Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Velvia 50",
+              "category": "filmStock",
+              "matchedText": "Velvia 50"
+            },
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3lv5tj7mstk2a",
+          "cid": "bafyreieuwevf6tc5n6xtr5evruqx6vxkp2ppxnl6z5ehlfovvlvd4owt6m",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Fireworks on Cinestill 800T at 500mm #film\n\nI'm working on getting a better scanning setup for my medium format stuff. These images don't do it justice.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreib7xcovb4wssgkthl6oesfiwf3vninixgqh3f22zfrtwp72i6wyge",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreid46xfpzg6s2c3ejcq6hhtkh5pguxcmy3a74kes54eszfhtykg7zu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiez4p54mbgafpkw5jqorkeeui6ihniqwu53vv4zkhscjje4ysdcau"
+          ],
+          "indexedAt": "2025-07-30T04:58:05.717Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:CineStill 800T",
+              "category": "filmStock",
+              "matchedText": "Cinestill 800T"
+            },
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3msyz4mqft22a",
+          "cid": "bafyreid27cqnvclqmcxze5en7qbvbntgn5ky6iuuc5vtu67vlggzv3t6t4",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Velvia made the shitass weather on this day look pretty sick",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreihfkojlatpgjhmsww2dxudpc4egwzwwfhumyq4tepeag7tytqeg34",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiamxwutgmy5xpyki6gwmldptxlm24tku5sejujpgn6ooteyxg7fia",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreif6spsz54yatd7tejxxbi6dlctu7kj4qhufbw257q2trpqm5se7wa",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiahpnwwukxxjyzx2nogqgcbct5h7ard4ibqcsysw2gl4okty7kzm4"
+          ],
+          "indexedAt": "2026-08-14T01:31:09.263Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3mqveslnlz226",
+          "cid": "bafyreidgv6n6zynx2hnlnnth7kgevgnju4ghobacp6ohakft3qquzc3zua",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "On the left taken about a year ago (on film, Ektar). Today on the right (digital). About the same time of day and time of year.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreidtdaetel4soywsn6vveqqjasfggamis2tnrlcjne35ehjxt3g6ii",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreihixvv6gwxvwe44dljgom27pa5nazrfabu64xr7kxzfra2qrlkehu"
+          ],
+          "indexedAt": "2026-07-18T03:59:03.974Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3mcnmmbs35c2v",
+          "cid": "bafyreiagkxwzuvn34rup3wgcg7marxa76puw24fgwswz5v6sszk6dpjepe",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Tried something new. 800T shot at 1000 and pushed 1 stop.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreihc5t57lfawq7xfk3z6nsz6k377bc3ihqyhrukogetq42ph3c7pq4",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreifziqz4v3wrsk4qslq6knp7clvxffde2zbinwpcw7xpqe36cznufa"
+          ],
+          "indexedAt": "2026-01-17T22:04:40.030Z",
+          "matches": [
+            {
+              "keywordId": "process:push-pull",
+              "category": "process",
+              "matchedText": "pushed ... 1 stop"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3mbc3xbmua225",
+          "cid": "bafyreib7nxzjpllvgljmfriemn47h2rn27l3fsavkmg2n6x3hnt2277si4",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "Autumn color on Ektar\n\n#photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreidvzvl7txsi4wkcmd22lyasqeczhfawwrzt7mgfbxc4gfnrcbucfa",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreie2f6s3krxhxikbl72r5wigxn5gqpqkujdu6spvvrvr4o24wxzwv4"
+          ],
+          "indexedAt": "2025-12-31T14:42:06.534Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wu6nqzcxbe2dgdue26c563xn/app.bsky.feed.post/3m4ym37yeg22o",
+          "cid": "bafyreib2kyw2l3rbslvc2kprgz6rrt6fv73bhpvuf5dtgl3q5kjz54dfge",
+          "authorDid": "did:plc:wu6nqzcxbe2dgdue26c563xn",
+          "authorHandle": "spacekop.bsky.social",
+          "text": "First try at concert (film) photography at Black Violin. Not great... these are the two best. Cinestill again doing its thing with the wild red halation.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiabr4ynw2izgnv3jctwqyzlk2xmvtvvki62hy4dr2su7pj5u2emxi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wu6nqzcxbe2dgdue26c563xn/bafkreiewefztv2odsupqfx5vouxg3pl3x3ko6sbyan6pj2uwlde7vw7a7i"
+          ],
+          "indexedAt": "2025-11-06T22:23:10.869Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "Cinestill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:x7g3z2pefypj7ey7shf7iemb",
+      "authorHandle": "unctions.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3.5,
+      "sample": [
+        {
+          "uri": "at://did:plc:x7g3z2pefypj7ey7shf7iemb/app.bsky.feed.post/3mtoqc5kolk2j",
+          "cid": "bafyreia4oidu5qdlhopf76r2nmwi2d5yuyt3aqf2zmjrjsoo2gyrvyel2m",
+          "authorDid": "did:plc:x7g3z2pefypj7ey7shf7iemb",
+          "authorHandle": "unctions.bsky.social",
+          "text": "feeling pretty pleased with my first batch of home-developed 120. family vacation, mono lake state nature preserve. \n\n📷: fujica gs645 pro\n🎞️: kodak tri-x 400\n\n#filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreig5asnf2spjyfkukc6pe6axkzzueemcdudecx346qievefqapijdu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreihvf7zgck6z3whisj4d3u7ka6saj2lbbou46iis6qhjjgjtbr4q4u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreic55gbyi7afldlayzyrhelnva3d5g3pxapmmk2rtiv34z3th4o3hi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreifkwjigzfub5qbsoswu25q2fduz25os7bfyivptlzjni3anql4eem"
+          ],
+          "indexedAt": "2026-08-22T16:52:37.776Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Tri-X 400",
+              "category": "filmStock",
+              "matchedText": "tri-x 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "tri-x"
+            }
+          ],
+          "confidence": 5,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:x7g3z2pefypj7ey7shf7iemb/app.bsky.feed.post/3muaig6v2c22e",
+          "cid": "bafyreigy4lox6espmlxhxqll3uatamzpm2js3oaux4a5ssd3lid6ys26we",
+          "authorDid": "did:plc:x7g3z2pefypj7ey7shf7iemb",
+          "authorHandle": "unctions.bsky.social",
+          "text": "ran a test roll of hp5+ through a minolta hi-matic 7sii i found. very relieved that everything is in working order! fiddling with an nd filter to make the most out of its limited shutter speeds.\n\n#filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreiewm7f73p4ko5oc3tdchiprth4gud7wha2fajz3jt2nimy4ogxv7a",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreihxqi5vo5bw5myjnxaqtxjfwb3oudwrw5drpzi5eril3yhb5jl6ci",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreidg4eqrhedgz66yw22zcydjohzrztxhvpwgoeuyeqqwdeex32c2ua",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreigfvy3jl3ipjhdfsozvzdtnn4alk744d746h2y24omg6nqzlyo4ni"
+          ],
+          "indexedAt": "2026-08-29T18:18:37.865Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock-alias:HP5",
+              "category": "filmStock",
+              "matchedText": "hp5"
+            }
+          ],
+          "confidence": 4,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:x7g3z2pefypj7ey7shf7iemb/app.bsky.feed.post/3mujyd6rtkk2t",
+          "cid": "bafyreifrm7wuzx67ue6hbj3fpejh5khk5njlcnlxjhs4fm4zyltlpka4rm",
+          "authorDid": "did:plc:x7g3z2pefypj7ey7shf7iemb",
+          "authorHandle": "unctions.bsky.social",
+          "text": "tried out that \"new\" 110 slide film from reflx and it worked out rather well! got a bunch of light leaks towards the end for it and their respooled lucky film, but i think it definitely added to the shot for the better.\n\n#filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreictlhxjuwvc7but2n6btz5xb2pz2tfueleb3vjundvzztp6pepgjy",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreifroqr23wqz5sjlmixcmyytivsfqg7hmbod33mgvuexxra53oyovy",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreig5duuwdjr5kg3un66lsr7t6cqc5b3wllxto5m7hicyzuxn4v4cte"
+          ],
+          "indexedAt": "2026-09-02T12:57:05.323Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:x7g3z2pefypj7ey7shf7iemb/app.bsky.feed.post/3mpaldyq7q22n",
+          "cid": "bafyreieqwsdxjx7kpavwv5zfky6mptmd7l3wxta53m3barkdvfydaogywe",
+          "authorDid": "did:plc:x7g3z2pefypj7ey7shf7iemb",
+          "authorHandle": "unctions.bsky.social",
+          "text": "i don't \"miss\" work (hs teacher), but i did get nostalgic for the days i would wander around on my lunch breaks taking pictures of clouds. (fuji work record op, kodak portra 400)",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreiczlnhsxfymxfltop4elyig7a2rx3nrpvqjp4tzrboe7bzyabudzi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreieviviivrv54lycvz7sa4cc6epzhgmvnxeekz6dkndigzflc5wlsm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x7g3z2pefypj7ey7shf7iemb/bafkreibgh225nej7vqap2j6avmgckda4vzul2wdbelvbj2t7i7s3gxrscm"
+          ],
+          "indexedAt": "2026-06-27T04:06:27.460Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Portra 400",
+              "category": "filmStock",
+              "matchedText": "portra 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Portra",
+              "category": "filmStock",
+              "matchedText": "portra"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:eqq563xdskld77cuyeefinrr",
+      "authorHandle": "adabo.pixelfed.social.ap.brid.gy",
+      "totalCandidates": 4,
+      "avgConfidence": 3.5,
+      "sample": [
+        {
+          "uri": "at://did:plc:eqq563xdskld77cuyeefinrr/app.bsky.feed.post/3mstax6ltrty2",
+          "cid": "bafyreifzakgndyslqfbi2n2l7zroy2vllyrfbxkoa3zhnlb6myttzhilh4",
+          "authorDid": "did:plc:eqq563xdskld77cuyeefinrr",
+          "authorHandle": "adabo.pixelfed.social.ap.brid.gy",
+          "text": "Taufhaus neben der Kirche von Trebbio\n\nKamera: Pentacon Six TL\nFilm: Kodak Ektar 100\n\n#italien #filmphotography #photography #kodak #kodakektar100 #pentaconsix #taufhaus",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqq563xdskld77cuyeefinrr/bafkreicds3gqonx2aevn7fi62yksv6qo3aedevq5wwcmrvf55rhku57gle"
+          ],
+          "indexedAt": "2026-08-11T18:35:00.964Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Ektar 100",
+              "category": "filmStock",
+              "matchedText": "Ektar 100"
+            },
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 5,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:eqq563xdskld77cuyeefinrr/app.bsky.feed.post/3mumcdwovnkv2",
+          "cid": "bafyreib2cgqtnnm5uxcwiite5uqueq42yusssgc7lykpi24rj7cmtv23hm",
+          "authorDid": "did:plc:eqq563xdskld77cuyeefinrr",
+          "authorHandle": "adabo.pixelfed.social.ap.brid.gy",
+          "text": "Ich bin schon voller Vorfreude auf Samstag. Es wird wieder ein Fest für die analoge Fotografie. Besucht mich gern an meinem Stand zum quatschen, austauschen und Spaß haben. Bis dahin :)\n\n#fotografie #analog #ishootfilm #filmphotography #koeln #analogartaffair26",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqq563xdskld77cuyeefinrr/bafkreifvsswaz7xmobhczvejvit4ot25obuvxvukjxxfyjf4ppolks5xxu"
+          ],
+          "indexedAt": "2026-09-03T11:06:57.807Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:eqq563xdskld77cuyeefinrr/app.bsky.feed.post/3msy4ycybafz2",
+          "cid": "bafyreidndrglkjfveamntdywpzghcoid6em3rk7jzrw2z6fqcdbr3dwg4e",
+          "authorDid": "did:plc:eqq563xdskld77cuyeefinrr",
+          "authorHandle": "adabo.pixelfed.social.ap.brid.gy",
+          "text": "An der Mulde\n\nKamera: Pentacon Six TL\nFilm: Harman Phoenix II 200\n\n#mulde #laußig #filmphotography #photography #harman #harmanphoenixII200 #pentaconsix",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqq563xdskld77cuyeefinrr/bafkreialbjlx2bo3vbqrnauh7jzadgk2zfrxvz73elktew3skal5evjia4"
+          ],
+          "indexedAt": "2026-08-13T17:07:31.182Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:eqq563xdskld77cuyeefinrr/app.bsky.feed.post/3msnpzvsmiw52",
+          "cid": "bafyreic3lbcj5g7yvcexxsob22ptzu2mo6rjnmiivcuzotl45sjkn7eaqe",
+          "authorDid": "did:plc:eqq563xdskld77cuyeefinrr",
+          "authorHandle": "adabo.pixelfed.social.ap.brid.gy",
+          "text": "Palmen auf dem Dach\n\nFilm: Kodak Vision3 250D\nKamera: Pentax ME\n\n#verona #italien #filmphotography #photography #analogphotography #ishootfilm #kodak #kodakvision3250d #pentax #pentax_me",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqq563xdskld77cuyeefinrr/bafkreibkb5fwdlbsfixw6zxoaixzwyhrvs4fvqoo7xviabkij6smtdpm2e"
+          ],
+          "indexedAt": "2026-08-09T13:49:05.380Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:yguhkharn3uogfmd3z2nbo6r",
+      "authorHandle": "lordfuckpuppy.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:yguhkharn3uogfmd3z2nbo6r/app.bsky.feed.post/3mv5zhd2mls2g",
+          "cid": "bafyreihdrolzeq2vzvpxxqsc4oqvpseng4lxiikjd22raflkkktnj43dpm",
+          "authorDid": "did:plc:yguhkharn3uogfmd3z2nbo6r",
+          "authorHandle": "lordfuckpuppy.social",
+          "text": "Stony Beach | Ilford Ortho 80 | Pentax LX\n\n#art #photography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreie4bjla23zcrbhrg6ymwysfgvnshgzmtj245qghdqh5tzrgn4j6bm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreidotuiagydmn2nng6m24uvgsh2npq4sijdmt6fgs52fvcvipfkwde",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreigsjhbozxj63vzfrxcinqfibyrpptxq5c5opju77v3u6b4bv3z6hi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreihbs4x26fw46t6iqktbkqvboadrc2f52a6ymzibf7tk43zv7rrxuu"
+          ],
+          "indexedAt": "2026-09-10T12:10:30.458Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:yguhkharn3uogfmd3z2nbo6r/app.bsky.feed.post/3mstuxcgmfk25",
+          "cid": "bafyreiac7hb3kw74sk26wp4kqbwebe7a4mpiduu5g5upntmldzuxlrgvl4",
+          "authorDid": "did:plc:yguhkharn3uogfmd3z2nbo6r",
+          "authorHandle": "lordfuckpuppy.social",
+          "text": "Ilford FP4 | Pentax LX\n\n#art #photography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreie4jw4ojjwdxta3oqvileqrrvkl4eehzbwwqikkl77gsgbxwz3xiy"
+          ],
+          "indexedAt": "2026-08-12T00:32:57.966Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:yguhkharn3uogfmd3z2nbo6r/app.bsky.feed.post/3msivdccmdk2h",
+          "cid": "bafyreidzkjcyf4d3hbajjzmvisr3ihy7x772ygoa4pxztcxsip2yb3vneq",
+          "authorDid": "did:plc:yguhkharn3uogfmd3z2nbo6r",
+          "authorHandle": "lordfuckpuppy.social",
+          "text": "Sunny on Kodak Gold!!\n\n#art #photography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreigocav52hrpb7qwszhc4y2wn46mmvdqv2j356ir275gb5ha73hxoi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreicwvlqdhshbz766v3o3yqqcd46c6hl2o4zaw3tfymxw26o7xrffwa"
+          ],
+          "indexedAt": "2026-08-07T15:40:23.265Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:yguhkharn3uogfmd3z2nbo6r/app.bsky.feed.post/3msgcgehhkk2z",
+          "cid": "bafyreie4nakowsnapft4q77ermpk5rt2myuzyvlh576jnmkwq3ig54jx7e",
+          "authorDid": "did:plc:yguhkharn3uogfmd3z2nbo6r",
+          "authorHandle": "lordfuckpuppy.social",
+          "text": "Congregation\n\n| Manchester 2025 | Ilford FP4 | Pentax LX. |\n\n#art #photography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yguhkharn3uogfmd3z2nbo6r/bafkreia274s6kugwnvmmsbjjmppp4pru6l55vpyiqhqgq3zwsgh2mkh4ja"
+          ],
+          "indexedAt": "2026-08-06T14:56:45.876Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:wlyenfka7jpgbsxpowrdlghu",
+      "authorHandle": "irnka.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:wlyenfka7jpgbsxpowrdlghu/app.bsky.feed.post/3mv6ddc2gsc2x",
+          "cid": "bafyreid7kkcqcfjyh6ks3to5sxjyvqhygewm7mrkjs6fnruy3zunqk7flm",
+          "authorDid": "did:plc:wlyenfka7jpgbsxpowrdlghu",
+          "authorHandle": "irnka.bsky.social",
+          "text": "Касова гора\n\n#35mm_film #35mm_photo",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreibi2ktgf4vkqbcqwzx4t6fcl4uoutbty5vbobj6sr43rwrf5dsqlu"
+          ],
+          "indexedAt": "2026-09-10T15:07:14.066Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wlyenfka7jpgbsxpowrdlghu/app.bsky.feed.post/3mu3ab2rltk2f",
+          "cid": "bafyreigpqvgpxhng3egslumd3onssphybqv3byykolrwb554b4xpowzpiq",
+          "authorDid": "did:plc:wlyenfka7jpgbsxpowrdlghu",
+          "authorHandle": "irnka.bsky.social",
+          "text": "Київ просто неймовірний на плівочку #35mm_film\n#35mm_photo",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreidwk7k6xv566gvn5y5mh6qo2opoptvnp6cxbipjezdadec7spsrne",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreid4l2tqtfjd37xqd6hyeefo6lxcwtwnid7dqvgrdx7lzegl3hagfm"
+          ],
+          "indexedAt": "2026-08-27T16:09:42.568Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wlyenfka7jpgbsxpowrdlghu/app.bsky.feed.post/3mrn3e36hic2m",
+          "cid": "bafyreia32vkbmo6kqxiaeelljnd3rbvjvu25h2sbrg6z7hm5nxkrutmwr4",
+          "authorDid": "did:plc:wlyenfka7jpgbsxpowrdlghu",
+          "authorHandle": "irnka.bsky.social",
+          "text": "Албанія \n\n#35mm_photo #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreih6imbq5dzq3ygkgolzzrti4kha2qqyozh37pztjmt4v7bprarhfe",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreifvqon66v6fv7cobm4mpjvu745ihaeivqjgfdleway3dhc7vl34gm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreibpfneetlinrcpdqdgamzjekzerekp7azvkbpl532nq7fabtapt4y",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreidvss6dappwiz2ea2yunnlxovgkru5falhueuy2bxvn6wtkh4xnuq"
+          ],
+          "indexedAt": "2026-07-27T14:13:44.668Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:wlyenfka7jpgbsxpowrdlghu/app.bsky.feed.post/3mrn2lhmtdk2f",
+          "cid": "bafyreieljmk4jpaobpwyq4k5qpp3nfxb3ikfutgxftdetufrh7kkoeaitm",
+          "authorDid": "did:plc:wlyenfka7jpgbsxpowrdlghu",
+          "authorHandle": "irnka.bsky.social",
+          "text": "Вітер тихо колихав білизну...\n\n#35mm_photo",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlyenfka7jpgbsxpowrdlghu/bafkreifyg2abefgyhc7362hst7bqjrsljeegvt73skjo4wehyel755ehca"
+          ],
+          "indexedAt": "2026-07-27T14:00:20.865Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:vidqrkkw7grtwatgtl65v4j6",
+      "authorHandle": "wbsmith200.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:vidqrkkw7grtwatgtl65v4j6/app.bsky.feed.post/3lgvqocnkns22",
+          "cid": "bafyreie5ls6yprifqiz3i5yfdtq7fmsjuztrkkpe2wwyouzq6kpujrzclq",
+          "authorDid": "did:plc:vidqrkkw7grtwatgtl65v4j6",
+          "authorHandle": "wbsmith200.bsky.social",
+          "text": "Out for an afternoon walk around the neighbourhood and shooting with my Olympus OM-1md with the Zuiko MC 35-70 F3.6 Zoom lens #classiccamerarevival #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vidqrkkw7grtwatgtl65v4j6/bafkreid5kwnlbvrzkddpjhn7fuc3hnt64pe2qutvjx2t42wi3jm4zbajsa"
+          ],
+          "indexedAt": "2025-01-29T19:53:11.253Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:vidqrkkw7grtwatgtl65v4j6/app.bsky.feed.post/3lgdpph3xcs2s",
+          "cid": "bafyreih3a6z3bkv4adjzjgkv7jl3vuwhpckt2yxpy4obyktmmhcugbrdli",
+          "authorDid": "did:plc:vidqrkkw7grtwatgtl65v4j6",
+          "authorHandle": "wbsmith200.bsky.social",
+          "text": "Crossing Mount Pleasant at Broadway, Toronto, Jan 2025\nCamera: Leica M6 Classic, Light Lens Lab 8 Element 35 F2 lens. Film: Kodak Tri-X 400, Ilfotec HC 1+31. #classiccamerarevival #torontofilmphotography #leicafilmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vidqrkkw7grtwatgtl65v4j6/bafkreie66iwbq2r6iiig6xox4jj3ik6ekfr3jy6ocqaja36lgndcuazxgu"
+          ],
+          "indexedAt": "2025-01-22T15:48:01.849Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Tri-X 400",
+              "category": "filmStock",
+              "matchedText": "Tri-X 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "Tri-X"
+            },
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:vidqrkkw7grtwatgtl65v4j6/app.bsky.feed.post/3lb3cy35wec2l",
+          "cid": "bafyreia6xnfxt3er7ry6cvk6o3ztaanwkgiocgpamtq5mpg5lz25od3pm4",
+          "authorDid": "did:plc:vidqrkkw7grtwatgtl65v4j6",
+          "authorHandle": "wbsmith200.bsky.social",
+          "text": "Out with my Leica M4-2 and some Light Lens Lab glass in Niagara on the Lake this weekend. #leicam42 #classiccamerarevival #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vidqrkkw7grtwatgtl65v4j6/bafkreicfem3sqmwyxpz4w3i5nzohtdmcppe2mo5v7c23onwabcf3qw4odi"
+          ],
+          "indexedAt": "2024-11-16T16:32:58.179Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:vidqrkkw7grtwatgtl65v4j6/app.bsky.feed.post/3laz5hafiuc2q",
+          "cid": "bafyreiduzopgee5li3ou5wjp5734rejvz7sdavf46zyiv6lcj5zlglhfb4",
+          "authorDid": "did:plc:vidqrkkw7grtwatgtl65v4j6",
+          "authorHandle": "wbsmith200.bsky.social",
+          "text": "My happy place in Northern Muskoka \nCamera: Nikon F100, Nikon AF-D 28-105 F3.5-4.5 Zoom Lens. \nFilm: Eastman Kodak Vision 250D, ECN 2 processed by Graination in Toronto #filmphotography #classiccamerarevival #staybrokeshootfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vidqrkkw7grtwatgtl65v4j6/bafkreicbr5zy4dzdc6t5fsfe5wgehhxtlsytqtvfqahwo5educbn564xeu"
+          ],
+          "indexedAt": "2024-11-15T19:49:02.635Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cuigllsibqsbmcwxcwu3jtj6",
+      "authorHandle": "michael-jp.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:cuigllsibqsbmcwxcwu3jtj6/app.bsky.feed.post/3mutule3amc2h",
+          "cid": "bafyreidvdinej7lohkys6ajlgutq3ovlnytoyzg5ohxytymshzuuvyzqka",
+          "authorDid": "did:plc:cuigllsibqsbmcwxcwu3jtj6",
+          "authorHandle": "michael-jp.bsky.social",
+          "text": "Suburban skies\n\nOlympus pen-ee \nLomochrome Classicolor\n\n#filmphotography #half-frame",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cuigllsibqsbmcwxcwu3jtj6/bafkreifqmd6wg4rrwkimv2256qty4bkcrktdaifdt6kzgw3gvey3u2k5pm"
+          ],
+          "indexedAt": "2026-09-06T11:16:44.660Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cuigllsibqsbmcwxcwu3jtj6/app.bsky.feed.post/3mutuku36uk2h",
+          "cid": "bafyreicnx375qtxacfqjq7t5yoslagifd77yfvvgyqx6txf43hmf3ud4km",
+          "authorDid": "did:plc:cuigllsibqsbmcwxcwu3jtj6",
+          "authorHandle": "michael-jp.bsky.social",
+          "text": "Cold drinks / for you\n\nOlympus Pen-EE\nLomochrome Classicolor \n\n#filmphotography #halfframe",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cuigllsibqsbmcwxcwu3jtj6/bafkreiep6byojb2nsqlgulryyeudeger5ab5lgyyi55tn7pibypkwou3ea"
+          ],
+          "indexedAt": "2026-09-06T11:16:27.965Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cuigllsibqsbmcwxcwu3jtj6/app.bsky.feed.post/3muoj6eurjk2r",
+          "cid": "bafyreiezvyofqfj2k3i642rva7svm4k2fn62kocqiestrjoahomlw4pgfq",
+          "authorDid": "did:plc:cuigllsibqsbmcwxcwu3jtj6",
+          "authorHandle": "michael-jp.bsky.social",
+          "text": "end of the world \n\nHolga 120GN\nKentmere Pan 400\n\n#filmphotography #120 #mediumformat #holga",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cuigllsibqsbmcwxcwu3jtj6/bafkreibr64ppllwfp2ewrkjcny7vxtu4nytkzkl7aclovfwletvuwu3tfu"
+          ],
+          "indexedAt": "2026-09-04T08:09:18.159Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cuigllsibqsbmcwxcwu3jtj6/app.bsky.feed.post/3mum72chwas25",
+          "cid": "bafyreihkmlvuqaagcov26gzsr77fyq74p3lelz3uaowhnvh7pmio3w6gmu",
+          "authorDid": "did:plc:cuigllsibqsbmcwxcwu3jtj6",
+          "authorHandle": "michael-jp.bsky.social",
+          "text": "Poolside light leak\n\nHolga 120GN\ndubblefilm Pacific \n\n#filmphotography #120 #mediumformat",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cuigllsibqsbmcwxcwu3jtj6/bafkreia6qejxq5vp2rtcq3gnczky43tqzj2mlgxbs2rwurrcp3licxjdli"
+          ],
+          "indexedAt": "2026-09-03T10:02:45.003Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:37rnr242zoxwrvy3drbix6nb",
+      "authorHandle": "bouncing-canard.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:37rnr242zoxwrvy3drbix6nb/app.bsky.feed.post/3lzvz2stw2222",
+          "cid": "bafyreigjv7c6fqw6vikw5tlo53ykabudzqhonulwwjzgvhouvtr5ahw2pi",
+          "authorDid": "did:plc:37rnr242zoxwrvy3drbix6nb",
+          "authorHandle": "bouncing-canard.bsky.social",
+          "text": "Here are two more contact sheets scanned poorly and inverted in GIMP. I have ordered a grow tent to use as a darkroom, and I am hopeful I can get much better results. \n\n#photography #analogphotography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreibbxhaivdc5v5ku2co7ptol6idhx4cucf62wmqfwpjq2yx3dmmu2a",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreid7amyysxemim4q7oufm7buktjseta2hdofwmv72yq2cm3aln2sku"
+          ],
+          "indexedAt": "2025-09-28T17:22:13.358Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:37rnr242zoxwrvy3drbix6nb/app.bsky.feed.post/3lwmpdoe7fk2j",
+          "cid": "bafyreibld7prr2b2262rvyjzgjuezybtqy4toife3r5yjwrhh53guuyufe",
+          "authorDid": "did:plc:37rnr242zoxwrvy3drbix6nb",
+          "authorHandle": "bouncing-canard.bsky.social",
+          "text": "Contact sheet of film from John Craddock wetland. I simply scanned these on a flatbed. Now I just need the motivation to put my darkroom back together and kick out some prints. \n\n#photography #analogphotography #blackandwhite #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreibdsxl3qnz6gzesdbahph627nx4gweh3lqlhebuqxpophrv6ivs2q"
+          ],
+          "indexedAt": "2025-08-17T20:18:30.309Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:37rnr242zoxwrvy3drbix6nb/app.bsky.feed.post/3lwcq4cxhfs2u",
+          "cid": "bafyreicvemeehtlh67yi6pk2vjp5g7a3y4rwd75bj7cpvn7o2tsj3fdzzq",
+          "authorDid": "did:plc:37rnr242zoxwrvy3drbix6nb",
+          "authorHandle": "bouncing-canard.bsky.social",
+          "text": "I have two rolls of BW to develop. Until then, enjoy some more of the LomoChrome Purple. \n\n#photography #analogphotography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreicfufrvnl3vcjrhykom6amcxceyfibkejijgiz7cly3ldvtvf7aiu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreig2lvoso5uld3do5hqtgxito3vpd7c7i6k345l6r7frise67eszdu"
+          ],
+          "indexedAt": "2025-08-13T21:05:40.305Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:37rnr242zoxwrvy3drbix6nb/app.bsky.feed.post/3lvolbxqyls2u",
+          "cid": "bafyreihvl4gfq6qjqskop4t42d7qjrz3ruhqk5jgef2qx2ov5hzc3r67ye",
+          "authorDid": "did:plc:37rnr242zoxwrvy3drbix6nb",
+          "authorHandle": "bouncing-canard.bsky.social",
+          "text": "Shafer Tower along McKinley avenue on Ball State University's campus. \nTaken on 4x5 ortho film with Crown Graphic\n\n#photography #analogphotography #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:37rnr242zoxwrvy3drbix6nb/bafkreicylnlfw3x7uj5temxl6b3iz6qmcmdym4iovkerph44pzh6jdirma"
+          ],
+          "indexedAt": "2025-08-05T20:46:06.308Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cxt7lz7i6wju5kvfihvgj5su",
+      "authorHandle": "lalatrans.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 6,
+      "sample": [
+        {
+          "uri": "at://did:plc:cxt7lz7i6wju5kvfihvgj5su/app.bsky.feed.post/3mv6qpg7ipk2z",
+          "cid": "bafyreidjnjz7hbftyzyhsb6duz45danh2k5trqkg5hfcesj4raw72jomf4",
+          "authorDid": "did:plc:cxt7lz7i6wju5kvfihvgj5su",
+          "authorHandle": "lalatrans.bsky.social",
+          "text": "Bukówka Lake (actually a retention reservoir), felt like I was here long time ago, with crowbar and a hazard suit\n\nYashica Mat 124G\nFomapan 200\n\n#FilmPhotography #Photography #BelieveInFilm #FilmIsNotDead #35mm #BlackAndWhitePhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxt7lz7i6wju5kvfihvgj5su/bafkreifbukyimslujhy3odeb5xmo5xacvjaraj556zck4ybbzshdtua63y"
+          ],
+          "indexedAt": "2026-09-10T19:06:46.971Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            },
+            {
+              "keywordId": "filmStock-alias:Fomapan",
+              "category": "filmStock",
+              "matchedText": "Fomapan"
+            }
+          ],
+          "confidence": 6,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:cxt7lz7i6wju5kvfihvgj5su/app.bsky.feed.post/3mv6qiuts3k2z",
+          "cid": "bafyreiegoscsomdo4m6k63j3z7blxocnsd7enx4k7mk5av4j7kvieadwgm",
+          "authorDid": "did:plc:cxt7lz7i6wju5kvfihvgj5su",
+          "authorHandle": "lalatrans.bsky.social",
+          "text": "Labská bouda mountain lodge\n\nYashica Mat 124G\nIlford HP5+ 400\n\n#FilmPhotography #Photography #BelieveInFilm #FilmIsNotDead #35mm #FridayFavourites #BlackAndWhitePhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxt7lz7i6wju5kvfihvgj5su/bafkreiatd4xrxoo2iypnlasnlbvufk52e4o2ibnq5diubxs6iivdmwvjqm"
+          ],
+          "indexedAt": "2026-09-10T19:03:08.670Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            },
+            {
+              "keywordId": "filmStock-alias:HP5",
+              "category": "filmStock",
+              "matchedText": "HP5"
+            }
+          ],
+          "confidence": 6,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:jokimnktt3keyopdhwf7ciif",
+      "authorHandle": "stonebeardphotog.bsky.social",
+      "totalCandidates": 3,
+      "avgConfidence": 3.6666666666666665,
+      "sample": [
+        {
+          "uri": "at://did:plc:jokimnktt3keyopdhwf7ciif/app.bsky.feed.post/3muuv7egqbv2p",
+          "cid": "bafyreihqrssceavgrl6o7cvp4atfuzzmdajv2ygvlsxnnjc4ijee23fmzy",
+          "authorDid": "did:plc:jokimnktt3keyopdhwf7ciif",
+          "authorHandle": "stonebeardphotog.bsky.social",
+          "text": "BMW CSL race car, in the pits of Laguna Seca. Rolex Reunion 2026. \n\nCamera: Nikon F80\nFilm: Ektar 100\n.\n#CarPhotography #classiccars #photography #cars #motorsport #film #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jokimnktt3keyopdhwf7ciif/bafkreidbpz6oixnc2tdp52veityfraqbvpv5bxfy3hiprbx7bp3sr3ea5e"
+          ],
+          "indexedAt": "2026-09-06T21:00:30.568Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Ektar 100",
+              "category": "filmStock",
+              "matchedText": "Ektar 100"
+            },
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 5,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:jokimnktt3keyopdhwf7ciif/app.bsky.feed.post/3muzw5qvnf625",
+          "cid": "bafyreiaxbffj3osuzh764ptvajol2s7sr2ka3zk4hn6wokpfah4hgdyzze",
+          "authorDid": "did:plc:jokimnktt3keyopdhwf7ciif",
+          "authorHandle": "stonebeardphotog.bsky.social",
+          "text": "Porsche 962, from the Group C era of racing. Rolex Reunion 2026, Laguna Seca. \n\nCamera: Nikon F80\nFilm: Ektar 100\n.\n#CarPhotography #classiccars #photography #cars #film #filmphotography #motorsport",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jokimnktt3keyopdhwf7ciif/bafkreicuoxealhnmb2lso3wta6sub3sgp4ibdelf4arqzyympti3mt4p3m"
+          ],
+          "indexedAt": "2026-09-08T21:00:48.960Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Ektar 100",
+              "category": "filmStock",
+              "matchedText": "Ektar 100"
+            },
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 5,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:jokimnktt3keyopdhwf7ciif/app.bsky.feed.post/3m2fbemyc2p2w",
+          "cid": "bafyreibvrjr7oep3s4bysn7fpri7axrc6kmzg7yrzanzhassbz352rodpy",
+          "authorDid": "did:plc:jokimnktt3keyopdhwf7ciif",
+          "authorHandle": "stonebeardphotog.bsky.social",
+          "text": "#E30 #M3 at Autobahn Legends, Monterey Car Week 2025. \n•\n•\n•\n•\n•\nCamera: 1967 Nikon F, 50mm 2/f, Provia 100. \n#cars #photography #carshow #bmw #mcw2025",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jokimnktt3keyopdhwf7ciif/bafkreibp7hdrnfp3vpi2qpyhaamzzxcfqx5vkh73iin7ckz2xvfpbq4ppy"
+          ],
+          "indexedAt": "2025-10-04T19:00:33.762Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "Provia"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+      "authorHandle": "gull.us",
+      "totalCandidates": 6,
+      "avgConfidence": 1.6666666666666667,
+      "sample": [
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3msc7jqg3e22v",
+          "cid": "bafyreibbb24scugfubxnzegaoq4cfho74wcnum3fwfnw7cbxvpk56qveia",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "@danacorn.bsky.social playing the Golden Hour open mic, Olympia\nOlympus Trip 35, Ilford Delta 3200 (pushed 1 stop)",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreic7vrphqjxs65jfuv4tnvfmmxncc6apj7gcyly3z2ggjotfuxtfdi"
+          ],
+          "indexedAt": "2026-08-04T23:54:21.571Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Delta 3200",
+              "category": "filmStock",
+              "matchedText": "Delta 3200"
+            },
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            },
+            {
+              "keywordId": "process:push-pull",
+              "category": "process",
+              "matchedText": "pushed ... 1 stop"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3msc7decmjc2v",
+          "cid": "bafyreif3jx6j3gcqcfgli7h33yl7as7zhwf7udobcg64r7ottvxzy74ebq",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "@danacorn.bsky.social playing the Bula Bar open mic, Olympia\nOlympus Trip 35 camera, Ilford Delta 3200 film (pushed 1 stop)",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreihbzkrymyhb5bhotc4ibqbelzloqk7at7p3awq4fkuzmg2ynzr6ny"
+          ],
+          "indexedAt": "2026-08-04T23:50:48.970Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Delta 3200",
+              "category": "filmStock",
+              "matchedText": "Delta 3200"
+            },
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            },
+            {
+              "keywordId": "process:push-pull",
+              "category": "process",
+              "matchedText": "pushed ... 1 stop"
+            }
+          ],
+          "confidence": 3,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3mv57pjq6kc2o",
+          "cid": "bafyreihq5xfy36drlfe42zjz2dwvjwrv6gxi5jk5zr7nwcmgsrnag7q4dq",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "Wizard Island, Crater Lake, Oregon\nRolleicord, Kodak Gold 200\nWizard Island is a cinder cone formed by an eruption that took place *after* the main eruption that formed the Crater Lake caldera.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreid3xqezrvvtkcjyatlijhokdihws2zmi22budkwodnhzc7ocetxie"
+          ],
+          "indexedAt": "2026-09-10T04:29:53.570Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3mv4keftkd22h",
+          "cid": "bafyreifi4o6z5eaap2gnophovdttzal4p3wie4zb4kwtrt4znwqkqfjoce",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "Crater Lake, Oregon\nRolleicord, Kodak Gold 200",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreie7hscaxu5dy6mggcjvxszmjbf7dsp6vjp3bfcqimipdq6koum5gu"
+          ],
+          "indexedAt": "2026-09-09T22:07:53.161Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3mtwunrljgk27",
+          "cid": "bafyreihpzd5fgzo4bka44oah2mce5qb6oeg4oxaqu6ig5dbcoou2lu6agm",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "For the trip to Crater Lake, I decided to go with a classic color film that I used on dozens of trips in my childhood. Kodak Gold 200.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreieua76wyq2xipujyci5utnd7bszwtxoz6lrtghv5vsjsqojo6b2gm"
+          ],
+          "indexedAt": "2026-08-25T22:31:02.865Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:j4hdnllgc4jhufcyoqzlwn4t/app.bsky.feed.post/3mv7kpzcnw22h",
+          "cid": "bafyreidhdfpgovg2r73tgayxkorxi7tda5whpgmiebdpftvst5ssuwpata",
+          "authorDid": "did:plc:j4hdnllgc4jhufcyoqzlwn4t",
+          "authorHandle": "gull.us",
+          "text": "Pinnacles, Crater Lake National Park, Oregon\nRolleicord, Kodak Gold 200",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4hdnllgc4jhufcyoqzlwn4t/bafkreidnultbxluflrsif4raqyya2okumk7ivmaqtuqwes4m5fnt6pg5ea"
+          ],
+          "indexedAt": "2026-09-11T02:52:21.065Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:2diukir24x4cuzv42qqa6sja",
+      "authorHandle": "zapproductions.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 5,
+      "sample": [
+        {
+          "uri": "at://did:plc:2diukir24x4cuzv42qqa6sja/app.bsky.feed.post/3mv4uusu67c2k",
+          "cid": "bafyreifu33vbrwxi3g7cihqfh7qkcgaclkaw2whcxt6p5madxhte77ycae",
+          "authorDid": "did:plc:2diukir24x4cuzv42qqa6sja",
+          "authorHandle": "zapproductions.bsky.social",
+          "text": "Chrome Ram • Cameron, Texas, USA\n\nRolleiflex 3.5 E2 • Kodak Tri-X 400 • 2026\n\n#FilmPhotography #Kodak #TriX #Camera #Film #Photography #MediumFormat #Rolleiflex #BWfilm #Monochrome #TX #Cameron #Texas #Classic #Vehicle #Dodge #Ram #Chrome #Hood #Ornament #CloseUp #August_29_2026",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2diukir24x4cuzv42qqa6sja/bafkreiabltwcfdqrva75hqlatofovyucwsuzshjhsninklgobe2odniptu"
+          ],
+          "indexedAt": "2026-09-10T01:16:07.162Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Tri-X 400",
+              "category": "filmStock",
+              "matchedText": "Tri-X 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "Tri-X"
+            }
+          ],
+          "confidence": 5,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:2diukir24x4cuzv42qqa6sja/app.bsky.feed.post/3mvb63km5322p",
+          "cid": "bafyreihutzkf7t6vynmqyz2igogfjncgo7r3vkho4cbo2dxbf4hd6j3rvy",
+          "authorDid": "did:plc:2diukir24x4cuzv42qqa6sja",
+          "authorHandle": "zapproductions.bsky.social",
+          "text": "Tex Miller’s • Cameron, Texas, USA\n\nRolleiflex 3.5 E2 • Kodak Tri-X 400 • 2026\n\n#FilmPhotography #Kodak #TriX #Camera #Film #Photography #MediumFormat #Rolleiflex #BWfilm #Monochrome #TX #Cameron #Texas #Classic #Restaurant #TexMillers #Unique #August_29_2026",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2diukir24x4cuzv42qqa6sja/bafkreifsxrbxhdv4todk6qnmdgceravfoza34zkqkntcvt4qlokw4un2um"
+          ],
+          "indexedAt": "2026-09-11T18:11:33.857Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "filmStock:Tri-X 400",
+              "category": "filmStock",
+              "matchedText": "Tri-X 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "Tri-X"
+            }
+          ],
+          "confidence": 5,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:vkv4n37xtnclon3mn5mhrk37",
+      "authorHandle": "bd-miller.bsky.social",
+      "totalCandidates": 3,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:vkv4n37xtnclon3mn5mhrk37/app.bsky.feed.post/3mv7esgt5tk23",
+          "cid": "bafyreighuelw22ktpopytd4zqb6f6zb663lo3mwqbusegrqppuo55egala",
+          "authorDid": "did:plc:vkv4n37xtnclon3mn5mhrk37",
+          "authorHandle": "bd-miller.bsky.social",
+          "text": "This was the image AP chose for the magazine cover 🖤\nRadiohead 1997\n\n#Radiohead #RockBand #AnalogPhotography #FilmPhotography #RockPhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vkv4n37xtnclon3mn5mhrk37/bafkreiaqteyseo3gax2pqpppi7apr2mtjauw52o5pm6tsvq76niivxlksu"
+          ],
+          "indexedAt": "2026-09-11T01:06:18.565Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:vkv4n37xtnclon3mn5mhrk37/app.bsky.feed.post/3mv6xg7izkc2x",
+          "cid": "bafyreibwlf4o755m4i7ceet3h6n4sewqjexvj6xdy265eamtqvsef6k4pi",
+          "authorDid": "did:plc:vkv4n37xtnclon3mn5mhrk37",
+          "authorHandle": "bd-miller.bsky.social",
+          "text": "Another outtake from the shoot with Radiohead in Montreal. Shot on 35mm transparency film for AP magazine in 1997 following the release of OK Computer.\n\n#Radiohead #AnalogPhotography #FilmPhotography #RockBand #RockPhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vkv4n37xtnclon3mn5mhrk37/bafkreicwvf4c4pe3q3jypjzzsmkw5g7h7g2fxwcb3ed5rhfzpwkllevpvi"
+          ],
+          "indexedAt": "2026-09-10T21:06:47.970Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:vkv4n37xtnclon3mn5mhrk37/app.bsky.feed.post/3mv6x5l27vc2x",
+          "cid": "bafyreiawaiijgzkvjemcfepyl7mue7bmaplckxuounkjvn5i3fef2nb5eu",
+          "authorDid": "did:plc:vkv4n37xtnclon3mn5mhrk37",
+          "authorHandle": "bd-miller.bsky.social",
+          "text": "Radiohead in Montreal. Photographed 35mm transparency film for Alternative Press magazine in 1997 following the release of OK Computer \n\n#Radiohead #Rockband #AnalogPhotography #FilmPhotography #RockPhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vkv4n37xtnclon3mn5mhrk37/bafkreigglzk27ot4dmvqoc2ai2hwljjwq4l2wi5ic2stif4xvo2odtr5x4"
+          ],
+          "indexedAt": "2026-09-10T21:01:59.375Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cddmtyfjffjc3ijfivef7crf",
+      "authorHandle": "tatsuya1119.bsky.social",
+      "totalCandidates": 4,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:cddmtyfjffjc3ijfivef7crf/app.bsky.feed.post/3mv4p6gjxlc2d",
+          "cid": "bafyreieyczfcskklx7glxinbox5b3cvbry6wwpar54zdtvzw3xkljsdpjm",
+          "authorDid": "did:plc:cddmtyfjffjc3ijfivef7crf",
+          "authorHandle": "tatsuya1119.bsky.social",
+          "text": "第79回塩竈みなと祭⑥\n\n龍鳳丸から遅れて数秒後、鳳凰丸も塩釜港を出航。この鳳凰丸は七ヶ浜町から塩釜港周辺を渡航するが、当御座船を乗せた多くの氏子が一旦降りた後、神輿を担いで塩釜魚市場周辺を歩く事になる。\n\n機種：FUJIFILM X-T4　レンズ：XF50-140mmF2.8 R LM OIS WR\n\nソフトウェア：DxO FilmPack 7 FUJIFILM PROVIA 100F\n\n※2026年7月20日（祝）撮影",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cddmtyfjffjc3ijfivef7crf/bafkreib4hte7sney5trt7px6oqrbxakn3ghu3irx4l4i4hpi55ihf3ddwu"
+          ],
+          "indexedAt": "2026-09-09T23:33:58.866Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Provia 100F",
+              "category": "filmStock",
+              "matchedText": "PROVIA 100F"
+            },
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "PROVIA"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cddmtyfjffjc3ijfivef7crf/app.bsky.feed.post/3mv4fai6xb225",
+          "cid": "bafyreif4ocsed3bm7rxpfr3wvbc7k3nzotxzex3jcdr4q5naooi62zeyhy",
+          "authorDid": "did:plc:cddmtyfjffjc3ijfivef7crf",
+          "authorHandle": "tatsuya1119.bsky.social",
+          "text": "第79回塩竈みなと祭⑤\n\n正午12:15に塩釜港を出航した龍鳳丸。\n\n鳳凰丸と同様、15年前に発生した東日本震災を乗り越えてからは復興を象徴する御座船として定着するも、老朽化に伴う最後の海上渡御として松島へと渡って行く。\n\n機種：FUJIFILM X-T4　レンズ：XF50-140mmF2.8 R LM OIS WR\n\nソフトウェア：DxO FilmPack 7 FUJIFILM PROVIA 100F\n\n※2026年7月20日（祝）撮影",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cddmtyfjffjc3ijfivef7crf/bafkreihoz2opi5knmdwydhhsciplvj6yidr73mkg3opw5lii6grzoeiram"
+          ],
+          "indexedAt": "2026-09-09T20:36:11.071Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Provia 100F",
+              "category": "filmStock",
+              "matchedText": "PROVIA 100F"
+            },
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "PROVIA"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cddmtyfjffjc3ijfivef7crf/app.bsky.feed.post/3muywua4ilc2k",
+          "cid": "bafyreihydmpbwinax44yyn7twf5kbaa7mndkotpc2lktyeydjqy4skg4vy",
+          "authorDid": "did:plc:cddmtyfjffjc3ijfivef7crf",
+          "authorHandle": "tatsuya1119.bsky.social",
+          "text": "第79回塩竈みなと祭④\n\n建造から約60年を迎えた2隻の御座船によるラストランを観ようと多くの来場者が集まった塩釜港。2基の神輿を其々龍鳳丸と鳳凰丸に乗せ、最後の海上渡御が間も無く始まろうとしている。\n\n機種：FUJIFILM X-T4　レンズ：XF50-140mmF2.8 R LM OIS WR\n\nソフトウェア：DxO FilmPack 7 FUJIFILM PROVIA 100F\n\n※2026年7月20日（祝）撮影",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cddmtyfjffjc3ijfivef7crf/bafkreigfoo3ikvhpmfgnleoxqt3kvrk5coqwxq5wbocrt6dl7hbzto2mvi"
+          ],
+          "indexedAt": "2026-09-08T11:40:50.966Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Provia 100F",
+              "category": "filmStock",
+              "matchedText": "PROVIA 100F"
+            },
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "PROVIA"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:cddmtyfjffjc3ijfivef7crf/app.bsky.feed.post/3muyojech2c2u",
+          "cid": "bafyreie6z52yorlukeux4jh2sypfr5uwyza6xuz3lsg4xhu7bzrtpiwra4",
+          "authorDid": "did:plc:cddmtyfjffjc3ijfivef7crf",
+          "authorHandle": "tatsuya1119.bsky.social",
+          "text": "第79回塩竈みなと祭②\n\n重量1tとする2基の神輿を多くの氏子が202段を休む事無く慎重に下って行くが、祭事当日は33℃の猛暑で氏子の身体に大量の汗が噴き出す。見事に下り切り、それを間近に観ていた多くの人々から大きな拍手が贈られた。\n\n機種：FUJIFILM X-T4　レンズ：XF50-140mmF2.8 R LM OIS WR\n\nソフトウェア：DxO FilmPack 7 FUJIFILM PROVIA 100F\n\n※2026年7月20日（祝）撮影",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cddmtyfjffjc3ijfivef7crf/bafkreiaoctgim6ry66rkz252gwnd46ti6fzfgkud3xf3xkexgxfr3nm4ce"
+          ],
+          "indexedAt": "2026-09-08T09:11:31.966Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Provia 100F",
+              "category": "filmStock",
+              "matchedText": "PROVIA 100F"
+            },
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "PROVIA"
+            }
+          ],
+          "confidence": 2,
+          "source": "backfill"
+        }
+      ]
+    }
+  ]
+}

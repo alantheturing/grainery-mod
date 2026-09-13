@@ -1,0 +1,573 @@
+{
+  "batchNumber": 11,
+  "totalBatches": 12,
+  "orderBy": "confidence",
+  "generatedAt": "2026-09-13T13:10:47.141Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:52dfavmv4okc666c6owbzd4k",
+      "authorHandle": "terrillmoore.flx.masto.host.ap.brid.gy",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:52dfavmv4okc666c6owbzd4k/app.bsky.feed.post/3mv6fvvb3pj42",
+          "cid": "bafyreibnb6a7q2biipwblw7zw2tmtmrcfvigtjdwubklrzsugdnuokwbva",
+          "authorDid": "did:plc:52dfavmv4okc666c6owbzd4k",
+          "authorHandle": "terrillmoore.flx.masto.host.ap.brid.gy",
+          "text": "#photography #filmphotography #sunset",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:52dfavmv4okc666c6owbzd4k/bafkreierc3hukqbs7sodcbenzgoutk7jj6efzbbulxhktxgbkp42cdkgfi"
+          ],
+          "indexedAt": "2026-09-10T15:53:28.068Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ygwzud5aue52lacsdk4ypj3p",
+      "authorHandle": "markmoran.co.uk",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:ygwzud5aue52lacsdk4ypj3p/app.bsky.feed.post/3mv6p6letvc2r",
+          "cid": "bafyreifcmfss7zu2jkccm5cfzlotiyahgvkbays6vbixlppz7yxduxk7by",
+          "authorDid": "did:plc:ygwzud5aue52lacsdk4ypj3p",
+          "authorHandle": "markmoran.co.uk",
+          "text": "#35mm bike ride\nAn Olympus MJu-1 fits perfectly in my jersey.\n#cycling #blackandwhite",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygwzud5aue52lacsdk4ypj3p/bafkreigv6bb35xsf3tdgprs4knd6o4uk2mmb44ktvcmyqjfwrpc5dwh54a",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygwzud5aue52lacsdk4ypj3p/bafkreiaocqufve6ac2d4tpsnsxfgoynk2eycvpxisitg4xsn5v5xfwggiu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygwzud5aue52lacsdk4ypj3p/bafkreiheyumbmiufn7hymcpti5y4bwoe6rtoeeuie6wnr2tfvjj3b2eiza",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygwzud5aue52lacsdk4ypj3p/bafkreiayxncmar6fv36ifansdmnnknybfu2m5yxz2ts2xwmxibreuidola"
+          ],
+          "indexedAt": "2026-09-10T18:39:29.761Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7gkwhluleqskczpxmeqbsjl7",
+      "authorHandle": "zuricum.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:7gkwhluleqskczpxmeqbsjl7/app.bsky.feed.post/3mv6gvsrfp22u",
+          "cid": "bafyreifobsjtrgkyce76eq3qsnig5q3rpvewkxn4t4thfxdgassr2v3ns4",
+          "authorDid": "did:plc:7gkwhluleqskczpxmeqbsjl7",
+          "authorHandle": "zuricum.bsky.social",
+          "text": "f-4\n#35mm #blackandwhite #b&w #debian #finepix #fujifilm #gimp #monochrome #photography #rawtherapee #schweiz #streetphotography #switzerland #x100f #zürich #zuricum #f4 #tram #tramway #vbz\n\nwww.zuricum.photography/2026/09/f4.h...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7gkwhluleqskczpxmeqbsjl7/bafkreiavowt6x3gagn7w735vklehdxnes4ydnilq54d3x4ynqmlbagorre"
+          ],
+          "indexedAt": "2026-09-10T16:11:18.163Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:qmhrba2tq7cf4joqv23ptynl",
+      "authorHandle": "michaelinstantly.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:qmhrba2tq7cf4joqv23ptynl/app.bsky.feed.post/3mv7jm6kmi22s",
+          "cid": "bafyreifkjdmhwjwd6eszqn5qks7jvbdt5kqewliz2e35is4mvoaa5px2ga",
+          "authorDid": "did:plc:qmhrba2tq7cf4joqv23ptynl",
+          "authorHandle": "michaelinstantly.bsky.social",
+          "text": "Still  life, a bowl of apples. Shot with #PolaroidI2\n\n#polaroid #analog #filmphotography #stilllife",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qmhrba2tq7cf4joqv23ptynl/bafkreigdyyqijapdiqkeqaqgzlhcyrbnyou5qd2clvukivqpr32xxojgxu"
+          ],
+          "indexedAt": "2026-09-11T02:32:20.564Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:x2dzfoqkiwiltt67pxkvsddh",
+      "authorHandle": "rich-king.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:x2dzfoqkiwiltt67pxkvsddh/app.bsky.feed.post/3mv7jcns6e224",
+          "cid": "bafyreidsvyqns7pk5dv5e3tscx6uirdhfiifk5hs7qnsd6nekdxyotloea",
+          "authorDid": "did:plc:x2dzfoqkiwiltt67pxkvsddh",
+          "authorHandle": "rich-king.bsky.social",
+          "text": "East River, World Trade Center\nTaken in the fall of 1981 (45 years ago) when I first moved to Brooklyn to attend Pratt. Seen from the Promenade in Brooklyn Heights; was using a 4 x 5 camera at that time (so glad for this). Image © Richard Koenig.\n\n#worldtradecenter #filmphotography #largeformat #wtc",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x2dzfoqkiwiltt67pxkvsddh/bafkreig7qargrsyxok2tu6yeypbvvzap2cj54ve6q2dmy6zwxx4vicqbsy"
+          ],
+          "indexedAt": "2026-09-11T02:26:55.666Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:yxfloqumomkfchqyilftmjcl",
+      "authorHandle": "mrbwa1.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:yxfloqumomkfchqyilftmjcl/app.bsky.feed.post/3mv7gnwnhj222",
+          "cid": "bafyreiffkqvcd57wrb4soonepknyqi7cktvdtcmapekqd4ncvj42tjyvp4",
+          "authorDid": "did:plc:yxfloqumomkfchqyilftmjcl",
+          "authorHandle": "mrbwa1.bsky.social",
+          "text": "Going through some old photos and found a fun one of Lava Hot Springs in December of 2021.\n\n📷 Minolta Autocord\n🎞️ Lomography CN800\n#BelieveInFilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yxfloqumomkfchqyilftmjcl/bafkreiglegtdkuihedxdnxtqdabct43fkirgcqiks2p5tck5jocyb2q4eq"
+          ],
+          "indexedAt": "2026-09-11T01:39:33.966Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:2vtlqdax522pvvrfy5ockbj3",
+      "authorHandle": "hilldee64.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:2vtlqdax522pvvrfy5ockbj3/app.bsky.feed.post/3mv6um7qbu222",
+          "cid": "bafyreich5ushqop22ol4zmtcvfotajgzoq7wgf62afjbc6pxec62wtxhye",
+          "authorDid": "did:plc:2vtlqdax522pvvrfy5ockbj3",
+          "authorHandle": "hilldee64.bsky.social",
+          "text": "Fuck the government.\n#filmisntdead #nikonfm2 #filmphotography #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2vtlqdax522pvvrfy5ockbj3/bafkreidjzw6q5k2bucwqpyxkwrsx6lj4w4xnv2m5dexoxyboyzjshhgpj4"
+          ],
+          "indexedAt": "2026-09-10T20:16:34.458Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:xuo2mmnk2wkvvjl2g77xwdi5",
+      "authorHandle": "sednoil.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:xuo2mmnk2wkvvjl2g77xwdi5/app.bsky.feed.post/3mv6t776fzc26",
+          "cid": "bafyreidscwyzf5a5rsehepkbnotyllzzigq4kuehfk5i35xpunw67dafya",
+          "authorDid": "did:plc:xuo2mmnk2wkvvjl2g77xwdi5",
+          "authorHandle": "sednoil.bsky.social",
+          "text": "Storm clouds loom over a vast mountain range landscape ..\n\n#photography #scape #scenery #monochrome #filmphotography\n.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xuo2mmnk2wkvvjl2g77xwdi5/bafkreifgtleh2fxh3xik5t2v2qadrn65b4v2h5dbaczxgebj3kpeox26le"
+          ],
+          "indexedAt": "2026-09-10T19:51:18.274Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7lam4ik554bbrqysidobup4v",
+      "authorHandle": "lern.eurosky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:7lam4ik554bbrqysidobup4v/app.bsky.feed.post/3mv6sqnjn72ns",
+          "cid": "bafyreibia5exyq4twj3taswksuxkraao3qak35pxtej7wrcnl3leiyfm3i",
+          "authorDid": "did:plc:7lam4ik554bbrqysidobup4v",
+          "authorHandle": "lern.eurosky.social",
+          "text": "Some views of the tyrolian alps shot on medium format 6x3 panorama. Not cropped. #filmisnotdead #analogphotography #filmphotography #mediumformat\n📸 Agfa Isolette III 6x3\n🎞️ Lomo Lady Grey 400",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lam4ik554bbrqysidobup4v/bafkreiezubztpczmthcfphfmfd54kokhz4muf5ianovnzbk4qa6ooekapy",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lam4ik554bbrqysidobup4v/bafkreic7ximmwcial4fa32b5e5tdw4c6uvpygfmwlfuqn6i6df3o3fws4y",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lam4ik554bbrqysidobup4v/bafkreidekxyisp6ei7mdiste6yue365uzzq3xsijdfh5h7t4rljhr2ccha"
+          ],
+          "indexedAt": "2026-09-10T19:43:05.676Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:yyc2ylloz2pxn23cfjidgmeb",
+      "authorHandle": "jpsfg.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:yyc2ylloz2pxn23cfjidgmeb/app.bsky.feed.post/3mv6rocys722x",
+          "cid": "bafyreihtn2koa7mgalvjua54ozq3jaum4ouz5grl4dk66hsqnj6lo4qoh4",
+          "authorDid": "did:plc:yyc2ylloz2pxn23cfjidgmeb",
+          "authorHandle": "jpsfg.bsky.social",
+          "text": "\"That's right. It goes in the square hole.\"\n\nEataly Las Vegas\n#filmphotography\n#photography\n#vegas",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yyc2ylloz2pxn23cfjidgmeb/bafkreickfzdr5pv3urclcywijgqbqjegsqwhlowwnye5niy5lgeiwovsee"
+          ],
+          "indexedAt": "2026-09-10T19:24:00.065Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:2ixxpc6j6mylnmcc6odu4fq6",
+      "authorHandle": "danielnovakphoto.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:2ixxpc6j6mylnmcc6odu4fq6/app.bsky.feed.post/3mvbbgvbtgc27",
+          "cid": "bafyreicvwfmmkrmxv5py3lsanfdqt666zcrzuy3v5y7lgd4abzdzjne2dy",
+          "authorDid": "did:plc:2ixxpc6j6mylnmcc6odu4fq6",
+          "authorHandle": "danielnovakphoto.bsky.social",
+          "text": "Hiding in the Trees\nSecluded yet right in Town\nPremium Address\n\n📷 Asahi Pentax Spotmatic F\n🔎 Super Takumar 105mm f/2.8\n🎞️ Ultrafine Xtreme UFX400\n🧪 Rollei Supergrain\n📝 danielnovakphoto.com/blog\n\nWalking Orchard Park, NY\n\n#etbtsy #filmphotography #blackandwhite",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2ixxpc6j6mylnmcc6odu4fq6/bafkreie2vyntewu7b4lhadkwu23v7nta6frjnzmves2q6m4dmpyuyz3nqe"
+          ],
+          "indexedAt": "2026-09-11T19:11:28.165Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:unsp36waof44uj5pk75k2o2g",
+      "authorHandle": "benjaminlong-art.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:unsp36waof44uj5pk75k2o2g/app.bsky.feed.post/3mvbcrscc7s22",
+          "cid": "bafyreicxai5yan5ldv477o4g2njiwhjay3f3ua6hellpfcnxxic4hbx7lq",
+          "authorDid": "did:plc:unsp36waof44uj5pk75k2o2g",
+          "authorHandle": "benjaminlong-art.bsky.social",
+          "text": "Mamiya RB67 Pro-S\nKodak BW400CN\n\n#film #analogphotography #believeinfilm #mediumformat #blackandwhite #Mamiya #Kodak #Jerseyshore #6x7 #payperview",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:unsp36waof44uj5pk75k2o2g/bafkreieba2jfwlmjedxc6qouupqz2y3ly4ixntgpfoodnutl3wkj5whq34"
+          ],
+          "indexedAt": "2026-09-11T19:35:27.059Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:tz6nu7fw5g4uxwyhxsqen6ab",
+      "authorHandle": "hillistx.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:tz6nu7fw5g4uxwyhxsqen6ab/app.bsky.feed.post/3mve46y6qk22t",
+          "cid": "bafyreiefcwyhmpkvwzwdpd7kg3nji6rlywanis7przkuxugm2ddjr3gq6y",
+          "authorDid": "did:plc:tz6nu7fw5g4uxwyhxsqen6ab",
+          "authorHandle": "hillistx.bsky.social",
+          "text": "Texas Storm.\n\n#canonftb #monochrome #filmphotography #photography #blueskyartshow #undulating",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tz6nu7fw5g4uxwyhxsqen6ab/bafkreie7m7j4hi7sckjydsgkd3eb6oqbj4pmqnzezzm5vfjip5mxm324ia"
+          ],
+          "indexedAt": "2026-09-12T22:15:34.066Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:3pa7rqph2ezfmvhqcmsfiexa",
+      "authorHandle": "juansuarez.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:3pa7rqph2ezfmvhqcmsfiexa/app.bsky.feed.post/3mvdvuyieg22r",
+          "cid": "bafyreigf6655kcjmatzo2vbkob3pzrqxqra2b5veg2ing7myt6iu7dbobu",
+          "authorDid": "did:plc:3pa7rqph2ezfmvhqcmsfiexa",
+          "authorHandle": "juansuarez.bsky.social",
+          "text": "Thriathlon de Nyon\nM3, 50f2, Ilford Fp4+ in 510 Pyro 1/100\n#believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pa7rqph2ezfmvhqcmsfiexa/bafkreidvyoqb6xodpe3f7djknmuauznlfimzqfvtbvinixks24vdga6htu"
+          ],
+          "indexedAt": "2026-09-12T20:22:36.264Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:y5564gobmh5tynzxeausnbck",
+      "authorHandle": "robertvine.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:y5564gobmh5tynzxeausnbck/app.bsky.feed.post/3mvdhb2l6hu2r",
+          "cid": "bafyreicubyic45wxe5o45566qxvnxioul7zfvh3h3hdzxjhuho6g5utnge",
+          "authorDid": "did:plc:y5564gobmh5tynzxeausnbck",
+          "authorHandle": "robertvine.bsky.social",
+          "text": "Waiting for the Straßenbahn. \n\n#analogphotography #streetphotography #35mm #Vienna #Austria #fotografie #travelphotography #urbanphotography #photography #monochrome #blackandwhite",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y5564gobmh5tynzxeausnbck/bafkreicvkjlajn6d7ao6rbzuapbh4uem3j6pb4hqjqbruabcmnypnlvr34"
+          ],
+          "indexedAt": "2026-09-12T16:00:51.065Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ndvrcguyd7kuojanaaeivy7l",
+      "authorHandle": "jacobdavison.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:ndvrcguyd7kuojanaaeivy7l/app.bsky.feed.post/3mvdydxqyak2t",
+          "cid": "bafyreiemyxszlbxmcv5xa6ef4l3cpu6vyhhyai2oxxkdeqnxjcsczqqa7u",
+          "authorDid": "did:plc:ndvrcguyd7kuojanaaeivy7l",
+          "authorHandle": "jacobdavison.bsky.social",
+          "text": "Seeing one of the best sequels of all and on #35mm film. Robert Zemeckis' BACK TO THE FUTURE PART II! @newbeverly.bsky.social",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ndvrcguyd7kuojanaaeivy7l/bafkreibgb6aea6x622wzwmmez3cxdsilxoxtetoydp5cwqu3u4si75g3p4"
+          ],
+          "indexedAt": "2026-09-12T21:06:46.360Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+      "authorHandle": "salfordccgroup.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:lyhu2aju6zwnzhnjztyrqryy/app.bsky.feed.post/3mrcw3vsisk27",
+          "cid": "bafyreiglnyl53lplhhioz4wjpejgextn6o3mjqnt6fxyoqwi3m6bcf7jza",
+          "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+          "authorHandle": "salfordccgroup.bsky.social",
+          "text": "Congratulations to former Worsley College student Ewan Kelly, who has been named Kitchen Employee of the Month at Delta Hotels by Marriott Worsley Park Country Club! 👏👏👏\n\nIt's fantastic to see our students progressing into industry and thriving in their careers. \n\n#Worsley #Salford",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lyhu2aju6zwnzhnjztyrqryy/bafkreibyzqlzsyamfznllaxx2jhsqwq233wswdbkfhis2psokbevyqcbmm"
+          ],
+          "indexedAt": "2026-07-23T13:13:10.167Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:lyhu2aju6zwnzhnjztyrqryy/app.bsky.feed.post/3m2qpkmgysk2w",
+          "cid": "bafyreienqlyk4gwxcp7cs7hndadspu6imhu6jsgdd5gm6xiriixg4uhbpq",
+          "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+          "authorHandle": "salfordccgroup.bsky.social",
+          "text": "We’re Hiring!\n\n📙 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐓𝐞𝐚𝐜𝐡𝐞𝐫 📘\n\nJoin the dynamic and dedicated team at City Skills \n \n📍 Location: City Skills, Lissadel Street, Salford, M6 6AP\n\n⏱ Contract Type: Part-time/ Permanent\n\n👉 Apply now: www.salfordcc.ac.uk/careers/teac...\n\n#teachingjobs #Salford #teaching",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lyhu2aju6zwnzhnjztyrqryy/bafkreidvkriro63nj6oc3ebbdk4t7bdhtminhg62zfhqaiaseru4pwh5ae"
+          ],
+          "indexedAt": "2025-10-09T08:13:58.758Z",
+          "matches": [
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:dls2f7yfz2dfh34syo6cintb",
+      "authorHandle": "digitalpullse.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:dls2f7yfz2dfh34syo6cintb/app.bsky.feed.post/3mucn7pp66k2h",
+          "cid": "bafyreihp6fv6oazkvy2dijo2mtpbhxcwbav5swg32oj4ylkhhakf7fconq",
+          "authorDid": "did:plc:dls2f7yfz2dfh34syo6cintb",
+          "authorHandle": "digitalpullse.bsky.social",
+          "text": "Apple випустить новий 24-дюймовий iMac до кінця року. Моноблок отримає 2-нанометровий чіп M6 та оновлені кольори корпусу. Також восени очікуються нові MacBook Pro із сенсорним Tandem OLED-екраном та Mac Studio на M5. #Apple #iMac #MacBookPro #MacStudio\n\n👉 t.me/dplse/1013",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dls2f7yfz2dfh34syo6cintb/bafkreiab64f4u7e2ozajesgceaw5nkf2enh226aieadu47gvdxv7xmuyqy"
+          ],
+          "indexedAt": "2026-08-30T14:49:40.271Z",
+          "matches": [
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:dls2f7yfz2dfh34syo6cintb/app.bsky.feed.post/3mqquzecce22s",
+          "cid": "bafyreibtrm4d4q5runjsoiczfi2ndrxqcbbj74lhn6n2diiuk6bomwmrtq",
+          "authorDid": "did:plc:dls2f7yfz2dfh34syo6cintb",
+          "authorHandle": "digitalpullse.bsky.social",
+          "text": "🍏Apple змінює стратегію випуску процесорів\n\nЗа даними Марка Гурмана з Bloomberg, компанія вирішила пропустити чипи M6 Pro та M6 Max. Восени вийде лише базовий MacBook Pro M6, а всі інженерні ресурси перенаправлять на прискорену розробку серії M7 #Apple #MacBookPro #AppleM7 #M7Ultra\n\n👉 t.me/dplse/709",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dls2f7yfz2dfh34syo6cintb/bafkreicztd3ntduledvg3yoezvgwk55jzrhotuimjstzvfxgihjlryjece"
+          ],
+          "indexedAt": "2026-07-16T09:05:49.871Z",
+          "matches": [
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    }
+  ]
+}
