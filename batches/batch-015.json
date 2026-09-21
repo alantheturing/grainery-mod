@@ -1,0 +1,96 @@
+{
+  "batchNumber": 15,
+  "totalBatches": 15,
+  "orderBy": "confidence",
+  "generatedAt": "2026-09-21T15:56:22.488Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:gkq5ij5nioerhaeoxnclguq6",
+      "authorHandle": "billcaraher.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:gkq5ij5nioerhaeoxnclguq6/app.bsky.feed.post/3mvxzev57xc2j",
+          "cid": "bafyreid4phz64njp5vu643bx2k7riec77mlif26uqjane7pgjwlyb3f2xu",
+          "authorDid": "did:plc:gkq5ij5nioerhaeoxnclguq6",
+          "authorHandle": "billcaraher.bsky.social",
+          "text": "How my travel day felt.\n\nPhotos taken with an Olympus Pen EE-2 half frame. Maybe on Kodak ColorPlus (or similar).",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gkq5ij5nioerhaeoxnclguq6/bafkreifce2bbqqobxl53hfhabb5ltm5g2tfufy4z7sra3uwopqo6zurzve",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gkq5ij5nioerhaeoxnclguq6/bafkreifaaqfeqqqidzg5lqgp6uex3qtvbb6wnp7akp3x46cfs5ckspprti"
+          ],
+          "indexedAt": "2026-09-20T20:18:28.470Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:ColorPlus",
+              "category": "filmStock",
+              "matchedText": "ColorPlus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:mlp4dtt55gdf2dkfs5dvjolb",
+      "authorHandle": "denisolivier.com",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:mlp4dtt55gdf2dkfs5dvjolb/app.bsky.feed.post/3mvytzqr6u42f",
+          "cid": "bafyreigmpo3fm23nmj6yvss6cfoe3m6tkswpna62bdzmrfydegk55bpjbi",
+          "authorDid": "did:plc:mlp4dtt55gdf2dkfs5dvjolb",
+          "authorHandle": "denisolivier.com",
+          "text": "Sea Gate, Laherne, South Coast, Ireland. August 2024. Ref-11888\nhttps://www.denisoli...\n#eire #fog #heiland #irish #ireland #horizon #beach #kinsale #coast #laherne #ilfordhp5 #bandon #hp5 #coastal #countycork",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mlp4dtt55gdf2dkfs5dvjolb/bafkreickekxkapkxnpharelzkl2r762tgv6voarnok5yaxlvfwtlevyoei"
+          ],
+          "indexedAt": "2026-09-21T04:15:18.662Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:HP5",
+              "category": "filmStock",
+              "matchedText": "hp5"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:3teq32kojv7byqdtnqjfnywp",
+      "authorHandle": "mntyfrsh.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:3teq32kojv7byqdtnqjfnywp/app.bsky.feed.post/3mvyfng7tsk2q",
+          "cid": "bafyreig7557hjur5zpcnirwunaypf3myai2i6schoovc24nhbgplkzmlfq",
+          "authorDid": "did:plc:3teq32kojv7byqdtnqjfnywp",
+          "authorHandle": "mntyfrsh.bsky.social",
+          "text": "33/53 — 2026 08.15\n\nFujifilm X-S20 + Tamron 17-70mm f/2.8 lens\n\n#Monterey #MontereyCarWeek #Lamborghini #Murcielago #Countach #Fujifilm #FujifilmX #XS20 #FujifilmXS20 #Monterey #Provia #Tamron1770 #Tamron1770mm #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3teq32kojv7byqdtnqjfnywp/bafkreiatyvxyuntiztl3dhnovzvju7jvmtqxopbkzynyebiqclvdjlfcei"
+          ],
+          "indexedAt": "2026-09-20T23:57:54.369Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Provia",
+              "category": "filmStock",
+              "matchedText": "Provia"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}

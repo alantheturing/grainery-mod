@@ -1,0 +1,594 @@
+{
+  "batchNumber": 14,
+  "totalBatches": 15,
+  "orderBy": "confidence",
+  "generatedAt": "2026-09-21T15:56:22.488Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:6xxng54fxd4bi5x7hjdqy3pn",
+      "authorHandle": "harryjohansing.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:6xxng54fxd4bi5x7hjdqy3pn/app.bsky.feed.post/3mvymaxz2is2t",
+          "cid": "bafyreiec3pqgiovglvk5cuvhd4g6hdbfwbyrldvnqx2brbedcuebz3v6ym",
+          "authorDid": "did:plc:6xxng54fxd4bi5x7hjdqy3pn",
+          "authorHandle": "harryjohansing.bsky.social",
+          "text": "A Friend Waiting for Neal Cassady — San Miguel de Allende, 2020\nI walked the same railroad line Neal Cassady walked on his final night in 1968. More than fifty years later, a lone dog stood down the tracks, waiting.\n\nwww.harryjohansing.com\n\n#FilmPhotography #SanMiguelDeAllende #FineArtPhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6xxng54fxd4bi5x7hjdqy3pn/bafkreigtoh3rfesubiu5amwqwcpwdnrumdwadcv4wounevz4fbdeohpnpa"
+          ],
+          "indexedAt": "2026-09-21T01:56:19.663Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:dbzhsdriyhqv2jvphn2spouo",
+      "authorHandle": "drsapirstein.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:dbzhsdriyhqv2jvphn2spouo/app.bsky.feed.post/3mvycktxqq22n",
+          "cid": "bafyreicqs66ruo4nxst7stptkuydtbysgzltga6zi3kbjlknabbp4vlae4",
+          "authorDid": "did:plc:dbzhsdriyhqv2jvphn2spouo",
+          "authorHandle": "drsapirstein.bsky.social",
+          "text": "𝘛𝘩𝘪𝘴 𝘴𝘱𝘦𝘤𝘪𝘢𝘭 𝘦𝘥𝘪𝘵𝘪𝘰𝘯 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘥 𝘦𝘹𝘤𝘭𝘶𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘴 𝘢 𝘭𝘪𝘮𝘪𝘵𝘦𝘥 𝘱𝘩𝘺𝘴𝘪𝘤𝘢𝘭 𝘉𝘭𝘶-𝘳𝘢𝘺 𝘣𝘦𝘧𝘰𝘳𝘦 𝘵𝘩𝘦 𝘦𝘯𝘥 𝘰𝘧 2026.\ndrsapirstein.blogspot.com/2025/09/the-...\n\n#Exorcist #TheatricalRestoration\n#35mm #Restoration #4K #BluRay",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dbzhsdriyhqv2jvphn2spouo/bafkreiel3o7jedpiq62sqlf7xotjzwx2a5kgdz2casgxnqbelqpa73iz4e"
+          ],
+          "indexedAt": "2026-09-20T23:02:47.572Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:75dkgvlry7j43jx2v3po7cax",
+      "authorHandle": "hawkinsweeks.eurosky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:75dkgvlry7j43jx2v3po7cax/app.bsky.feed.post/3mvxpzcpowy2c",
+          "cid": "bafyreihkuhey4x3gd5hryidftxlvumm6coxs4plp6pleytlhewxuvxdcvm",
+          "authorDid": "did:plc:75dkgvlry7j43jx2v3po7cax",
+          "authorHandle": "hawkinsweeks.eurosky.social",
+          "text": "New work as part of my ongoing Holga project, Kingdom of the East Angles: Lone Post, Dunwich, Suffolk 2026 www.hawkins-weeks.com/portfolio/ki... #photography #BlackAndWhite #holga #film #BelieveInFilm #landscape #ECK",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:75dkgvlry7j43jx2v3po7cax/bafkreih4sigbk4ekibbx2l7zwltkpyjxxtwczuxprtnpkek5feu5y7n24u"
+          ],
+          "indexedAt": "2026-09-20T17:30:49.361Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+      "authorHandle": "salfordccgroup.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:lyhu2aju6zwnzhnjztyrqryy/app.bsky.feed.post/3mrcw3vsisk27",
+          "cid": "bafyreiglnyl53lplhhioz4wjpejgextn6o3mjqnt6fxyoqwi3m6bcf7jza",
+          "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+          "authorHandle": "salfordccgroup.bsky.social",
+          "text": "Congratulations to former Worsley College student Ewan Kelly, who has been named Kitchen Employee of the Month at Delta Hotels by Marriott Worsley Park Country Club! 👏👏👏\n\nIt's fantastic to see our students progressing into industry and thriving in their careers. \n\n#Worsley #Salford",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lyhu2aju6zwnzhnjztyrqryy/bafkreibyzqlzsyamfznllaxx2jhsqwq233wswdbkfhis2psokbevyqcbmm"
+          ],
+          "indexedAt": "2026-07-23T13:13:10.167Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:lyhu2aju6zwnzhnjztyrqryy/app.bsky.feed.post/3m2qpkmgysk2w",
+          "cid": "bafyreienqlyk4gwxcp7cs7hndadspu6imhu6jsgdd5gm6xiriixg4uhbpq",
+          "authorDid": "did:plc:lyhu2aju6zwnzhnjztyrqryy",
+          "authorHandle": "salfordccgroup.bsky.social",
+          "text": "We’re Hiring!\n\n📙 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐓𝐞𝐚𝐜𝐡𝐞𝐫 📘\n\nJoin the dynamic and dedicated team at City Skills \n \n📍 Location: City Skills, Lissadel Street, Salford, M6 6AP\n\n⏱ Contract Type: Part-time/ Permanent\n\n👉 Apply now: www.salfordcc.ac.uk/careers/teac...\n\n#teachingjobs #Salford #teaching",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lyhu2aju6zwnzhnjztyrqryy/bafkreidvkriro63nj6oc3ebbdk4t7bdhtminhg62zfhqaiaseru4pwh5ae"
+          ],
+          "indexedAt": "2025-10-09T08:13:58.758Z",
+          "matches": [
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:u3exya4ukwlwblzeonzxyt5o",
+      "authorHandle": "clearhillphoto.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:u3exya4ukwlwblzeonzxyt5o/app.bsky.feed.post/3muzbqc3yi22w",
+          "cid": "bafyreibz3gjsbqtat6czyz4hxxclfxtr23a5onznpy2xwc33hirbbbdpz4",
+          "authorDid": "did:plc:u3exya4ukwlwblzeonzxyt5o",
+          "authorHandle": "clearhillphoto.bsky.social",
+          "text": "Shot with a Vivitar V3800N on Kodak Gold 200\n\n#photography #analogue #film #iso200 #roadsign",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u3exya4ukwlwblzeonzxyt5o/bafkreiguy33n2bbyxuvlxebumxmh3p2sw5ohdzvea636uufzoccww4im4m"
+          ],
+          "indexedAt": "2026-09-08T14:55:25.463Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        },
+        {
+          "uri": "at://did:plc:u3exya4ukwlwblzeonzxyt5o/app.bsky.feed.post/3murgkb4pvs2e",
+          "cid": "bafyreicjdfm6scibp62fqgl46gfxyq4ssotlksctk3si4hhk7ptrxxpwkm",
+          "authorDid": "did:plc:u3exya4ukwlwblzeonzxyt5o",
+          "authorHandle": "clearhillphoto.bsky.social",
+          "text": "Shot with a Vivitar V3800n on Kodak Gold 200\n\n#photography #analogue #film #iso200 #sign #nature",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u3exya4ukwlwblzeonzxyt5o/bafkreib4cvokk3q7fa2qsdkonigma7tcama3652r234yoxlutzn6tlyozy"
+          ],
+          "indexedAt": "2026-09-05T12:00:12.459Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ai7yqbguvipxxwplru3mm6ts",
+      "authorHandle": "welwynarchsoc.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:ai7yqbguvipxxwplru3mm6ts/app.bsky.feed.post/3mv6uubpbz224",
+          "cid": "bafyreigcvwfwcfudtnyjkmixgm7kb2yaqruow4i7wzf4jmqs6w3uo6mo3m",
+          "authorDid": "did:plc:ai7yqbguvipxxwplru3mm6ts",
+          "authorHandle": "welwynarchsoc.bsky.social",
+          "text": "Something a little different for #AdoorableThursday This is from #Venice some years ago.  For those that care, #Pentax MX, Kodak Ektar 100 film.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ai7yqbguvipxxwplru3mm6ts/bafkreia4jyvvxn2mh2sajug6kcrsu7d5wnakpxui7ov5sgvtbx7ywkdnpe"
+          ],
+          "indexedAt": "2026-09-10T20:20:57.659Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Ektar 100",
+              "category": "filmStock",
+              "matchedText": "Ektar 100"
+            },
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:hpnwx54bt2k37wyjbdyyqglg",
+      "authorHandle": "kam129.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:hpnwx54bt2k37wyjbdyyqglg/app.bsky.feed.post/3mv6a2ybpvc22",
+          "cid": "bafyreigzr2aq7poocmuurvzixgm6lugfh22juo6nfw3hzy357fdubekihu",
+          "authorDid": "did:plc:hpnwx54bt2k37wyjbdyyqglg",
+          "authorHandle": "kam129.bsky.social",
+          "text": "📸 Olympus mju II\n🎞️ Portra 160\n#film #photography #nature\n@bskyphotos.bsky.social",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hpnwx54bt2k37wyjbdyyqglg/bafkreieyogr6str24pnoygbmiikmfrgsn4kk5o5zngnchtdfemj2umtz5q"
+          ],
+          "indexedAt": "2026-09-10T14:09:10.167Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Portra 160",
+              "category": "filmStock",
+              "matchedText": "Portra 160"
+            },
+            {
+              "keywordId": "filmStock-alias:Portra",
+              "category": "filmStock",
+              "matchedText": "Portra"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ie6ge26p6zy77u6sjpxtbp3k",
+      "authorHandle": "gatherberries.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:ie6ge26p6zy77u6sjpxtbp3k/app.bsky.feed.post/3mv7b2pvdss2n",
+          "cid": "bafyreid6doc52yfrqzq267uirfafyt466hzkcmlnrjez64sqyg4dg5ahp4",
+          "authorDid": "did:plc:ie6ge26p6zy77u6sjpxtbp3k",
+          "authorHandle": "gatherberries.bsky.social",
+          "text": "Summer haze. Summer daze.\nFavorite photo from last roll of film (Portra 400)",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ie6ge26p6zy77u6sjpxtbp3k/bafkreig3qunpdsr6bahul3tflim63scwxha3g5t4egc34gy7jrlnhd365q"
+          ],
+          "indexedAt": "2026-09-10T23:59:20.881Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Portra 400",
+              "category": "filmStock",
+              "matchedText": "Portra 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Portra",
+              "category": "filmStock",
+              "matchedText": "Portra"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:b7pzr7reffg43brmbso2ztpn",
+      "authorHandle": "grainisgood.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:b7pzr7reffg43brmbso2ztpn/app.bsky.feed.post/3mvt5lvnsqc2f",
+          "cid": "bafyreif5wdv6n5vgqc4ea5pvkperoxaz7ei4uastbpynohntgoiqgjixlq",
+          "authorDid": "did:plc:b7pzr7reffg43brmbso2ztpn",
+          "authorHandle": "grainisgood.bsky.social",
+          "text": "📷: Leica iiif RD\n🎞️: Kodak Tri-X 400\n\n#leica\n#analog\n#analogphotography\n#kodak\n#trix400\n#b&wphptography\n#photography\n#streetphotography\n#parisstreetphotography\n#paris",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b7pzr7reffg43brmbso2ztpn/bafkreidk6bikv6trs3ocwz6rcodr32fry7zpxbceb4k6h4elbjhomkrazu"
+          ],
+          "indexedAt": "2026-09-18T21:50:42.666Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Tri-X 400",
+              "category": "filmStock",
+              "matchedText": "Tri-X 400"
+            },
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "Tri-X"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:bms2dqcujldmquq7wiuibh7a",
+      "authorHandle": "osanpoyuta.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:bms2dqcujldmquq7wiuibh7a/app.bsky.feed.post/3mvycqglxoc2k",
+          "cid": "bafyreihd7t4uauqmfajkcwbqe5iakpwwujmaojz7dqgcvlswg56qgqnhvu",
+          "authorDid": "did:plc:bms2dqcujldmquq7wiuibh7a",
+          "authorHandle": "osanpoyuta.bsky.social",
+          "text": "おはようございます\n街に溶けた足取りの\n次の行方を探してしまう\n今日もよい一日にしていきましょ\n\nNikon F3\nNikkor-S.C Auto 50mm F1.4\nKodak UltraMax 400",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bms2dqcujldmquq7wiuibh7a/bafkreih365nffnql2bmlk6566oekqfqr6kbksqymg2lmpt3uf5f5aon6g4"
+          ],
+          "indexedAt": "2026-09-20T23:05:57.262Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:UltraMax 400",
+              "category": "filmStock",
+              "matchedText": "UltraMax 400"
+            },
+            {
+              "keywordId": "filmStock-alias:UltraMax",
+              "category": "filmStock",
+              "matchedText": "UltraMax"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:wsajfpa2ivb26j65j55gqtpc",
+      "authorHandle": "amatimesale.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:wsajfpa2ivb26j65j55gqtpc/app.bsky.feed.post/3mu2574mtln2d",
+          "cid": "bafyreihm74ozsxeucelm4xpes55imu4jbp3ksyjkz7tntqs5xjel772tni",
+          "authorDid": "did:plc:wsajfpa2ivb26j65j55gqtpc",
+          "authorHandle": "amatimesale.bsky.social",
+          "text": "uxcell 六角ボルト 12セット M6×30mm 304ステンレス鋼 ナット ワッシャー など126品 の、Amazonタイムセールが開始されました。\n最大59%OFF。\n5leaf.jp/amazon/timesale/new/...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wsajfpa2ivb26j65j55gqtpc/bafkreibzru73bpu7qpjew565gldr6ouudvu6rcsuqshicjx4rcwtjqnxoi"
+          ],
+          "indexedAt": "2026-08-27T05:41:39.370Z",
+          "matches": [
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:rqqf75thy2jhgipdxw75n3h4",
+      "authorHandle": "historyedunet.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:rqqf75thy2jhgipdxw75n3h4/app.bsky.feed.post/3mnwjpaxrr625",
+          "cid": "bafyreiavrtf7wvui52vidrekvu7jgz52frjcqcuxvhlbhclcguqm726ewe",
+          "authorDid": "did:plc:rqqf75thy2jhgipdxw75n3h4",
+          "authorHandle": "historyedunet.bsky.social",
+          "text": "Delta Force operatives in casual attire protected General Norman Schwarzkopf during Operation Desert Storm, exemplifying the elite special operations force behind the 1991 Gulf War.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rqqf75thy2jhgipdxw75n3h4/bafkreibbbokfzyzvesuc7kkehrp227eu4voig7xxz2hd6vtxzdafitzjzy"
+          ],
+          "indexedAt": "2026-06-10T10:43:36.562Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7fwcxjomtehzyat3jberxsb4",
+      "authorHandle": "thundermine.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:7fwcxjomtehzyat3jberxsb4/app.bsky.feed.post/3mjk3pjp56c2r",
+          "cid": "bafyreiexqgicjev44nopdcp3pqnaeyk63bdgteypvlvugjywwsz74pift4",
+          "authorDid": "did:plc:7fwcxjomtehzyat3jberxsb4",
+          "authorHandle": "thundermine.bsky.social",
+          "text": "CineStill 800, shot with a Diana F+",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7fwcxjomtehzyat3jberxsb4/bafkreibel3ckbm3ogpn5w3wvg2t4fbnqrkjo6mlf7tnfzquskb3elpxtlq"
+          ],
+          "indexedAt": "2026-04-15T14:20:54.560Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "CineStill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ho7l7ru7qr5wjn7x676gni6q",
+      "authorHandle": "joshuapvaughn.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:ho7l7ru7qr5wjn7x676gni6q/app.bsky.feed.post/3mudo2dvk6223",
+          "cid": "bafyreihnteskvhiia6lr7ble33xuckb4qhncvemdjrulesuyh4lh5tz5de",
+          "authorDid": "did:plc:ho7l7ru7qr5wjn7x676gni6q",
+          "authorHandle": "joshuapvaughn.bsky.social",
+          "text": "Some photos shot on my Kiev 60 and Yashica Mat 124g. Developed at home with CineStill DF96.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ho7l7ru7qr5wjn7x676gni6q/bafkreief5bb3qzct3ppexcwugccqhcebe5p7oxh3l5mput2jd3rtuvgreu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ho7l7ru7qr5wjn7x676gni6q/bafkreid5lly6xe673knmnvfth3t3imnyfb554cpdeqdph5w742lzsgsmdm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ho7l7ru7qr5wjn7x676gni6q/bafkreignxjp76dubafoqsenkeaaucg7ycy2knwdptdlj5gt3gzix7nwrae",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ho7l7ru7qr5wjn7x676gni6q/bafkreie7xexaw5modndtmm7kdfbtkxhycn3wyvsux6ysovhsttk4vkrzja"
+          ],
+          "indexedAt": "2026-08-31T00:37:12.509Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:CineStill",
+              "category": "filmStock",
+              "matchedText": "CineStill"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:dfxn24xaj3ogzqerapie32uo",
+      "authorHandle": "lennyaa.moe",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:dfxn24xaj3ogzqerapie32uo/app.bsky.feed.post/3kdfn5ghlta2h",
+          "cid": "bafyreicclmuljlophoeds5kkvmgtvkb7gfjsplle356a42okziiwbkyue4",
+          "authorDid": "did:plc:dfxn24xaj3ogzqerapie32uo",
+          "authorHandle": "lennyaa.moe",
+          "text": "Got some amazing results of my first roll of ektar analog film shot at #infurnity2023.\nThe quality is so high it almost looks like it's made by a dslr.\n#photography #fursuit",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfxn24xaj3ogzqerapie32uo/bafkreifn4bufl4doe6smpd5jwns7qdhsnlnakifpb5ypxoezbdp6wpfox4",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfxn24xaj3ogzqerapie32uo/bafkreigbnunkqgy6ydkah2d4go3waxhxs7xc6eyltyctnfsiuupngep5wu"
+          ],
+          "indexedAt": "2023-11-05T00:25:36.652Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "ektar"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:fner2i2uqoc5hv2o7gjyifqv",
+      "authorHandle": "tcgplayer.com",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:fner2i2uqoc5hv2o7gjyifqv/app.bsky.feed.post/3muaapxbxah23",
+          "cid": "bafyreih5bkqrz57muxjaut2upsx3btu7o4aj7qymzjakj6kzzrbx5tcwba",
+          "authorDid": "did:plc:fner2i2uqoc5hv2o7gjyifqv",
+          "authorHandle": "tcgplayer.com",
+          "text": "Rayquaza's taking to the sky! Are collector's after this single because of Delta Reign? \n\n#rayquaza #pokemontcg #pokemoncardgame",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fner2i2uqoc5hv2o7gjyifqv/bafkreicghdsjr3udv6xcpxizwv2qoy5oivwbucdxccxmpgccpvf4tke7va"
+          ],
+          "indexedAt": "2026-08-29T16:00:43.764Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 1,
+          "source": "backfill"
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:3ronojoqhfrvsn6lgp6bzbmu",
+      "authorHandle": "apf102.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:3ronojoqhfrvsn6lgp6bzbmu/app.bsky.feed.post/3mva3hhd3fs2y",
+          "cid": "bafyreibwr2fuiqonpl45rex2zc6spkp77qkxyna4o7vylupitip7uopale",
+          "authorDid": "did:plc:3ronojoqhfrvsn6lgp6bzbmu",
+          "authorHandle": "apf102.bsky.social",
+          "text": "Do love a Swedish cathedral!\n\nOlympus 35RC | Kodak Gold 200\n\n#kodakgold200 #ishootfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ronojoqhfrvsn6lgp6bzbmu/bafkreig265bmwpkuqrljg6wkml4sagiwwenc4ydois6l2cggur5g55hzlq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ronojoqhfrvsn6lgp6bzbmu/bafkreiadu3sy5qhvglsjomdjpjpelrnj636pnmcgfr3txluu7shami3oya",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ronojoqhfrvsn6lgp6bzbmu/bafkreidu7tiquy7wft4xipq322gz7okha5hujvyquwcawczj3wob2usllq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ronojoqhfrvsn6lgp6bzbmu/bafkreifjdyow2y5mvty4ig3nngbcczbdcogxtz6n5jfsjr4x3reklqou4q"
+          ],
+          "indexedAt": "2026-09-11T07:52:36.562Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:5btcwhlz3vjoamwy7shj2cfg",
+      "authorHandle": "brineb.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:5btcwhlz3vjoamwy7shj2cfg/app.bsky.feed.post/3mvy6gw3nm223",
+          "cid": "bafyreifrth34sft76sj6fiy3wle3d7pdlwl5zdhbckzmbwv2hpq6hx7q3q",
+          "authorDid": "did:plc:5btcwhlz3vjoamwy7shj2cfg",
+          "authorHandle": "brineb.bsky.social",
+          "text": "Washed a bunch!!!\n#LeicaSofort2 #Leica #instant #Instax #Fuji #FilmIsNotDead #instaxclub",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5btcwhlz3vjoamwy7shj2cfg/bafkreiaefol7iy4rxrjvvhu4vgzyripguby6izwivb6yi5lmjrxl77ye6a"
+          ],
+          "indexedAt": "2026-09-20T21:49:03.066Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "Instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}

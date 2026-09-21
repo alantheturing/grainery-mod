@@ -1,0 +1,536 @@
+{
+  "batchNumber": 13,
+  "totalBatches": 15,
+  "orderBy": "confidence",
+  "generatedAt": "2026-09-21T15:56:22.488Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:b3hd5dg7dxwznlqdscwv7jqp",
+      "authorHandle": "gerrysimons.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:b3hd5dg7dxwznlqdscwv7jqp/app.bsky.feed.post/3mviralaovc2y",
+          "cid": "bafyreibx3vzmhtp47p53g7jsixrst2ojbl3hg2nfdcnfghlx5m3d5a7n6y",
+          "authorDid": "did:plc:b3hd5dg7dxwznlqdscwv7jqp",
+          "authorHandle": "gerrysimons.bsky.social",
+          "text": "Working this afternoon on photographs for my next Substack article with my favourite analogue camera and lens. So good to shoot some film again. #Blackandwhitephotography #Believeinfilm #filmisnotdead #Photography #IlfordPhoto #CanonAE-1 #IlfordHP5+",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b3hd5dg7dxwznlqdscwv7jqp/bafkreibpi7yfuwnphcnj2f5ensfcayppzq2d753jwg2eotyok2qn5kuhwe"
+          ],
+          "indexedAt": "2026-09-14T18:42:57.365Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:esbxfdf2kah3aah4x5m5zd6h",
+      "authorHandle": "callofthewest.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:esbxfdf2kah3aah4x5m5zd6h/app.bsky.feed.post/3mviphkp32c2m",
+          "cid": "bafyreie6yzzr27ocxzent2ckufn27cqr5khwgbems3bh5a7i353shtwjqy",
+          "authorDid": "did:plc:esbxfdf2kah3aah4x5m5zd6h",
+          "authorHandle": "callofthewest.bsky.social",
+          "text": "Meet Erika from Rome - her very first photoshoot.\nMore images from this session are coming this week at www.patreon.com/callofthewest/ \n©RayMax\n\n#artnude #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:esbxfdf2kah3aah4x5m5zd6h/bafkreifn4foyqujlvsb7nstma2lqjzdqsrukioewwhsvqwo2gthlsrux7i"
+          ],
+          "indexedAt": "2026-09-14T18:11:05.691Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:62dvybeibvd2slawqvv2sf6k",
+      "authorHandle": "shuntphotography.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:62dvybeibvd2slawqvv2sf6k/app.bsky.feed.post/3mvjebvxhkk2k",
+          "cid": "bafyreibpmgy7f3qs4fsxoscosby5koxnknafjdd7uq22nnwjt5agc7qimm",
+          "authorDid": "did:plc:62dvybeibvd2slawqvv2sf6k",
+          "authorHandle": "shuntphotography.bsky.social",
+          "text": "Detroit Jazz Festival (2026)\n\n#street #photography\n#streetphotography #35mmfilm  \n#shuntphotography #urban \n#blueskyphotography #detroit \n#detroitjazzfestival",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:62dvybeibvd2slawqvv2sf6k/bafkreihdwwqnivdtreyuk3eg7kfh3c7dszbjvdd7j36jnhjrqyauqp4teq"
+          ],
+          "indexedAt": "2026-09-15T00:23:39.563Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:mif5embg2r3vgnsbtu5yvx7a",
+      "authorHandle": "danielgeorgephoto.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:mif5embg2r3vgnsbtu5yvx7a/app.bsky.feed.post/3mvimyuolrs26",
+          "cid": "bafyreig76fviif3vtng2ukxynmmtnjx7abh6s7m3mbegx56juyjptju6iy",
+          "authorDid": "did:plc:mif5embg2r3vgnsbtu5yvx7a",
+          "authorHandle": "danielgeorgephoto.bsky.social",
+          "text": "Quick pit stop\n\n#35mmphotography #filmisnotdead #analogphotography #olympusom2n #photography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mif5embg2r3vgnsbtu5yvx7a/bafkreifuinbbzqcg74lfl2t6dcyltijlxwaaqh4dcox6z6zzakfxvzz4gq"
+          ],
+          "indexedAt": "2026-09-14T17:27:00.869Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:fyxup3moaom35xzxnomsryyx",
+      "authorHandle": "bradwenner.photo",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:fyxup3moaom35xzxnomsryyx/app.bsky.feed.post/3mvm4wg6oni25",
+          "cid": "bafyreihjhiduk2mdlg572genn5327bgxjhiemjpamiaoycp4rabygc2nwm",
+          "authorDid": "did:plc:fyxup3moaom35xzxnomsryyx",
+          "authorHandle": "bradwenner.photo",
+          "text": "OMCA, Lucky SHD100 in HC110-H #photography #believeinfilm #monochrome #analog #oakland #snapshot\n\n📍 Oakland Museum of California, Oakland, California, US\n\n#GrainSocial https://grain.social/profile/bradwenner.photo/gallery/3mvm4wcnqf4e4",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fyxup3moaom35xzxnomsryyx/bafkreicd464wyfitry354lcf22m7l2tuldgcecs3n5ni37y43cg62soeqi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fyxup3moaom35xzxnomsryyx/bafkreicre3x7yijzzinalaoukdazvb2pgzh3ycphveqqwpysp7cklxwy6i"
+          ],
+          "indexedAt": "2026-09-16T02:49:54.267Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:27hculg6bmdbi47xcarxczbf",
+      "authorHandle": "rafelangston.com",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:27hculg6bmdbi47xcarxczbf/app.bsky.feed.post/3mvm2kstvbk2s",
+          "cid": "bafyreifvdzyrch4ud7doyqjr2sch3rn32mjqe74yl6iifb7ho4qf4ocicu",
+          "authorDid": "did:plc:27hculg6bmdbi47xcarxczbf",
+          "authorHandle": "rafelangston.com",
+          "text": "I promise to get back to photography stuff, I'm just out of shots that I want to share, and don't like reposting. Plan is to fill a few rolls of film over the next couple weekends so I should have some new shots early next month. Digital just isn't scratching the itch.\n\n#ECK #FilmPhotography #Nikon",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:27hculg6bmdbi47xcarxczbf/bafkreid7wtwjqrvsqz47g7eqjl2a2xppq3hky6ajseox2z32d2qennu66e"
+          ],
+          "indexedAt": "2026-09-16T02:07:41.958Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:a33vda2zz5bpnte2n6zbzxpa",
+      "authorHandle": "alexandercervanez.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:a33vda2zz5bpnte2n6zbzxpa/app.bsky.feed.post/3mvmlsbckvs2m",
+          "cid": "bafyreibabagb7xv7psg5jcggm4p6grm6w24kqjcmvw7lopmfpsea53iqka",
+          "authorDid": "did:plc:a33vda2zz5bpnte2n6zbzxpa",
+          "authorHandle": "alexandercervanez.bsky.social",
+          "text": "#film #35mmfilm #photography #blue \nIg: shot.by.alexander",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a33vda2zz5bpnte2n6zbzxpa/bafkreia2osmtfr7tm75iz6kdest63udd2ja4ailzhaoundixnmteynvvcm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a33vda2zz5bpnte2n6zbzxpa/bafkreififm6ry6r4glzumxovaczubleppciak6erosbgl5wgfuiiavya5m",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a33vda2zz5bpnte2n6zbzxpa/bafkreihoppgo4iewroo7zpvlvc7xdjcaaifm5hmbhy5ujygb7nw74wi3ne",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a33vda2zz5bpnte2n6zbzxpa/bafkreicgpii2qsf6paxg6hxkmnluthmsrhqknipnmemjxlzmzxni4ux26a"
+          ],
+          "indexedAt": "2026-09-16T07:16:05.870Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:yix2wdsnbuiyerndnlpzgr7g",
+      "authorHandle": "queerprivilege.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:yix2wdsnbuiyerndnlpzgr7g/app.bsky.feed.post/3mvlxgsi6hs2o",
+          "cid": "bafyreibsqq67zgpm3j6aah4cwlcontppjvny37gdvfuzzaepgqhj6wesem",
+          "authorDid": "did:plc:yix2wdsnbuiyerndnlpzgr7g",
+          "authorHandle": "queerprivilege.bsky.social",
+          "text": "Vinny // 09.09.2026 // Howell Beach, Seattle, WA // #35mm // Portrait 400",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yix2wdsnbuiyerndnlpzgr7g/bafkreiabdkfmpieaqiti7umonfnamzbtph73bxx3u7lrczdy6t3fp6eera"
+          ],
+          "indexedAt": "2026-09-16T01:11:44.265Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:v23hfsbnfcgp25as5sp5qrlx",
+      "authorHandle": "mercurius-harada.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:v23hfsbnfcgp25as5sp5qrlx/app.bsky.feed.post/3mvoucxuiac24",
+          "cid": "bafyreia6fb4dlqtumhkf2zha3x3uywk3yzmhd4i2kitvn4725rsi5derpu",
+          "authorDid": "did:plc:v23hfsbnfcgp25as5sp5qrlx",
+          "authorHandle": "mercurius-harada.bsky.social",
+          "text": "#filmphotography #analog #girona #cats",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v23hfsbnfcgp25as5sp5qrlx/bafkreifug26bpijyerdfqcuxyp2drtxuvqyy7iyodt2yfgy5ym7kyv7b44"
+          ],
+          "indexedAt": "2026-09-17T04:54:05.366Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:3k23vquepnxxvh2m3pmxqgoe",
+      "authorHandle": "edsinclair.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:3k23vquepnxxvh2m3pmxqgoe/app.bsky.feed.post/3mvoa6fmmts22",
+          "cid": "bafyreibrooomikwvclqstmjasplljh4t3uw4zybf4ehq2szdlojfajv624",
+          "authorDid": "did:plc:3k23vquepnxxvh2m3pmxqgoe",
+          "authorHandle": "edsinclair.bsky.social",
+          "text": "M2 / Nokton 50mm 1.2 / 5219 500T #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3k23vquepnxxvh2m3pmxqgoe/bafkreiehfndaafsenifoezhjdmybwqt7wul2flqiqqrzcksoie7c6d3vea"
+          ],
+          "indexedAt": "2026-09-16T22:53:26.769Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:c2un6jmu5a7ykd3uhnr6mnil",
+      "authorHandle": "johanschimanski.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:c2un6jmu5a7ykd3uhnr6mnil/app.bsky.feed.post/3mvrmjxkehs2b",
+          "cid": "bafyreiamblnqdeskd54p733hd5zrojgguqm53eekurizftweflarqtsxj4",
+          "authorDid": "did:plc:c2un6jmu5a7ykd3uhnr6mnil",
+          "authorHandle": "johanschimanski.bsky.social",
+          "text": "2026 #120film #mediumformat #645format #KodakPortra160film #160ASA #foldingcamera #ZeissIkonCamera",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2un6jmu5a7ykd3uhnr6mnil/bafkreid75bagncppton3yjdwcjat6jstzq7wiwgbmzdhof5dpgq6wztkge"
+          ],
+          "indexedAt": "2026-09-18T07:12:39.462Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:120film",
+              "category": "hashtag",
+              "matchedText": "#120film"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:v6ucbakdhq46xbd6vewy6geg",
+      "authorHandle": "lerebours.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:v6ucbakdhq46xbd6vewy6geg/app.bsky.feed.post/3mvro4lqll22b",
+          "cid": "bafyreif33tsolzr5jouoo2zdlc2ungujsq65k3zr5fcv6ewic6ngrpf7ya",
+          "authorDid": "did:plc:v6ucbakdhq46xbd6vewy6geg",
+          "authorHandle": "lerebours.bsky.social",
+          "text": "Premier lot de l'année, en partance chez Photorapid44 #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v6ucbakdhq46xbd6vewy6geg/bafkreihlukbimilzac3udqabxurx4fqklpnjn34tapwfkraku44lahegni"
+          ],
+          "indexedAt": "2026-09-18T07:41:07.964Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:422gbxw2o3cbtg4munk6rnwf",
+      "authorHandle": "n-j-ross.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:422gbxw2o3cbtg4munk6rnwf/app.bsky.feed.post/3mvu2fjrflk2z",
+          "cid": "bafyreif37wdsl5y6ntjdfk6giwumwixhnrsjtcokzllfces2fhwmuxcfva",
+          "authorDid": "did:plc:422gbxw2o3cbtg4munk6rnwf",
+          "authorHandle": "n-j-ross.bsky.social",
+          "text": "Frida's Sunflowers © me\n\nI made these negatives a long time ago. I can't recall how we came across Frida, somewhere in Central Otago, (maybe Alexandra) in around 2010, but she her home was so photogenic.\n\n#photography #largeformatphotography #ebonycamera #4x5 #5x4 #analogue #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:422gbxw2o3cbtg4munk6rnwf/bafkreia3eelu77cmy37idskuyyirgvdcdcvdolankvdj554jjh6vj2vvme",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:422gbxw2o3cbtg4munk6rnwf/bafkreihpl5nxe6voxpviqtwywupdiqwkiceckdz2v7tijw6lwny3vx5mf4"
+          ],
+          "indexedAt": "2026-09-19T06:26:07.864Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cpiv2qxg2emqqyki2qp63zb7",
+      "authorHandle": "robbiequinn.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:cpiv2qxg2emqqyki2qp63zb7/app.bsky.feed.post/3mvsznnkmac22",
+          "cid": "bafyreiepi76mmjiujvk7xz5trixbjdnqaut6nxp42lqp7wxqqsayg6s7ni",
+          "authorDid": "did:plc:cpiv2qxg2emqqyki2qp63zb7",
+          "authorHandle": "robbiequinn.bsky.social",
+          "text": "So @henricartierbresson__ is often quoted as saying that a photographer is lucky to get one or two good pictures a year. There’s a lot more of the year left, but this might be one of those lucky ones. \n\nNOT #ai #film #filmphotography #streetphotography #bluesky #photography #newyork #leicam6",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpiv2qxg2emqqyki2qp63zb7/bafkreifsqfltx6bpbp3tdbjfhcmmagmdkacxaoutasylznm23jkbkbyfpy"
+          ],
+          "indexedAt": "2026-09-18T20:39:58.257Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:wq2lrjhumgalwq2oekzofngz",
+      "authorHandle": "t-shimizu.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:wq2lrjhumgalwq2oekzofngz/app.bsky.feed.post/3mvs5f2xujk2d",
+          "cid": "bafyreihp5zkqfgeyincd5iqjsh7onkpcqdmthjokntwg4d6ehypzsjrze4",
+          "authorDid": "did:plc:wq2lrjhumgalwq2oekzofngz",
+          "authorHandle": "t-shimizu.bsky.social",
+          "text": "Harley-Davidson's pinnacle model, the FLHTCUSE 5.\nハーレー・ダヴィッドソンの最高峰モデル、FLHTCUSE 5。\n\n#ricoh #r1s #リコー #フィルム写真 #filmisnotdead #35mmfilm #toycamera #toycameraphotography #streetphotography #トイカメラ #写真好きな人と繋がりたい #キリトリセカイ #ファインダー越しの私の世界 #東京カメラ部 #東京写真部  #haelry #harleydavidsonmotorcycles",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wq2lrjhumgalwq2oekzofngz/bafkreiaojksxoe4pwcefanibo6yh7aanf67mukspgfen7uwkat3aehehqu"
+          ],
+          "indexedAt": "2026-09-18T12:14:08.965Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:mtoqtss6tvv7iyhb2esjccsj",
+      "authorHandle": "unicun.com",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:mtoqtss6tvv7iyhb2esjccsj/app.bsky.feed.post/3mvvkxdchci2z",
+          "cid": "bafyreigejoagw4cmrakx5e5jswqsiseruqwxwmyn5csj5y3mmm2uzvrzw4",
+          "authorDid": "did:plc:mtoqtss6tvv7iyhb2esjccsj",
+          "authorHandle": "unicun.com",
+          "text": "Know someone obsessed with film photography but without a darkroom? This High-Resolution Film Scanner is the perfect gift to help them digitize their negatives and slides in HD. 📸✨\n\nGet it here: https://unicun.com/product/high-resolution-film-scanner/\n\n#FilmPhotography #Analog #PhotoGift",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mtoqtss6tvv7iyhb2esjccsj/bafkreignrssjgdowgcc34z4a72cnzrdvino7kmu6gkunpqqmowatxqmbbu"
+          ],
+          "indexedAt": "2026-09-19T20:54:54.165Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ouzgopydl3mieguze4liif5b",
+      "authorHandle": "analogboeh.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:ouzgopydl3mieguze4liif5b/app.bsky.feed.post/3mvssjk55s2wx",
+          "cid": "bafyreih3svn35yd3bgbu6dtm5cf64qnfzictdss2k5jprofyyk5y5wncki",
+          "authorDid": "did:plc:ouzgopydl3mieguze4liif5b",
+          "authorHandle": "analogboeh.bsky.social",
+          "text": "auf zum ersten Photowalk!\n\nNichts ist schöner, als zum ersten Photowalk mit einer neuen Kamera aufzubrechen\n\n#analog #analogfotografie #analogphotography #filmfotografie #filmphotography #ibelieveinfilm #nikon",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouzgopydl3mieguze4liif5b/bafkreibp2leh2h2wkxytoqliygkqlcf3pbdo7h2lyflxj4tdc4754dp6wi"
+          ],
+          "indexedAt": "2026-09-18T18:37:46.167Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:4frlvyivltkem433iu2kjca3",
+      "authorHandle": "handle.invalid",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:4frlvyivltkem433iu2kjca3/app.bsky.feed.post/3mvyorrcuosx2",
+          "cid": "bafyreiddtqnwawonwi36drmrxoeye6dgnty2viaqqzzjrzzm4xlolp2oi4",
+          "authorDid": "did:plc:4frlvyivltkem433iu2kjca3",
+          "authorHandle": "handle.invalid",
+          "text": "It was nice to get some darkroom time this weekend.\n\n#darkroom #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4frlvyivltkem433iu2kjca3/bafkreicmqwj6xufxh2uwzk74vwesmlb7pjccs4flvweuwsrupuqvi7uura",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4frlvyivltkem433iu2kjca3/bafkreibkyjcmiymfvxmzqhokuqr6mcgxjjnd66l3j66ijhhiiww3whowy4"
+          ],
+          "indexedAt": "2026-09-21T02:41:26.664Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}
