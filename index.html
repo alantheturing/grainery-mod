@@ -4,6 +4,13 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/grainery-mod/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--
+      Keeps the moderation tool out of search results. The tool is deliberately ungated (it has no
+      write path - see CLAUDE.md), so this is the only protection worth having: GitHub Pages can't send
+      an X-Robots-Tag header, and this tag only covers this page, not the batches/*.json files it fetches.
+      Those are linked from nowhere, so a crawler would have to execute the app to find them.
+    -->
+    <meta name="robots" content="noindex, nofollow" />
     <title>grainery-mod</title>
     <script type="module" crossorigin src="/grainery-mod/assets/index-C-2Nsfjz.js"></script>
     <link rel="stylesheet" crossorigin href="/grainery-mod/assets/index-BeJX2aAv.css">
