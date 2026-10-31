@@ -1,0 +1,530 @@
+{
+  "batchNumber": 6,
+  "totalBatches": 7,
+  "orderBy": "confidence",
+  "generatedAt": "2026-10-31T19:40:08.297Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:hc3yfudpro7pjuheotexhi4v",
+      "authorHandle": "emiliog.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:hc3yfudpro7pjuheotexhi4v/app.bsky.feed.post/3my4fysh2lc2m",
+          "cid": "bafyreiasu6l4bu27qy7tsj64egppcswpoypyjmksirgro64rdid65bw27y",
+          "authorDid": "did:plc:hc3yfudpro7pjuheotexhi4v",
+          "authorHandle": "emiliog.bsky.social",
+          "text": "having a wild Saturday night by developing Tri-X @ 1600 in D-96 like a fuckin' madman\n\ntwitch.tv/spankerprime/",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hc3yfudpro7pjuheotexhi4v/bafkreidk45tqssjdl5zf5jhgo7nytuqukubuqieqwjjrs6vru6eqg4vdcy"
+          ],
+          "indexedAt": "2026-10-18T01:05:18.356Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Tri-X",
+              "category": "filmStock",
+              "matchedText": "Tri-X"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ifmkntzz4xcbbszw6k3o7q3p",
+      "authorHandle": "cozycapy.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:ifmkntzz4xcbbszw6k3o7q3p/app.bsky.feed.post/3my34fr6dtk2p",
+          "cid": "bafyreih4bm7vdexs4eynocosmbufn2lrb2jo7yyrl5qckupmdmy2y6h6za",
+          "authorDid": "did:plc:ifmkntzz4xcbbszw6k3o7q3p",
+          "authorHandle": "cozycapy.bsky.social",
+          "text": "The Hasselblad Explorer kit is pretty neat.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ifmkntzz4xcbbszw6k3o7q3p/bafkreie5rmayrkzz24sfdrrjohhuz2x2fn5vzrqhx476ya7pq6hc2wvsni"
+          ],
+          "indexedAt": "2026-10-17T12:40:58.357Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:c4cnlodwaxlqs37n52jkx6zn",
+      "authorHandle": "samreevesphoto.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:c4cnlodwaxlqs37n52jkx6zn/app.bsky.feed.post/3my6tyygr3c2j",
+          "cid": "bafyreie6gi7onvkdj25k6dprvjsexbamvi4jvmpla2zb4cwnmrrqsmwspq",
+          "authorDid": "did:plc:c4cnlodwaxlqs37n52jkx6zn",
+          "authorHandle": "samreevesphoto.bsky.social",
+          "text": "I had a box of the old T-Max 100 dating from 1999 in my freezer.  Never used it.  I finally thawed it out, and loaded 5 film holders.  How did 27 year old film do?  Not a problem at all.  At Cascade Creek at Ano Nuevo, California.  October 2026.\n#tachihara4x5 #largeformat #filmisnotdead #analog #4x5",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c4cnlodwaxlqs37n52jkx6zn/bafkreifc6xetfiogxc6xkw3gykgfz5g2hafzh5vachrhblexeepqkgcibq"
+          ],
+          "indexedAt": "2026-10-19T00:21:18.063Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:T-Max 100",
+              "category": "filmStock",
+              "matchedText": "T-Max 100"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:c2xayqouah6stxhypo35um7s",
+      "authorHandle": "georgeoeser.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:c2xayqouah6stxhypo35um7s/app.bsky.feed.post/3my5xjiyj7k2b",
+          "cid": "bafyreihejf6r4apay7uvpskzrdtzsyc5qpi6ek3svtdflly2ouo6iezurm",
+          "authorDid": "did:plc:c2xayqouah6stxhypo35um7s",
+          "authorHandle": "georgeoeser.bsky.social",
+          "text": "Don't Be A Square\n\nShot with a Holga 120N camera on Kodak Gold 200 film\n\n#film #analog #holga #toycamera #architecture #Covington #Cincinnati #Kentucky #Ohio",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2xayqouah6stxhypo35um7s/bafkreihx6reewws2nqvh3zapgrdjes2n2gl7yuxo7zr7kcggvffypacdhm"
+          ],
+          "indexedAt": "2026-10-18T15:51:35.355Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Gold 200",
+              "category": "filmStock",
+              "matchedText": "Gold 200"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:pal3nqudrzexpf5qz32gdrv6",
+      "authorHandle": "pokemondrop.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:pal3nqudrzexpf5qz32gdrv6/app.bsky.feed.post/3my7kwc3kbk2j",
+          "cid": "bafyreicpfetc6pzm46dccyhevadjfhm6aks5kaiypprnjw3pq2ykxjzyta",
+          "authorDid": "did:plc:pal3nqudrzexpf5qz32gdrv6",
+          "authorHandle": "pokemondrop.bsky.social",
+          "text": "Amazon [$99.99]: Polaroid Go Gen3 Mini Instant Camera - Pokémon Sylveon Edition (9211) - Camera Only\n\n🛍 r.amzlink.to?btn_ref=org-...\n\nMore Pokemon/Polaroid: amzn.to/4xfr95q\nPolaroid: howl.link/dpc5y267wn03c\n\n#pokemonTCG\n\n⏰ 02:10:54 #ad",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pal3nqudrzexpf5qz32gdrv6/bafkreigmspfikzotj3tle73mi34uwwknginzholn5ctubofylhywcbjrea"
+          ],
+          "indexedAt": "2026-10-19T07:11:20.758Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Polaroid Go",
+              "category": "filmStock",
+              "matchedText": "Polaroid Go"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:hb5gprwx3ctrmvbt3mrtkdzu",
+      "authorHandle": "gadgetsmagazine.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:hb5gprwx3ctrmvbt3mrtkdzu/app.bsky.feed.post/3my7ldar4gl27",
+          "cid": "bafyreifaufp7p54m4y255hii2xeoystcszoxj4hfp5kse3gwsmizm2lr3m",
+          "authorDid": "did:plc:hb5gprwx3ctrmvbt3mrtkdzu",
+          "authorHandle": "gadgetsmagazine.bsky.social",
+          "text": "OPPO's Find X10 Series is making its global debut on October 21 in Mallorca, Spain. The Find X10 comes with a Dual 200MP Camera System co-developed with Hasselblad, while the Find X10 Pro Max steps up to a Triple 200M\nhttps://gadgetsmagazine.com.ph/technology/smartphones-tablets/oppo-find-x10-series",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hb5gprwx3ctrmvbt3mrtkdzu/bafkreidotgqmjm2wy54kiyaltozqiofzwhmbtw5lxsuj6lfaeyo4t4lmxu"
+          ],
+          "indexedAt": "2026-10-19T07:18:35.552Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:g6jzu446txoc2joxpncv2qkj",
+      "authorHandle": "brett-baudin.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:g6jzu446txoc2joxpncv2qkj/app.bsky.feed.post/3mybnedeuei2m",
+          "cid": "bafyreibxs5bgw2wsiyouwd6rbubvzeth6uir2vklokovyhg6fdl6zndkye",
+          "authorDid": "did:plc:g6jzu446txoc2joxpncv2qkj",
+          "authorHandle": "brett-baudin.bsky.social",
+          "text": "#aiart #promptshare\nTitle: Embers of the Rift\nStyle: Documentary photography — environmental portraiture; 35mm film, Kodak Portra 800 pushed; gentle film grain; photojournalistic realism in the tradition of Steve McCurry and Sebastião Salgado.\nPrompt in ALT",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g6jzu446txoc2joxpncv2qkj/bafkreigb75nlnoakkmv3t3gn26labkyki36anr6vxrojwbjxv3gontr6wa"
+          ],
+          "indexedAt": "2026-10-20T03:00:19.156Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Portra",
+              "category": "filmStock",
+              "matchedText": "Portra"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:xcpcdvhx2icy7udle4d7e7k2",
+      "authorHandle": "monochromefx.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:xcpcdvhx2icy7udle4d7e7k2/app.bsky.feed.post/3myaxkbgm4edf",
+          "cid": "bafyreihdnp5pjnsh75ysfz7hqkoatpfeqcrvp2e7u6cywye3ycxpzmke5e",
+          "authorDid": "did:plc:xcpcdvhx2icy7udle4d7e7k2",
+          "authorHandle": "monochromefx.bsky.social",
+          "text": "Chicago ‘26\n#chicago #toycamera #instax #pal2",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xcpcdvhx2icy7udle4d7e7k2/bafkreiand45lz53ihyowyu6bydpjr3thrc5cn2m3nwowhdndjxylzj5jiq"
+          ],
+          "indexedAt": "2026-10-19T20:29:58.991Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:zlsfch5ulept2xn4uernvh73",
+      "authorHandle": "andykarlson.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:zlsfch5ulept2xn4uernvh73/app.bsky.feed.post/3mybq364po22g",
+          "cid": "bafyreidtafycdck2du6x74wl43r7t6gvzalb5vrih6vmrbtn5avwtmsg5e",
+          "authorDid": "did:plc:zlsfch5ulept2xn4uernvh73",
+          "authorHandle": "andykarlson.bsky.social",
+          "text": "This was a long exposure with my Olympus XA, set it on the bar propped up on a couple of coasters, and got very lucky. (cropped a little and goosed up a touch)",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zlsfch5ulept2xn4uernvh73/bafkreiasdhaxigdtu3ugqydohca6i4rh5sly4unost3vwtpvuws7lg2twm"
+          ],
+          "indexedAt": "2026-10-20T03:48:53.755Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "Olympus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:qqzkiwqykk7nmt55upvkpmfm",
+      "authorHandle": "oggielander.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:qqzkiwqykk7nmt55upvkpmfm/app.bsky.feed.post/3mydwp2ydgs2o",
+          "cid": "bafyreihp3b6k3wmogu7xs4tyguvevbqocp5vulghtpxsi4l2whwgxm2p34",
+          "authorDid": "did:plc:qqzkiwqykk7nmt55upvkpmfm",
+          "authorHandle": "oggielander.bsky.social",
+          "text": "#WideshotWednesday - Porthleven harbour, Cornwall\n\n #weekV for #Verto\n\n#panophotos #pano #panorama #vertorama #Panoramic #Porthleven #Cornwall #Analogue #Xpan #Hasselblad",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qqzkiwqykk7nmt55upvkpmfm/bafkreidqjoylifm6l3meq2wp5ymrifajos4jgeibkigupqkyl6eiuuzmg4"
+          ],
+          "indexedAt": "2026-10-21T00:52:49.642Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:6ceqtjqbw5palqa5mztjubln",
+      "authorHandle": "davemeredith.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:6ceqtjqbw5palqa5mztjubln/app.bsky.feed.post/3myh3lmp3oc2z",
+          "cid": "bafyreib7ycipcdiioe7hondqymhqf5xrlzui6ql3bjvekkayfspniapbjm",
+          "authorDid": "did:plc:6ceqtjqbw5palqa5mztjubln",
+          "authorHandle": "davemeredith.bsky.social",
+          "text": "Today's #BirdOfTheDay theme is #Seasonal. A few Snow Geese and three Tundra Swans on autumn migration. \n\nA #ThrowbackThursday post photographed on #Fujichrome #Velvia in the late #1990s.\n\n#Saskatchewan #ECK #photography #birds #nature #wildlife #ManualFocus",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ceqtjqbw5palqa5mztjubln/bafkreig3snryqo54mgswe7ruiz7pbk4643umxxk7qtmu3s23qhk3eajhxa"
+          ],
+          "indexedAt": "2026-10-22T06:58:28.039Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "Velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:khpv2nre6onfsfyxtousanyr",
+      "authorHandle": "oldukprintadsxmas.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:khpv2nre6onfsfyxtousanyr/app.bsky.feed.post/3myjhz5qyfv2b",
+          "cid": "bafyreiek625vghpcy3vns5entpr56cn2otbudmvwqebbx2fxpp7zruggmq",
+          "authorDid": "did:plc:khpv2nre6onfsfyxtousanyr",
+          "authorHandle": "oldukprintadsxmas.bsky.social",
+          "text": "Dec 1983: Cameras ad from SupaSnaps\n\n(+Konica EF3; Olympus; Konica Pop; Halina Micro; DISC PAC; Halina 208 Disc; and PIC-PAC)\n\n«SupaSnaps\nPOP IN AND SNAP UP A SUPER CHRISTMAS GIFT»",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:khpv2nre6onfsfyxtousanyr/bafkreih2ucfoerhhk4ko7uvybdmf6weesma3g36iupsadspree7k7knu2q"
+          ],
+          "indexedAt": "2026-10-23T05:45:54.035Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "Olympus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:rvhwdn5kjkgazvfuvrsrhg3d",
+      "authorHandle": "niggyl.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:rvhwdn5kjkgazvfuvrsrhg3d/app.bsky.feed.post/3myjbcv4zdwaq",
+          "cid": "bafyreigsrbrm5wzb36ih26puv2p2jjmvwvynehngnytnko7hlvb6gnxxqy",
+          "authorDid": "did:plc:rvhwdn5kjkgazvfuvrsrhg3d",
+          "authorHandle": "niggyl.bsky.social",
+          "text": "Off Cape Barren, steaming north up the east side of Flinders Island.  Ilford Delta. C. 1983\n\n#film #fishing #light #classicmono #blackandwhitephotography #archive",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rvhwdn5kjkgazvfuvrsrhg3d/bafkreiavvln7jeq7l3s42woa33tyws7bvv6tozogohejitkbqpittowy6u"
+          ],
+          "indexedAt": "2026-10-23T03:46:06.242Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:2apmi6oea5dqodidrc5axdnt",
+      "authorHandle": "gentshutterbug.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:2apmi6oea5dqodidrc5axdnt/app.bsky.feed.post/3myj2czmh6s2t",
+          "cid": "bafyreibqi54nqbl4uq6qacef33qgsy2s7selsomeh6nor5zyyoakclcqsq",
+          "authorDid": "did:plc:2apmi6oea5dqodidrc5axdnt",
+          "authorHandle": "gentshutterbug.bsky.social",
+          "text": "Lawn statue.\n\n1970s Kodak Handle, using Instax Square film and a 3D printed adapter designed by Josh Gladstone.\n\n#polaroidweek\n#instantfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2apmi6oea5dqodidrc5axdnt/bafkreifc7qphcsmdjzulwdrbix4qckxbo44iuolbfo6tctwcpukkqglbea"
+          ],
+          "indexedAt": "2026-10-23T01:40:56.948Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "Instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:2huu5aklmtj6zfs2gerq4itw",
+      "authorHandle": "edmcabee.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:2huu5aklmtj6zfs2gerq4itw/app.bsky.feed.post/3myiaq7zw722m",
+          "cid": "bafyreidstjoki3ggurpvqjjggwld3ujtcgb5zmkokghgnurqmwgrre3iai",
+          "authorDid": "did:plc:2huu5aklmtj6zfs2gerq4itw",
+          "authorHandle": "edmcabee.bsky.social",
+          "text": "Neighborhood Watch Sign/2 Hour Parking Sign\nTools:\nCamera: Polaroid Now Generation 2\nFilm: Polaroid i-Type Color\n#photography #filmsky #polaroid #analogphotography #instantphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2huu5aklmtj6zfs2gerq4itw/bafkreihv4spb2idqx2w5rmnzb3u736a3sxelukezor744qcimu2ox3wrra"
+          ],
+          "indexedAt": "2026-10-22T18:02:58.346Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Polaroid i-Type",
+              "category": "filmStock",
+              "matchedText": "Polaroid i-Type"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:pkamjsctxluqsrl5n2ssu2xx",
+      "authorHandle": "h34dca5e.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:pkamjsctxluqsrl5n2ssu2xx/app.bsky.feed.post/3myj45bh3nc25",
+          "cid": "bafyreigwisjdnhdx445fcn4ojpku2cre3lebi255jb2tat32hrtoduew6a",
+          "authorDid": "did:plc:pkamjsctxluqsrl5n2ssu2xx",
+          "authorHandle": "h34dca5e.bsky.social",
+          "text": "#instax™️ ‘SQUARE’",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pkamjsctxluqsrl5n2ssu2xx/bafkreielpxvzdaiokzuv33nigne6r5caumtqjy54unw4ksrkdkgjcqfdo4"
+          ],
+          "indexedAt": "2026-10-23T02:13:27.035Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:rgnu5xp574zgr3otafdadziq",
+      "authorHandle": "artpage1.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:rgnu5xp574zgr3otafdadziq/app.bsky.feed.post/3myiu7r5nfs23",
+          "cid": "bafyreigehgn7wpvy32ekudrnugi5k4h3wahu7zqkyh3p33yqu4u36t2x3y",
+          "authorDid": "did:plc:rgnu5xp574zgr3otafdadziq",
+          "authorHandle": "artpage1.bsky.social",
+          "text": "Wichita Mandorla - 2014\n#photography #canonM #Hasselblad #vintagelens #Photographie #Fotografía #Fotografie #Fotografi",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rgnu5xp574zgr3otafdadziq/bafkreigjdltvjy6kplyg7d7hj7ncxryfqyfn4vkqpfgikkrdwtrtsbptha"
+          ],
+          "indexedAt": "2026-10-22T23:52:05.144Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:j6zenxwkel3zv4abfdb2olhh",
+      "authorHandle": "pxology.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:j6zenxwkel3zv4abfdb2olhh/app.bsky.feed.post/3myi6t2qer22g",
+          "cid": "bafyreiaurqownzx7bu4lty4ogmz74irugrnlxikbbwciq2z4tzqe52q32i",
+          "authorDid": "did:plc:j6zenxwkel3zv4abfdb2olhh",
+          "authorHandle": "pxology.bsky.social",
+          "text": "📱 OPPO Find X10 serisi küresel olarak tanıtıldı!\n\nFind X10 Pro Max, üçlü 200 MP kamera sistemiyle dikkat çekiyor.\nHasselblad görüntü teknolojisi ve ColorOS 17 de yeni seride yer alıyor.\n\n#OPPO #FindX10 #Hasselblad #Android \n\n🔗 www.oppo.com/en/newsroom/...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j6zenxwkel3zv4abfdb2olhh/bafkreif5jonaxtftwltkm2a4jkzjbaxwlkmfehr3dyczoiurmpselotc6m"
+          ],
+          "indexedAt": "2026-10-22T17:28:48.351Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}

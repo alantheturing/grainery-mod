@@ -1,0 +1,679 @@
+{
+  "batchNumber": 5,
+  "totalBatches": 7,
+  "orderBy": "confidence",
+  "generatedAt": "2026-10-31T19:40:08.297Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:vfdpkaz5hvdjlvjpg7uljnp4",
+      "authorHandle": "sideshow-jim.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:vfdpkaz5hvdjlvjpg7uljnp4/app.bsky.feed.post/3mxrnwi4hs223",
+          "cid": "bafyreigjudrqpdz77hjxpx6qcz6m3543binopdg2nj4be2i5a3zgkicdf4",
+          "authorDid": "did:plc:vfdpkaz5hvdjlvjpg7uljnp4",
+          "authorHandle": "sideshow-jim.bsky.social",
+          "text": "In the ongoing fight against the Minolta light leaks, I've now found that there's 2 big holes behind the pressure plate.\n\nI've been changing the foam round the edges, and there's 2 holes right there!!!\nTsch...\n\n#AnalogPhotography #ShootFilmBeNice",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfdpkaz5hvdjlvjpg7uljnp4/bafkreicsmrijomqyla4kiy3fw54lnxsg5tmbiavfly5kc6vi4mphv3m7dm"
+          ],
+          "indexedAt": "2026-10-13T18:27:56.367Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Minolta",
+              "category": "camera",
+              "matchedText": "Minolta"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:vfdpkaz5hvdjlvjpg7uljnp4/app.bsky.feed.post/3my5ubgrauk2c",
+          "cid": "bafyreictjyl6cm5z4sj3vm26275lfdyo5ank74eyv2plefulnft3itwrsm",
+          "authorDid": "did:plc:vfdpkaz5hvdjlvjpg7uljnp4",
+          "authorHandle": "sideshow-jim.bsky.social",
+          "text": "Felt a roll of film in my satchel and thought I'd take it out and see if the light proofing repair on the Minolta had worked. Went to load it, and well....\n\nCan I do a GoFundMe for B&W film stock?\n#ShootFilmBeNice #AnalogPhotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfdpkaz5hvdjlvjpg7uljnp4/bafkreifahheib37jvpmc75cm4vultx55scyfzqypf6w76s3e2k5q2n2kkm"
+          ],
+          "indexedAt": "2026-10-18T14:53:22.568Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Minolta",
+              "category": "camera",
+              "matchedText": "Minolta"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:5pxrqfkfqhxqd4jbt2aw5aqt",
+      "authorHandle": "villehyvonen.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:5pxrqfkfqhxqd4jbt2aw5aqt/app.bsky.feed.post/3mxys5tbknk2d",
+          "cid": "bafyreic5swpdomr26mhnhrdff5qdmfc5z3xoqktuctbgyfocr53tt5azvu",
+          "authorDid": "did:plc:5pxrqfkfqhxqd4jbt2aw5aqt",
+          "authorHandle": "villehyvonen.bsky.social",
+          "text": "Helsinki/Tallinn/London moods and spontaneous portraits with Hasselblad 500c/m + 80mm f2.8 Opton PL + Kodak film",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5pxrqfkfqhxqd4jbt2aw5aqt/bafkreiebieilayebzzigciykqmua525dk345rw5lhxpdfmz4575755tsaq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5pxrqfkfqhxqd4jbt2aw5aqt/bafkreid5gyjjwnccqlk5uycbygtyiiieexbinczsjaxmb65jkcw2gxssfa",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5pxrqfkfqhxqd4jbt2aw5aqt/bafkreidc2ae4w24zcfosoytx7sq772jlnooomedasifl4nfytgjy37rdbq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5pxrqfkfqhxqd4jbt2aw5aqt/bafkreiblji6bmflihrsvkqg2ic2bjmc6ww4htrxg6v6hb2g6tlsmapodsu"
+          ],
+          "indexedAt": "2026-10-16T14:33:33.353Z",
+          "matches": [
+            {
+              "keywordId": "camera:500C/M",
+              "category": "camera",
+              "matchedText": "500c/m"
+            },
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:dp226yq7cvt2dkyzmikuw7o4",
+      "authorHandle": "listergatan.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:dp226yq7cvt2dkyzmikuw7o4/app.bsky.feed.post/3my4e7ajqj22r",
+          "cid": "bafyreiewdu52veuy33mbfa2u2of73j6fan37jr5sfz4l2e6m3bmdwvqfia",
+          "authorDid": "did:plc:dp226yq7cvt2dkyzmikuw7o4",
+          "authorHandle": "listergatan.bsky.social",
+          "text": "Nu har jag lagt 4 timmars jobb på denna bild för att jag vill använda denhär utrustningen på punkspelning och framkalla min Ilford Delta 3200 på toa och få fram svartvita tonåringar på dåligt upplyst scen i grynigt format. Anlita mig som gratis rätt kass fotograf med utrustning som kosta 100 000 då",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dp226yq7cvt2dkyzmikuw7o4/bafkreielss3ngiclnrrfssadxreexwoktdcplf6zczs6njolzdvrmq5r3q"
+          ],
+          "indexedAt": "2026-10-18T00:33:08.853Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Delta 3200",
+              "category": "filmStock",
+              "matchedText": "Delta 3200"
+            },
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:tfektpwnaa5f7uuz3phxwfvd",
+      "authorHandle": "hecate-rules.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:tfektpwnaa5f7uuz3phxwfvd/app.bsky.feed.post/3my34iitrbk2g",
+          "cid": "bafyreiahxcz4i3ngswybbz6nrtvcato6rhmqxldd252xyrty67wcga3gkq",
+          "authorDid": "did:plc:tfektpwnaa5f7uuz3phxwfvd",
+          "authorHandle": "hecate-rules.bsky.social",
+          "text": "Light, Leather, and Power 🖤\n\n📸 The Berlin Chameleon with My Hasselblad 500C/M 🎞️📸",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tfektpwnaa5f7uuz3phxwfvd/bafkreih6lhxv7s4xck4laaqjasi3666jok43dhs3gcqah2u4vseucrhzle"
+          ],
+          "indexedAt": "2026-10-17T12:42:28.956Z",
+          "matches": [
+            {
+              "keywordId": "camera:500C/M",
+              "category": "camera",
+              "matchedText": "500C/M"
+            },
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:tgggig57ykzlepqhgosdfpqg",
+      "authorHandle": "lycoming-i0360.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:tgggig57ykzlepqhgosdfpqg/app.bsky.feed.post/3mybr64aay22z",
+          "cid": "bafyreianx2gydiich4v7tyqzjssvfjrjqkvbive565r4xz7h6la3edjj4y",
+          "authorDid": "did:plc:tgggig57ykzlepqhgosdfpqg",
+          "authorHandle": "lycoming-i0360.bsky.social",
+          "text": "Me: Im worried that I developed the film wrong\n\nMy film plug: Its from the same era as Forrest Gump\n\n🎞 Kodak Vision3 500T\n📸 Nikon F3",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgggig57ykzlepqhgosdfpqg/bafkreidq5bbwqffef354xza3sypeumdc7pa7wokkafi3vooddzdj345i2e",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgggig57ykzlepqhgosdfpqg/bafkreidbjwolkxi5gydzbyqbwvtxxmxoq76mgon5yc2e2x77mczq5tordu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgggig57ykzlepqhgosdfpqg/bafkreiaghtpzv4a4tvxbegdhmw4tpomgf6iot7atwruezeokwfavzoa6oq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgggig57ykzlepqhgosdfpqg/bafkreiebu3hnz2v5kdbf3mmb4iqj6fyema5hq62uk6f3jwflb3d4x2aa4u"
+          ],
+          "indexedAt": "2026-10-20T04:08:42.756Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Vision3 500T",
+              "category": "filmStock",
+              "matchedText": "Vision3 500T"
+            },
+            {
+              "keywordId": "filmStock-alias:Vision3",
+              "category": "filmStock",
+              "matchedText": "Vision3"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:io2oid4myka4ckzoo22c3dvj",
+      "authorHandle": "soluslu.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:io2oid4myka4ckzoo22c3dvj/app.bsky.feed.post/3myczfui54k27",
+          "cid": "bafyreiclsewvvvlwu3yblackl6eeos2znretc3jtx5znwtejh75qtwzr7y",
+          "authorDid": "did:plc:io2oid4myka4ckzoo22c3dvj",
+          "authorHandle": "soluslu.bsky.social",
+          "text": "Buying icecream at a cleaners?\n洗濯屋でアイスを買う？\n\nHasselblad 500C / 台北\n #film #底片 #フィルム写真 #スナップ写真",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io2oid4myka4ckzoo22c3dvj/bafkreiegd2p4eanvsduvngpruueb7japrvtycontu5arzbfdh5dtgekmim"
+          ],
+          "indexedAt": "2026-10-20T16:08:45.143Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:io2oid4myka4ckzoo22c3dvj/app.bsky.feed.post/3mykmcxxojc2w",
+          "cid": "bafyreih34ebyth72soj2e73uzfdacagin7wci6mfj2mwwubnuakmlrfw6a",
+          "authorDid": "did:plc:io2oid4myka4ckzoo22c3dvj",
+          "authorHandle": "soluslu.bsky.social",
+          "text": "角落\n\nHasselblad 500C / 台北\n #film #底片 #フィルム写真 #スナップ写真",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:io2oid4myka4ckzoo22c3dvj/bafkreiczarolgqgdw5p4uz5e33v6uo6t7xq5unos4lpr4f2r2e5kkk2f4m"
+          ],
+          "indexedAt": "2026-10-23T16:35:42.650Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:vrxmvpci2vcf3c7qghy7kq5k",
+      "authorHandle": "waldolf.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:vrxmvpci2vcf3c7qghy7kq5k/app.bsky.feed.post/3myhk4me2bk2b",
+          "cid": "bafyreidfy7tofddvz6nkkdkrqgx5b2g2cdybpqvygeayhyxdrdz4k3vnsa",
+          "authorDid": "did:plc:vrxmvpci2vcf3c7qghy7kq5k",
+          "authorHandle": "waldolf.bsky.social",
+          "text": "#OctoBEAR @Mephitfurmeet #mephitfurmeet #Mephit #MFM #Mephit2010 Taken at MFM 14 (2010) by Protius with Delta 100 in a hasselblad, eletronic flash #fursuit #fursuiter #fursuiting #bear #costume #helium #balloon",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrxmvpci2vcf3c7qghy7kq5k/bafkreifpua6xuk2t5zykxn4ncygyvtukuyuebgkveorcvivcov7c2r7rnq"
+          ],
+          "indexedAt": "2026-10-22T11:18:15.841Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Delta",
+              "category": "filmStock",
+              "matchedText": "Delta"
+            },
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "hasselblad"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:oeepdpfsbnerbtani4vpxslv",
+      "authorHandle": "ux-tech.fr",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:oeepdpfsbnerbtani4vpxslv/app.bsky.feed.post/3myht6yju752s",
+          "cid": "bafyreieidckm2k3bwhpcrx6awggzhhfndjqhrnpps2nybdblqyw7fkhojm",
+          "authorDid": "did:plc:oeepdpfsbnerbtani4vpxslv",
+          "authorHandle": "ux-tech.fr",
+          "text": "OPPO Find X10 Pro Max arrive en France à partir de 1 799 € :\n🛒 https://fliz.ly/0X7L6_w\n\n📸 Triple 200 Mpx Hasselblad + LUMO | 🎥 Vidéo HDR 17 stops | ⚡ Dimensity 9600 Pro (2 nm) | 🔋 7 150 mAh | 🤖 ColorOS 17\n\n#OPPO #FindX10ProMax #Hasselblad #UxTech",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oeepdpfsbnerbtani4vpxslv/bafkreigf4wso4sqhg5zvbk5rvf32zztopr7o2bxumg6auydnc7nvklyaee"
+          ],
+          "indexedAt": "2026-10-22T14:00:40.541Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:oeepdpfsbnerbtani4vpxslv/app.bsky.feed.post/3myhpt4oaax23",
+          "cid": "bafyreibt4yimvj45mowvpcrt3uiawsrvq3h7nzgae64e4tpjbtl6uddt7q",
+          "authorDid": "did:plc:oeepdpfsbnerbtani4vpxslv",
+          "authorHandle": "ux-tech.fr",
+          "text": "OPPO Find X10 débarque en France à partir de 1 299 € :\n🛒 https://fliz.ly/WYAdq_w\n\n📸 Double 200 Mpx Hasselblad + LUMO | 📱 OLED 144 Hz ProXDR | 🔋 7 150 mAh | ⚡ 80 W + 50 W sans fil | 🤖 ColorOS 17\n\n#OPPO #FindX10 #Hasselblad #Smartphone #UxTech",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oeepdpfsbnerbtani4vpxslv/bafkreifhpte76ggwy3af2fq3g3h6ikiqdjcnbzkswwaiuoj4ohwqkujmzi"
+          ],
+          "indexedAt": "2026-10-22T13:00:20.944Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7ov7uvrswd2s5o7cgikqvytm",
+      "authorHandle": "pascb.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:7ov7uvrswd2s5o7cgikqvytm/app.bsky.feed.post/3mynji2illk2o",
+          "cid": "bafyreibn45mpucaqnwxnwxgdqqeqro556aebh7v27zanbfdl6nduccy7c4",
+          "authorDid": "did:plc:7ov7uvrswd2s5o7cgikqvytm",
+          "authorHandle": "pascb.bsky.social",
+          "text": "deep shadows; provence\n\nLeica M6 / Summaron 35 f/2.8 / Ilford HP5 / ID-11",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7ov7uvrswd2s5o7cgikqvytm/bafkreiglmhfnlchdrwr4qf3of2txcufyc4lh256jgbv4qasiyzoiou7w3q"
+          ],
+          "indexedAt": "2026-10-24T20:22:42.538Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:HP5",
+              "category": "filmStock",
+              "matchedText": "HP5"
+            },
+            {
+              "keywordId": "camera:M6",
+              "category": "camera",
+              "matchedText": "M6"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ljfgprg52tcoz2dcumvtpd5p",
+      "authorHandle": "john1961.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:ljfgprg52tcoz2dcumvtpd5p/app.bsky.feed.post/3myn35nkcmc2q",
+          "cid": "bafyreiavvlyuf4k5wl5ec3pfcs2gfwzdgn5j4uljp7mpogc3kb2a2than4",
+          "authorDid": "did:plc:ljfgprg52tcoz2dcumvtpd5p",
+          "authorHandle": "john1961.bsky.social",
+          "text": "St Oswald's Church, Kirk Sandall, Doncaster.\n📷 Olympus Om 1\n🎞️ Kentmere 400\n🧪Rodinal",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ljfgprg52tcoz2dcumvtpd5p/bafkreigkpwcfbnxse4p43vrux2hzxgsdw4vqpko7yj6ltuww5f4ofunvpe",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ljfgprg52tcoz2dcumvtpd5p/bafkreifzrsj22lmf26jeobg7mz23s7uakxki3bpgfcn3vljbfst3cv7dd4",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ljfgprg52tcoz2dcumvtpd5p/bafkreiec5oxo2se4h5dikkm7hxipfkkz2gyzrz4l27bfozw5mu2smlbuxe",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ljfgprg52tcoz2dcumvtpd5p/bafkreigxvgqna2tcvhhpuijktkow4thsygdlfkrirxobcrx7cf3h4lllnm"
+          ],
+          "indexedAt": "2026-10-24T16:06:27.735Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Kentmere",
+              "category": "filmStock",
+              "matchedText": "Kentmere"
+            },
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "Olympus"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:c6e7sqrcomcip73chowivequ",
+      "authorHandle": "corrientejp.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:c6e7sqrcomcip73chowivequ/app.bsky.feed.post/3myrgpe54yh2k",
+          "cid": "bafyreiengbq7oeddpqqmwuconahpcqs5m46xxodranx4wpth3jcjovu45q",
+          "authorDid": "did:plc:c6e7sqrcomcip73chowivequ",
+          "authorHandle": "corrientejp.bsky.social",
+          "text": "【ニュース】\nDJIとHasselbladの旗艦店が表参道に10月31日オープン。記念イベントも開催\ncorriente.jp/dji-hasselbl...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c6e7sqrcomcip73chowivequ/bafkreiefmj4octcezf53lfs2nacpalplahk33uh46uns2ehhecm4r6yb24"
+          ],
+          "indexedAt": "2026-10-26T09:43:48.042Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:c6e7sqrcomcip73chowivequ/app.bsky.feed.post/3mz5gi7y4qh2y",
+          "cid": "bafyreib4skgfxjzc2sqe6kr25eyfdd7uab7lzuyevz2sazga2wthctyj7u",
+          "authorDid": "did:plc:c6e7sqrcomcip73chowivequ",
+          "authorHandle": "corrientejp.bsky.social",
+          "text": "【取材レポート】\n国内初のDJI・Hasselblad複合直営店が東京・表参道にオープン。ドローン体験ケージやレンズのタッチ＆トライを展開\ncorriente.jp/dji-hasselbl...",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c6e7sqrcomcip73chowivequ/bafkreif5zjieutgks65rvpy5fldwadhp3bl7klxv3zv2c67nay35oklww4"
+          ],
+          "indexedAt": "2026-10-31T04:11:46.476Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ooznljae6fncdm5qe53vi6mb",
+      "authorHandle": "contot.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:ooznljae6fncdm5qe53vi6mb/app.bsky.feed.post/3myw2e5uu7k23",
+          "cid": "bafyreidopwtrs5ni2foey2t5t6bzbt5zhaiilxvsg4cratt6qad26wy6eq",
+          "authorDid": "did:plc:ooznljae6fncdm5qe53vi6mb",
+          "authorHandle": "contot.bsky.social",
+          "text": "Wednesday morning vibes #gay #tired #cuddle #film #halfframe #olympus #penf",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ooznljae6fncdm5qe53vi6mb/bafkreiarxviwaltiql33hhnswdo7qrzxjvyes3c7p3q3a7mtwsmuvth5lq"
+          ],
+          "indexedAt": "2026-10-28T05:46:11.971Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "olympus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:ooznljae6fncdm5qe53vi6mb/app.bsky.feed.post/3myw23kd4ak23",
+          "cid": "bafyreigfx5xfmftsqqhzimryb4b5smhhdgxebcpuy6pcv5pnd7dtxf7hxq",
+          "authorDid": "did:plc:ooznljae6fncdm5qe53vi6mb",
+          "authorHandle": "contot.bsky.social",
+          "text": "Redhead on the River\nAstoria, OR\nOlympus pen f w/ 150mm f4\n#film #halfframe #olympus #penf #photography #oregon #astoria",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ooznljae6fncdm5qe53vi6mb/bafkreia7zxeh4grbcepj5l3trkhmve4apy6t32tdhjawrnwhq7aenwfoda"
+          ],
+          "indexedAt": "2026-10-28T05:41:21.978Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "Olympus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:g32bjqzevkpe3jwb3e6obp6j",
+      "authorHandle": "cazandogangas.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:g32bjqzevkpe3jwb3e6obp6j/app.bsky.feed.post/3mxvlsrnpd42m",
+          "cid": "bafyreidaqweabxj6neipbt2kfsxvlisy2gfcrkdgxdwdwb4j6khhak4doi",
+          "authorDid": "did:plc:g32bjqzevkpe3jwb3e6obp6j",
+          "authorHandle": "cazandogangas.bsky.social",
+          "text": "🎃 Cámara instantánea Polaroid Go Pokémon Pikachu por 120,32€\n\n👉 Comprar oferta\n\n🔔 Avísame si baja\n\n#CazandoGangas de #Halloween",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g32bjqzevkpe3jwb3e6obp6j/bafkreib2pbm3zljri5hknobdch2dk6n7nrxgqw5wuubcnjbabkiqz6yioy"
+          ],
+          "indexedAt": "2026-10-15T08:00:38.859Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Polaroid Go",
+              "category": "filmStock",
+              "matchedText": "Polaroid Go"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:xlsujlrwr5xpfxgaf4pixhri",
+      "authorHandle": "newsramp.com",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:xlsujlrwr5xpfxgaf4pixhri/app.bsky.feed.post/3mxk4xspxuq2y",
+          "cid": "bafyreiakheusdyeex7emfrdt2osl3acwqe2jipvbnxzhgotbahgqsecbia",
+          "authorDid": "did:plc:xlsujlrwr5xpfxgaf4pixhri",
+          "authorHandle": "newsramp.com",
+          "text": "OPPO's Find X10 Series launches globally October 21 in Mallorca, Spain. Highlights include the world's first Triple 200MP Camera System, 8K video, and a next-gen LUMO True Image Engine co-developed with Hasselblad. #OPPO #Smartphones",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xlsujlrwr5xpfxgaf4pixhri/bafkreiavbxny2b7w2xxdg6xekocvlaoiiaz7c42wjbkenuyrj4lbidwnh4"
+          ],
+          "indexedAt": "2026-10-10T18:35:44.561Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:whwv6h4adrh2xgfpghiky63z",
+      "authorHandle": "nigelstanley.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:whwv6h4adrh2xgfpghiky63z/app.bsky.feed.post/3mxy52d7pus2r",
+          "cid": "bafyreih7y6f6cxzjdnps7lzipaskqgqkudb5qrrbmk4cczlqhq3diiglbu",
+          "authorDid": "did:plc:whwv6h4adrh2xgfpghiky63z",
+          "authorHandle": "nigelstanley.bsky.social",
+          "text": "5/5 Dedham Vale\n\nThe final snap is this set is another that shows why I like old #CCDsensor cameras on sunny days.\n\n#OlympusE400 #fourthirds #ccdsensor camera - 20 years old. Olympus 14-35mm f2 lens\n\n#photography #landscapephotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:whwv6h4adrh2xgfpghiky63z/bafkreigftzmaqufkwfz5zg5dh2haoohfmsgcpe7cm5mt22tdtvwoxqrjiq"
+          ],
+          "indexedAt": "2026-10-16T08:14:26.058Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Olympus",
+              "category": "camera",
+              "matchedText": "Olympus"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:r2nhqthgzod2oxar3bzn6cfq",
+      "authorHandle": "veneto.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:r2nhqthgzod2oxar3bzn6cfq/app.bsky.feed.post/3my2dgfccuk2b",
+          "cid": "bafyreiexi5dugnvgzqfqzmkssnoh4lupq2trokktr3sewt76chc6gxyruu",
+          "authorDid": "did:plc:r2nhqthgzod2oxar3bzn6cfq",
+          "authorHandle": "veneto.bsky.social",
+          "text": "苔の写真です。蛍光グリーンだな。\nFUJIFILM instax Pal 2です。",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2nhqthgzod2oxar3bzn6cfq/bafkreigsb672afgyqp7gmqgi2cmuvjfkrg3roaviuws534zr6aru33h6qa"
+          ],
+          "indexedAt": "2026-10-17T05:13:54.454Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:vmlteovszlkrx4wnbtp2e3iz",
+      "authorHandle": "smartmania.zpravobot.news.ap.brid.gy",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:vmlteovszlkrx4wnbtp2e3iz/app.bsky.feed.post/3mxyde2sac6y2",
+          "cid": "bafyreibi424dbx7iqgkx54b5keogqtdg6glcsytskrbqbcwpldfatob5x4",
+          "authorDid": "did:plc:vmlteovszlkrx4wnbtp2e3iz",
+          "authorHandle": "smartmania.zpravobot.news.ap.brid.gy",
+          "text": "📸 Tři 200Mpx snímače a telekonvertor Hasselblad! Oppo Find X10 Pro Max už máme v redakci🔍 Podívejte se na fotografie ještě před oficiálním evropským představením, které proběhne 21. října📆 […] \n\n[Original post on zpravobot.news]",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmlteovszlkrx4wnbtp2e3iz/bafkreih7szpuxgfr3ozi2mtmcmtkz2bb2prbqmo33a4oc6ojic7t6nzaku"
+          ],
+          "indexedAt": "2026-10-16T10:07:20.360Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:njokp4cpe7ogua3k2gmystxu",
+      "authorHandle": "panamstyle.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:njokp4cpe7ogua3k2gmystxu/app.bsky.feed.post/3my3z623ifs2o",
+          "cid": "bafyreiddu5sdcoxmfjogbww4hzrscnqrdt4fs3t3mzultyaskdhxe7c5hy",
+          "authorDid": "did:plc:njokp4cpe7ogua3k2gmystxu",
+          "authorHandle": "panamstyle.bsky.social",
+          "text": "4x5 Ektar in the house for next week’s tomfoolery and $8+/sheet fuck-ups. No guarantee I’ll post results or if, when since scanner is currently in storage. #photo #largeformat #4x5",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:njokp4cpe7ogua3k2gmystxu/bafkreidvygkjb7qxeynjkcbnluvkxm42t5aps7jen7l5sm55ztjhhlf46q"
+          ],
+          "indexedAt": "2026-10-17T21:15:37.966Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}

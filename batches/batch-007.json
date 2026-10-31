@@ -1,0 +1,393 @@
+{
+  "batchNumber": 7,
+  "totalBatches": 7,
+  "orderBy": "confidence",
+  "generatedAt": "2026-10-31T19:40:08.297Z",
+  "authors": [
+    {
+      "authorDid": "did:plc:vigd23554lwgg4n7ebjwsnaa",
+      "authorHandle": "0lixej.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:vigd23554lwgg4n7ebjwsnaa/app.bsky.feed.post/3mymmwich3k23",
+          "cid": "bafyreiexacjr7kngttntjwband5qtfvttb25neyrpeczjuq5ngrsbnm2f4",
+          "authorDid": "did:plc:vigd23554lwgg4n7ebjwsnaa",
+          "authorHandle": "0lixej.bsky.social",
+          "text": "Oppo представила флагманы Find X10 и Find X10 Pro Max с камерами Hasselblad: bit.ly/4jEzEmQ",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vigd23554lwgg4n7ebjwsnaa/bafkreieukmpzwdjurm3tjapcovcvqolyhwgxjril2yhwjzejhqtc5sbxoq"
+          ],
+          "indexedAt": "2026-10-24T11:51:55.242Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:f5z2karpikxlrdig3n52e3o3",
+      "authorHandle": "fotografiarte.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:f5z2karpikxlrdig3n52e3o3/app.bsky.feed.post/3myrbdorx5s2d",
+          "cid": "bafyreieojcq5bfavgk3st46ba6kxqqh4pqjczm77jewewd3v474her5fz4",
+          "authorDid": "did:plc:f5z2karpikxlrdig3n52e3o3",
+          "authorHandle": "fotografiarte.bsky.social",
+          "text": "Nuevas cámaras Insta Square 2 🔥 y no vienen solas 🤔 también estrenamos fundas a juego para ellas 😍 Sin duda las Instax son las instantáneas mas bonitas ‼️\n\n👉 fotografiarte.es/catalogo/114...\n\n#instax #square2 #fuji #novedades #Instantanea",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5z2karpikxlrdig3n52e3o3/bafkreidf4uub4eu6gorz4xhnbxd6rclekaztb37onpgcvcp6if4kjwcwdu"
+          ],
+          "indexedAt": "2026-10-26T08:08:12.642Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "Instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:pudkpge4rf3jf6xldrxgthty",
+      "authorHandle": "arturthefoe.evil.gay",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:pudkpge4rf3jf6xldrxgthty/app.bsky.feed.post/3myrhu6qgb22n",
+          "cid": "bafyreidm6cci7nla7z3v337sih6hmin7ykgne37yo55ncrvufosadye4z4",
+          "authorDid": "did:plc:pudkpge4rf3jf6xldrxgthty",
+          "authorHandle": "arturthefoe.evil.gay",
+          "text": "-Kodak Vision3 250D\n-Pentax ME Super",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pudkpge4rf3jf6xldrxgthty/bafkreibzrzemib52q2mmtqqr7j4cuf4xs33q7o5xgil2zbbxfehvrxry4i"
+          ],
+          "indexedAt": "2026-10-26T10:04:35.739Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Vision3",
+              "category": "filmStock",
+              "matchedText": "Vision3"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:zc52qeamao4xjh2ggetp3iaq",
+      "authorHandle": "wahlgrenniclas.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:zc52qeamao4xjh2ggetp3iaq/app.bsky.feed.post/3myprjfgg5s23",
+          "cid": "bafyreicaugghfyxebpbwqrhu7tq6h35hqjjchsludzky7liu5wahgndmpm",
+          "authorDid": "did:plc:zc52qeamao4xjh2ggetp3iaq",
+          "authorHandle": "wahlgrenniclas.bsky.social",
+          "text": "Solen kom fram en stund efter att Boelo bedarrat.\n\nNy kamera. Måste ut \n\nEn flyttblomfluga Episyrphus balteatus satt på ett hasselblad.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zc52qeamao4xjh2ggetp3iaq/bafkreif64wq7rua7b3bh4fkdukjlw2fvuqbzwykodv5tethlfpp535v45a"
+          ],
+          "indexedAt": "2026-10-25T17:52:05.358Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:wpzpikbcdm2jqsjyg7t3op43",
+      "authorHandle": "mbbischoff.com",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:wpzpikbcdm2jqsjyg7t3op43/app.bsky.feed.post/3mystxjdvy22f",
+          "cid": "bafyreif3onwrj2s36bgwu7xhx3eqocn7hv3mll3rnxon7k65vfgptkz2y4",
+          "authorDid": "did:plc:wpzpikbcdm2jqsjyg7t3op43",
+          "authorHandle": "mbbischoff.com",
+          "text": "velvia",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wpzpikbcdm2jqsjyg7t3op43/bafkreidt3wdhzxi4moa35la2qodatec7t2hcdttqxmxcvi6md4gyhof2ki"
+          ],
+          "indexedAt": "2026-10-26T23:13:47.771Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Velvia",
+              "category": "filmStock",
+              "matchedText": "velvia"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:f4ll75kvrfqrydfavm7uabob",
+      "authorHandle": "hamonkidou.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:f4ll75kvrfqrydfavm7uabob/app.bsky.feed.post/3mz3e5uk36s2m",
+          "cid": "bafyreihep7rbrhzidplxd64ieykqn6ymrd6ohsdcuz2neujsbqsyswnvq4",
+          "authorDid": "did:plc:f4ll75kvrfqrydfavm7uabob",
+          "authorHandle": "hamonkidou.bsky.social",
+          "text": "instax Pal 2　FUSION\n砂浜にて\n#写真　#instaxPal2 #Photo",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f4ll75kvrfqrydfavm7uabob/bafkreie5gtipcncr7wpq6zj3aurjlix2j3ppyudwh7aug6nvb3hhfnaxha",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f4ll75kvrfqrydfavm7uabob/bafkreibalvb7k3jxkghv7jthlfs3nw246xcypy7au3uqipwpjewjc2q4aq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f4ll75kvrfqrydfavm7uabob/bafkreiefrbym2fmi27zatgovd7sukq76l5pnpzonfqkjqo52kxom52d77u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f4ll75kvrfqrydfavm7uabob/bafkreiegqmi5mzsswacxnend2rec34doodbeatq63zm72rwhd4lm6pu2nu"
+          ],
+          "indexedAt": "2026-10-30T08:24:55.578Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:tjekxoo2cyicxdmcvzclnfkh",
+      "authorHandle": "jun0407.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:tjekxoo2cyicxdmcvzclnfkh/app.bsky.feed.post/3myzkzlrw2c2f",
+          "cid": "bafyreia5q45g7gkxvultct75yaby5b2u7i3gviv2czk65tlfgpf4wrt5fm",
+          "authorDid": "did:plc:tjekxoo2cyicxdmcvzclnfkh",
+          "authorHandle": "jun0407.bsky.social",
+          "text": "久々平日ライブ！お目当てなのさん(大阪ぶり)、唯さん(めちゃ久しぶり)、かわいかった&Good Music&楽しかった^ ^ #allipop #文坂なの #可愛唯 #instax #tokyo",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjekxoo2cyicxdmcvzclnfkh/bafkreiducimgb7ga5wbiwjbvbkzotjyrvjh235bx6wyi3f7hgy3yls433u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjekxoo2cyicxdmcvzclnfkh/bafkreif3e4wqqunqx2radg4wzeb3n3elxk7i22hen5faaptg5erqculu2y"
+          ],
+          "indexedAt": "2026-10-29T15:22:28.873Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7wzqxzob5vinsku6yi44725c",
+      "authorHandle": "rhexsnep.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:7wzqxzob5vinsku6yi44725c/app.bsky.feed.post/3mz2ulrijas2q",
+          "cid": "bafyreihkpz3w4otudjc2faa6ihfgzxqgp6jbe6hm3i2vgpuc6bmpotxmea",
+          "authorDid": "did:plc:7wzqxzob5vinsku6yi44725c",
+          "authorHandle": "rhexsnep.bsky.social",
+          "text": "Figured I'd share my latest ink! For my birthday, @tuftluck.bsky.social got me a tattoo that's been ruminating in my brain for a while now.\n\nThese are the focal, depth-of-field, and aperture rings of a Minolta MD 50MM 1.7 lens.\n\nIt was the lens on the first film camera I ever shot with!",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7wzqxzob5vinsku6yi44725c/bafkreidhs76dqtd27o6u6woterpmntczrabkytp2ckn6ewdy2cnzpdl4hy",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7wzqxzob5vinsku6yi44725c/bafkreif5jktyqsgd23kzynz2suqxggcrpsmf4l4bovwkh252tqr27up6bu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7wzqxzob5vinsku6yi44725c/bafkreiczz6rvpbyooln55ziqkfgo7hh7fnq6oquqskwhmg6d6pjqzekfue",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7wzqxzob5vinsku6yi44725c/bafkreifxnq7sa7pqac3somk2qpjo632ocpuzuocqlv2yktud2ead7uz3iy"
+          ],
+          "indexedAt": "2026-10-30T03:46:21.977Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Minolta",
+              "category": "camera",
+              "matchedText": "Minolta"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:7xqjava5mlp3pgakxosvy3ku",
+      "authorHandle": "hotelphotographer.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:7xqjava5mlp3pgakxosvy3ku/app.bsky.feed.post/3mz2c3of75f2n",
+          "cid": "bafyreiaxm5oq3j74m5aw54omjlbl63z6mm7oywcor4rarqlwhwncruriya",
+          "authorDid": "did:plc:7xqjava5mlp3pgakxosvy3ku",
+          "authorHandle": "hotelphotographer.bsky.social",
+          "text": "Two Michelin stars. One counter. One lens.\n\nL'Atelier de Joël Robuchon Miami, on a Hasselblad H6D-100c with the HC 120 Macro. A pleasure. #LuxuryHotelPhotographer",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xqjava5mlp3pgakxosvy3ku/bafkreifl363kkjc5tyowuaoikkoh77rwdv6xqcr47c4nac572ytk3lcw54"
+          ],
+          "indexedAt": "2026-10-29T22:15:09.879Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:aozpcwmlodz2fys6zhvg7npd",
+      "authorHandle": "maxfichtner.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:aozpcwmlodz2fys6zhvg7npd/app.bsky.feed.post/3myv22t2lfs2b",
+          "cid": "bafyreihfjy7fsihqsomeront5n6n2zoyeywybhxrgjr4bnj7fndukellry",
+          "authorDid": "did:plc:aozpcwmlodz2fys6zhvg7npd",
+          "authorHandle": "maxfichtner.bsky.social",
+          "text": "Butternusskürbis Hasselblad, äh Hasselback... 😋🥳",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aozpcwmlodz2fys6zhvg7npd/bafkreiemm7aq6oalxwg6treiv6nk66woicodqdzaam2fyx673a56677g34",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aozpcwmlodz2fys6zhvg7npd/bafkreihrd3bd2soclhm7mkbpcjtd6lqjrdhys7wfaiiwnvkicu7yx6y6pu"
+          ],
+          "indexedAt": "2026-10-27T20:08:33.274Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:lmij5gw5sejsikcsr67lnutr",
+      "authorHandle": "djirumor.com",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:lmij5gw5sejsikcsr67lnutr/app.bsky.feed.post/3myt5z52hzl2f",
+          "cid": "bafyreibvvd5z4lcxady5cz6autpide7jvqb66nfybx6kp6gn3yixlf3otu",
+          "authorDid": "did:plc:lmij5gw5sejsikcsr67lnutr",
+          "authorHandle": "djirumor.com",
+          "text": "DJI and Hasselblad will open a two-storey Tokyo flagship on Oct 31 with an indoor drone flight cage in Omotesando—betting creators still want to test gear in person.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lmij5gw5sejsikcsr67lnutr/bafkreihfttfircgicrbdt36kqb6yochpkedi2jjmxoztriw7v2qljie5su"
+          ],
+          "indexedAt": "2026-10-27T02:13:31.974Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:yo4angjr5ws5k6qucorvp6hj",
+      "authorHandle": "joesherwood.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:yo4angjr5ws5k6qucorvp6hj/app.bsky.feed.post/3mysj554rtk2d",
+          "cid": "bafyreieemj2o7owefyx5nteryx46phh2obiquzamys7yq7yx3e55kex54i",
+          "authorDid": "did:plc:yo4angjr5ws5k6qucorvp6hj",
+          "authorHandle": "joesherwood.bsky.social",
+          "text": "Shot this very early this morning in the North Texas sky. \n\n#Hasselblad",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yo4angjr5ws5k6qucorvp6hj/bafkreicmv6wikbfidlc7lgbzifa2hieqibjs3mtphqjrbztsz5wnppx5z4"
+          ],
+          "indexedAt": "2026-10-26T19:59:58.446Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:fvhsd44pvvw2m7xqqffsnb6a",
+      "authorHandle": "bernieshoot.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 1,
+      "sample": [
+        {
+          "uri": "at://did:plc:fvhsd44pvvw2m7xqqffsnb6a/app.bsky.feed.post/3mz5netbnmp2b",
+          "cid": "bafyreiddxy3w3ixwmostwwgnlavzwjymrusejtp7tuanj5m7bpj5me6zwm",
+          "authorDid": "did:plc:fvhsd44pvvw2m7xqqffsnb6a",
+          "authorHandle": "bernieshoot.bsky.social",
+          "text": "🖼️ Nouveau sur le blog : l’instax Link WIDE 2, imprimante grand format pour smartphone. \nCollages en un clic avec Photo Mixer, QR codes dans vos tirages, deux coloris. Tout est là \n👉 www.bernieshoot.fr/2026/10/inst... \n#instax #photographie #impression",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fvhsd44pvvw2m7xqqffsnb6a/bafkreibxrboucqmbgbm3umejih62fkm3slawq2oajzpufp6lfi35m4qwzu"
+          ],
+          "indexedAt": "2026-10-31T06:15:07.674Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    }
+  ]
+}
