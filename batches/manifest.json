@@ -1,26 +1,31 @@
 {
-  "generatedAt": "2026-10-31T20:59:36.137Z",
+  "generatedAt": "2026-11-02T18:42:34.580Z",
   "orderBy": "confidence",
   "batchSize": 18,
   "sampleSize": 15,
-  "totalBatches": 3,
-  "totalAuthors": 48,
-  "totalCandidates": 58,
+  "totalBatches": 4,
+  "totalAuthors": 65,
+  "totalCandidates": 79,
   "batches": [
     {
       "batchNumber": 1,
       "authorCount": 18,
-      "candidateCount": 26
+      "candidateCount": 29
     },
     {
       "batchNumber": 2,
       "authorCount": 18,
-      "candidateCount": 20
+      "candidateCount": 21
     },
     {
       "batchNumber": 3,
-      "authorCount": 12,
-      "candidateCount": 12
+      "authorCount": 18,
+      "candidateCount": 18
+    },
+    {
+      "batchNumber": 4,
+      "authorCount": 11,
+      "candidateCount": 11
     }
   ]
 }

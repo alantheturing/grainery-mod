@@ -1,9 +1,211 @@
 {
   "batchNumber": 2,
-  "totalBatches": 3,
+  "totalBatches": 4,
   "orderBy": "confidence",
-  "generatedAt": "2026-10-31T20:59:36.137Z",
+  "generatedAt": "2026-11-02T18:42:34.579Z",
   "authors": [
+    {
+      "authorDid": "did:plc:2rehcjkvnwpb66z5r3ub75s2",
+      "authorHandle": "orwo-shop.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:2rehcjkvnwpb66z5r3ub75s2/app.bsky.feed.post/3mxycwlands2t",
+          "cid": "bafyreig3xh55kbr23flwamob2xe325b5c7odvncrrgo2uw6zka3c6tb6ke",
+          "authorDid": "did:plc:2rehcjkvnwpb66z5r3ub75s2",
+          "authorHandle": "orwo-shop.bsky.social",
+          "text": "Every photograph tells a story, and film photography makes each moment feel special. With ORWO Shop, explore the creative possibilities of analog photography, experiment with different photo films, and capture memories with a timeless touch. #OrwoShop #FilmPhotography #AnalogPhotography #PhotoFilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rehcjkvnwpb66z5r3ub75s2/bafkreiau7cqmg3qyl34in5szey6wxhrlc6jwdc3yrc7gpgqvkrqdetqpmm"
+          ],
+          "indexedAt": "2026-10-16T09:59:47.257Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:sqp5l4lzahyzfmwd55jfjn33",
+      "authorHandle": "dendrobatus-azureus.bsd.cafe.ap.brid.gy",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:sqp5l4lzahyzfmwd55jfjn33/app.bsky.feed.post/3my73g56a6xz2",
+          "cid": "bafyreie4bxlxaafelgctigyljzcwbngv2uxqtbeujc6o6meptulg4ngk6m",
+          "authorDid": "did:plc:sqp5l4lzahyzfmwd55jfjn33",
+          "authorHandle": "dendrobatus-azureus.bsd.cafe.ap.brid.gy",
+          "text": "Shri Hanuman & Lakshmi posing in the Shri Krishna Mandir\n\n#Photography #Nikon #large #sensor #35mm #DSLR #filters #CIRC #Pol #Polarizer #Azul #81A #warming #UV",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqp5l4lzahyzfmwd55jfjn33/bafkreifroh46z4q4ec2y34vuplxj6ffj7ttcho5nnbr5is25p4hmgwzfbe"
+          ],
+          "indexedAt": "2026-10-19T02:33:52.559Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
+      "authorHandle": "lucianaviuisso.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 1.5,
+      "sample": [
+        {
+          "uri": "at://did:plc:vuctw7of2fqqo6uigl4s7xzy/app.bsky.feed.post/3mygjhwk6as2u",
+          "cid": "bafyreienkz5llgbpuqfsk6k32z55uqcx52qvy2hj6gmdwh3lfgmejw3jva",
+          "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
+          "authorHandle": "lucianaviuisso.bsky.social",
+          "text": "Câmera instax mini 13 Dreamy Purple\n\nDe: R$679,00\nPor: R$530,82\nEm até 10x de R$53,08 sem juros\n\nlink.amazon/B07fhUyOx",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vuctw7of2fqqo6uigl4s7xzy/bafkreic5brahsexazrb75ljt7gqpbe2mbocrri3c6ryzxe3kmtawmrd7qi"
+          ],
+          "indexedAt": "2026-10-22T01:34:04.737Z",
+          "matches": [
+            {
+              "keywordId": "filmStock:Instax Mini",
+              "category": "filmStock",
+              "matchedText": "instax mini"
+            },
+            {
+              "keywordId": "filmStock-alias:Instax",
+              "category": "filmStock",
+              "matchedText": "instax"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:vuctw7of2fqqo6uigl4s7xzy/app.bsky.feed.post/3myis3gfd7s2j",
+          "cid": "bafyreibgutw2kwjpkwjsllpmtfbvziocsk552tfpmr3qev3j4gmml6xjrm",
+          "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
+          "authorHandle": "lucianaviuisso.bsky.social",
+          "text": "Smartphone OPPO Find X9 Pro 512GB 16GB RAM Desbloqueado 5G Titanio Grafite\nCâmera teleobjetiva Hasselblad de 200MP, Dimensity 9500 e bateria de 7500mAh\n\nDe: R$11.999,00\nPor: R$9.699,96\nEm até 12x de R$808,33 sem juros\n\nOu no Pix:\nR$8.729,99\n\nlink.amazon/B00mty3DE",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vuctw7of2fqqo6uigl4s7xzy/bafkreifszku5bw7mawjtvrzaa6viw7jzqexpyazn5l6xi3kblqzklhsiea"
+          ],
+          "indexedAt": "2026-10-22T23:13:27.437Z",
+          "matches": [
+            {
+              "keywordId": "camera-alias:Hasselblad",
+              "category": "camera",
+              "matchedText": "Hasselblad"
+            }
+          ],
+          "confidence": 1,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cczq7k22mlrmrpqn6ygy762n",
+      "authorHandle": "maurostagi.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:cczq7k22mlrmrpqn6ygy762n/app.bsky.feed.post/3mymgzcb66c22",
+          "cid": "bafyreigqf35nujkubk2hm4yh6n6jdlyzazmxiifwugqwp65hvi6qxucqsu",
+          "authorDid": "did:plc:cczq7k22mlrmrpqn6ygy762n",
+          "authorHandle": "maurostagi.bsky.social",
+          "text": "#fimphoto #filmphotography #film #indie #movie #blackandwhite #pic #photography #photo #shooting #cinema #youtube #actor  #attore #director #regista #amazonprime #instablackandwhite #instapic #instaactor #instafilm #castiglionellapescaia #italy",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreibpxwqtukhrr6uultfxi7rb4ahlpxcgffbfwlxghg3uexsgh6uzxm",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreid2sx2kfri4w4akqlzzm4bqjxruphvwldq5w5r2ia4vcndhblxyrq",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreia4hdtrlcvzy3i7ukvsh7lvg6y3iv5y3ihlybjqwgsa347w4qgfui"
+          ],
+          "indexedAt": "2026-10-24T10:06:10.246Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:azgyqygl4zfymvfoykv7xp4q",
+      "authorHandle": "evanmichio.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:azgyqygl4zfymvfoykv7xp4q/app.bsky.feed.post/3mz6svtewpc2u",
+          "cid": "bafyreihkyevnrhwhxhechxk6nxvvodumqforfzvr5qqgtpkxt4u3xaqkh4",
+          "authorDid": "did:plc:azgyqygl4zfymvfoykv7xp4q",
+          "authorHandle": "evanmichio.bsky.social",
+          "text": "Identity series . . .\n#BlueskyArtShow #spooky#classicmono #monochrome #photography #artphotography #kodak #filmphotography",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:azgyqygl4zfymvfoykv7xp4q/bafkreib25nmaxzeracfwxfctgiqxhkn6lcuvo5ozbzuspoyew67ye5cokq"
+          ],
+          "indexedAt": "2026-10-31T17:26:48.884Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:gvzimagvutmrzquz35zc23xn",
+      "authorHandle": "kcphoto.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:gvzimagvutmrzquz35zc23xn/app.bsky.feed.post/3mz6rmgspdc24",
+          "cid": "bafyreia7e2l26lhzm6v6ufwpbf3ngvfd7lbmts4tjlb3yhbgr77gin6t7q",
+          "authorDid": "did:plc:gvzimagvutmrzquz35zc23xn",
+          "authorHandle": "kcphoto.bsky.social",
+          "text": "Dead oak tree in Tollesbury on the Essex coast. Taken using the Harman Titan 4x5 pinhole camera on Ilford FP4. \n\n#believeinfilm #pinholephotography #ilfordfp4",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvzimagvutmrzquz35zc23xn/bafkreia6q2tsh4uevxgbmmpm4xlawvehgagjzjal3wxfoeqoqyqmlf6ybu"
+          ],
+          "indexedAt": "2026-10-31T17:03:40.276Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
     {
       "authorDid": "did:plc:jhrhe3tbmifkkzdcsj6sgigz",
       "authorHandle": "plasticfantastic44.bsky.social",
@@ -25,35 +227,6 @@
               "keywordId": "hashtag:filmisnotdead",
               "category": "hashtag",
               "matchedText": "#filmisnotdead"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:g2zt36y3bf5hcywnlydjga4x",
-      "authorHandle": "protosphere.me",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:g2zt36y3bf5hcywnlydjga4x/app.bsky.feed.post/3mz72jld3dc27",
-          "cid": "bafyreidl3hzm3clta2ssvoet6n3otw5vbturjqrwq5rbznbkmaajd7txnu",
-          "authorDid": "did:plc:g2zt36y3bf5hcywnlydjga4x",
-          "authorHandle": "protosphere.me",
-          "text": "Flowers on APS!\n\nCanon EOS IX • Canon Lens EF 50mm 1:1.8 II • Fujifilm Fujicolor Nexia 200 (Expired 2004)\n\n#believeinfilm #deadformat",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2zt36y3bf5hcywnlydjga4x/bafkreieq7nnltxytbkjhohps3rsqxdg5hehcprwvlucj6kb6ov3ovpi4q4"
-          ],
-          "indexedAt": "2026-10-31T19:43:14.869Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:believeinfilm",
-              "category": "hashtag",
-              "matchedText": "#believeinfilm"
             }
           ],
           "confidence": 3,
@@ -85,6 +258,161 @@
               "keywordId": "hashtag:35mm",
               "category": "hashtag",
               "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:r74yrro3bcjpzp6wbqgnxm2c",
+      "authorHandle": "countzero0x00.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:r74yrro3bcjpzp6wbqgnxm2c/app.bsky.feed.post/3mz7rwsvse224",
+          "cid": "bafyreiezxgmddptsdx42wmv53nuxgixh4jbkumam3pe2dehot6vynqfluy",
+          "authorDid": "did:plc:r74yrro3bcjpzp6wbqgnxm2c",
+          "authorHandle": "countzero0x00.bsky.social",
+          "text": "たのしい現像\n〜おわり〜\n\n#film\n#filmphotography　#monochrome",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r74yrro3bcjpzp6wbqgnxm2c/bafkreiczzpmlbfptyhlvbikpxohvkobo73s6rhn3g32tzsufvn3jxotr4q"
+          ],
+          "indexedAt": "2026-11-01T02:42:16.979Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:qxiuwy4xdxdumswiyvuoqwm6",
+      "authorHandle": "babysheadprods.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:qxiuwy4xdxdumswiyvuoqwm6/app.bsky.feed.post/3mz7n6g2ivc2i",
+          "cid": "bafyreiblhzgfljad7qel6f6jnpoh6dl35rko2sslfbdrrpe26vol265pn4",
+          "authorDid": "did:plc:qxiuwy4xdxdumswiyvuoqwm6",
+          "authorHandle": "babysheadprods.bsky.social",
+          "text": "#35mm #film #lomo #lomography #photography #analog #fineartphotography #fineartphoto #photographersofbluesky #art #artsy #artistsofbluesky #nsfw #nsfwart #nature #mountains #woods #forest #river #muse #model #lake #HypnoticVenus",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qxiuwy4xdxdumswiyvuoqwm6/bafkreiap7nwyxp4l5je6nr6anc4hhlxopcrhqmbfm3ikw2uzmoe3gmkvga"
+          ],
+          "indexedAt": "2026-11-01T01:16:55.974Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:ju3olj2lmufq37fwczkj6h3s",
+      "authorHandle": "photostudiomeier.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:ju3olj2lmufq37fwczkj6h3s/app.bsky.feed.post/3mz72x3fll22w",
+          "cid": "bafyreihyp2t4t6srtjoac5k6rnl5vwlszrpfveoumewpootbgfkr3lks4m",
+          "authorDid": "did:plc:ju3olj2lmufq37fwczkj6h3s",
+          "authorHandle": "photostudiomeier.bsky.social",
+          "text": "Wishing you all a Happy Halloween!\n\n#DryPlate #Monochrome #AnalogPhotography #ZebraDryPlate #MementoMori #FilmIsNotDead #Halloween #AlternativeProcess  #LargeFormat",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ju3olj2lmufq37fwczkj6h3s/bafkreiatp4klehdunavom4eg52dzwslaldxkhcjkigzfprulhhnopm66xe"
+          ],
+          "indexedAt": "2026-10-31T19:50:51.478Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmisnotdead",
+              "category": "hashtag",
+              "matchedText": "#filmisnotdead"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:3whw2mr4tyzgwgk24xddxghy",
+      "authorHandle": "thomaswagensonner.eurosky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:3whw2mr4tyzgwgk24xddxghy/app.bsky.feed.post/3mzcpbteso3sy",
+          "cid": "bafyreiaa5p26z23tru7sbwrhnp2i62n52w7soqoagd4ye42bhycimbsk6i",
+          "authorDid": "did:plc:3whw2mr4tyzgwgk24xddxghy",
+          "authorHandle": "thomaswagensonner.eurosky.social",
+          "text": "Norway, old Jotunheimen Road. Shot on expired (but refrigerated) Kodak 160. Lab processed and scanned. #film #norway #landscape #analogphotogtaphy #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3whw2mr4tyzgwgk24xddxghy/bafkreicgoffbmxcdv6tzs3ngcgkig7bvu62gvldlpgapkhhk2kyupzcbbe"
+          ],
+          "indexedAt": "2026-11-02T06:32:33.971Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:aaxkbtehl5d4gb6e2eohbqfa",
+      "authorHandle": "jayv136.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:aaxkbtehl5d4gb6e2eohbqfa/app.bsky.feed.post/3mzbg5mv3ic26",
+          "cid": "bafyreigajwuxmbsstpuhsp7z5safttxrxbdd7mh56vr57tjtj5rpq5ysku",
+          "authorDid": "did:plc:aaxkbtehl5d4gb6e2eohbqfa",
+          "authorHandle": "jayv136.bsky.social",
+          "text": "Trees in Fog, Ilkley Moor.\n\nGetting the Bronica up here on a cold October morning is tough, but worth it!\n\n📷 Bronica ETRS\n🎞️ Ilford HP5+\n\n#analogphotography\n#blackandwhite\n#landscape",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aaxkbtehl5d4gb6e2eohbqfa/bafkreidwgi6izsmqkmagmvw7n65e5eadyaymffhrkhk4s7bbzqnplg6zum"
+          ],
+          "indexedAt": "2026-11-01T18:16:48.470Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:HP5",
+              "category": "filmStock",
+              "matchedText": "HP5"
+            },
+            {
+              "keywordId": "camera:ETRS",
+              "category": "camera",
+              "matchedText": "ETRS"
+            },
+            {
+              "keywordId": "camera-alias:Bronica",
+              "category": "camera",
+              "matchedText": "Bronica"
             }
           ],
           "confidence": 3,
@@ -228,6 +556,40 @@
       ]
     },
     {
+      "authorDid": "did:plc:kbr7ajkegoc3j3k6gadytokp",
+      "authorHandle": "marcdavenant.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 2,
+      "sample": [
+        {
+          "uri": "at://did:plc:kbr7ajkegoc3j3k6gadytokp/app.bsky.feed.post/3mzcztsi6ps2t",
+          "cid": "bafyreiahdbvnxg7a3bc37ucthphgghvjecwt45hunsgr2pf2lfyfnh6ahi",
+          "authorDid": "did:plc:kbr7ajkegoc3j3k6gadytokp",
+          "authorHandle": "marcdavenant.bsky.social",
+          "text": "After 14 years of using Fuji digital cameras I’m starting a tentative move to Leica this week. I plan to photograph the entire Pilgrimage series using this used Q2 for digital and my 1960 M3 for film (Kodak Ektar). It’s going to be an interesting journey.",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbr7ajkegoc3j3k6gadytokp/bafkreihafas5iw2zmuyrfvgorqjxzlaeas5sefgn22ngmvrfak4w4yf5wq"
+          ],
+          "indexedAt": "2026-11-02T09:41:33.775Z",
+          "matches": [
+            {
+              "keywordId": "filmStock-alias:Ektar",
+              "category": "filmStock",
+              "matchedText": "Ektar"
+            },
+            {
+              "keywordId": "camera-alias:Leica",
+              "category": "camera",
+              "matchedText": "Leica"
+            }
+          ],
+          "confidence": 2,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
       "authorDid": "did:plc:g32bjqzevkpe3jwb3e6obp6j",
       "authorHandle": "cazandogangas.bsky.social",
       "totalCandidates": 1,
@@ -248,325 +610,6 @@
               "keywordId": "filmStock:Polaroid Go",
               "category": "filmStock",
               "matchedText": "Polaroid Go"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:xlsujlrwr5xpfxgaf4pixhri",
-      "authorHandle": "newsramp.com",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:xlsujlrwr5xpfxgaf4pixhri/app.bsky.feed.post/3mxk4xspxuq2y",
-          "cid": "bafyreiakheusdyeex7emfrdt2osl3acwqe2jipvbnxzhgotbahgqsecbia",
-          "authorDid": "did:plc:xlsujlrwr5xpfxgaf4pixhri",
-          "authorHandle": "newsramp.com",
-          "text": "OPPO's Find X10 Series launches globally October 21 in Mallorca, Spain. Highlights include the world's first Triple 200MP Camera System, 8K video, and a next-gen LUMO True Image Engine co-developed with Hasselblad. #OPPO #Smartphones",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xlsujlrwr5xpfxgaf4pixhri/bafkreiavbxny2b7w2xxdg6xekocvlaoiiaz7c42wjbkenuyrj4lbidwnh4"
-          ],
-          "indexedAt": "2026-10-10T18:35:44.561Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:whwv6h4adrh2xgfpghiky63z",
-      "authorHandle": "nigelstanley.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:whwv6h4adrh2xgfpghiky63z/app.bsky.feed.post/3mxy52d7pus2r",
-          "cid": "bafyreih7y6f6cxzjdnps7lzipaskqgqkudb5qrrbmk4cczlqhq3diiglbu",
-          "authorDid": "did:plc:whwv6h4adrh2xgfpghiky63z",
-          "authorHandle": "nigelstanley.bsky.social",
-          "text": "5/5 Dedham Vale\n\nThe final snap is this set is another that shows why I like old #CCDsensor cameras on sunny days.\n\n#OlympusE400 #fourthirds #ccdsensor camera - 20 years old. Olympus 14-35mm f2 lens\n\n#photography #landscapephotography",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:whwv6h4adrh2xgfpghiky63z/bafkreigftzmaqufkwfz5zg5dh2haoohfmsgcpe7cm5mt22tdtvwoxqrjiq"
-          ],
-          "indexedAt": "2026-10-16T08:14:26.058Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Olympus",
-              "category": "camera",
-              "matchedText": "Olympus"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:r2nhqthgzod2oxar3bzn6cfq",
-      "authorHandle": "veneto.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:r2nhqthgzod2oxar3bzn6cfq/app.bsky.feed.post/3my2dgfccuk2b",
-          "cid": "bafyreiexi5dugnvgzqfqzmkssnoh4lupq2trokktr3sewt76chc6gxyruu",
-          "authorDid": "did:plc:r2nhqthgzod2oxar3bzn6cfq",
-          "authorHandle": "veneto.bsky.social",
-          "text": "苔の写真です。蛍光グリーンだな。\nFUJIFILM instax Pal 2です。",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2nhqthgzod2oxar3bzn6cfq/bafkreigsb672afgyqp7gmqgi2cmuvjfkrg3roaviuws534zr6aru33h6qa"
-          ],
-          "indexedAt": "2026-10-17T05:13:54.454Z",
-          "matches": [
-            {
-              "keywordId": "filmStock-alias:Instax",
-              "category": "filmStock",
-              "matchedText": "instax"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:vmlteovszlkrx4wnbtp2e3iz",
-      "authorHandle": "smartmania.zpravobot.news.ap.brid.gy",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:vmlteovszlkrx4wnbtp2e3iz/app.bsky.feed.post/3mxyde2sac6y2",
-          "cid": "bafyreibi424dbx7iqgkx54b5keogqtdg6glcsytskrbqbcwpldfatob5x4",
-          "authorDid": "did:plc:vmlteovszlkrx4wnbtp2e3iz",
-          "authorHandle": "smartmania.zpravobot.news.ap.brid.gy",
-          "text": "📸 Tři 200Mpx snímače a telekonvertor Hasselblad! Oppo Find X10 Pro Max už máme v redakci🔍 Podívejte se na fotografie ještě před oficiálním evropským představením, které proběhne 21. října📆 […] \n\n[Original post on zpravobot.news]",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmlteovszlkrx4wnbtp2e3iz/bafkreih7szpuxgfr3ozi2mtmcmtkz2bb2prbqmo33a4oc6ojic7t6nzaku"
-          ],
-          "indexedAt": "2026-10-16T10:07:20.360Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:ifmkntzz4xcbbszw6k3o7q3p",
-      "authorHandle": "cozycapy.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:ifmkntzz4xcbbszw6k3o7q3p/app.bsky.feed.post/3my34fr6dtk2p",
-          "cid": "bafyreih4bm7vdexs4eynocosmbufn2lrb2jo7yyrl5qckupmdmy2y6h6za",
-          "authorDid": "did:plc:ifmkntzz4xcbbszw6k3o7q3p",
-          "authorHandle": "cozycapy.bsky.social",
-          "text": "The Hasselblad Explorer kit is pretty neat.",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ifmkntzz4xcbbszw6k3o7q3p/bafkreie5rmayrkzz24sfdrrjohhuz2x2fn5vzrqhx476ya7pq6hc2wvsni"
-          ],
-          "indexedAt": "2026-10-17T12:40:58.357Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:pal3nqudrzexpf5qz32gdrv6",
-      "authorHandle": "pokemondrop.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:pal3nqudrzexpf5qz32gdrv6/app.bsky.feed.post/3my7kwc3kbk2j",
-          "cid": "bafyreicpfetc6pzm46dccyhevadjfhm6aks5kaiypprnjw3pq2ykxjzyta",
-          "authorDid": "did:plc:pal3nqudrzexpf5qz32gdrv6",
-          "authorHandle": "pokemondrop.bsky.social",
-          "text": "Amazon [$99.99]: Polaroid Go Gen3 Mini Instant Camera - Pokémon Sylveon Edition (9211) - Camera Only\n\n🛍 r.amzlink.to?btn_ref=org-...\n\nMore Pokemon/Polaroid: amzn.to/4xfr95q\nPolaroid: howl.link/dpc5y267wn03c\n\n#pokemonTCG\n\n⏰ 02:10:54 #ad",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pal3nqudrzexpf5qz32gdrv6/bafkreigmspfikzotj3tle73mi34uwwknginzholn5ctubofylhywcbjrea"
-          ],
-          "indexedAt": "2026-10-19T07:11:20.758Z",
-          "matches": [
-            {
-              "keywordId": "filmStock:Polaroid Go",
-              "category": "filmStock",
-              "matchedText": "Polaroid Go"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:hb5gprwx3ctrmvbt3mrtkdzu",
-      "authorHandle": "gadgetsmagazine.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:hb5gprwx3ctrmvbt3mrtkdzu/app.bsky.feed.post/3my7ldar4gl27",
-          "cid": "bafyreifaufp7p54m4y255hii2xeoystcszoxj4hfp5kse3gwsmizm2lr3m",
-          "authorDid": "did:plc:hb5gprwx3ctrmvbt3mrtkdzu",
-          "authorHandle": "gadgetsmagazine.bsky.social",
-          "text": "OPPO's Find X10 Series is making its global debut on October 21 in Mallorca, Spain. The Find X10 comes with a Dual 200MP Camera System co-developed with Hasselblad, while the Find X10 Pro Max steps up to a Triple 200M\nhttps://gadgetsmagazine.com.ph/technology/smartphones-tablets/oppo-find-x10-series",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hb5gprwx3ctrmvbt3mrtkdzu/bafkreidotgqmjm2wy54kiyaltozqiofzwhmbtw5lxsuj6lfaeyo4t4lmxu"
-          ],
-          "indexedAt": "2026-10-19T07:18:35.552Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:g6jzu446txoc2joxpncv2qkj",
-      "authorHandle": "brett-baudin.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:g6jzu446txoc2joxpncv2qkj/app.bsky.feed.post/3mybnedeuei2m",
-          "cid": "bafyreibxs5bgw2wsiyouwd6rbubvzeth6uir2vklokovyhg6fdl6zndkye",
-          "authorDid": "did:plc:g6jzu446txoc2joxpncv2qkj",
-          "authorHandle": "brett-baudin.bsky.social",
-          "text": "#aiart #promptshare\nTitle: Embers of the Rift\nStyle: Documentary photography — environmental portraiture; 35mm film, Kodak Portra 800 pushed; gentle film grain; photojournalistic realism in the tradition of Steve McCurry and Sebastião Salgado.\nPrompt in ALT",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g6jzu446txoc2joxpncv2qkj/bafkreigb75nlnoakkmv3t3gn26labkyki36anr6vxrojwbjxv3gontr6wa"
-          ],
-          "indexedAt": "2026-10-20T03:00:19.156Z",
-          "matches": [
-            {
-              "keywordId": "filmStock-alias:Portra",
-              "category": "filmStock",
-              "matchedText": "Portra"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:xcpcdvhx2icy7udle4d7e7k2",
-      "authorHandle": "monochromefx.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:xcpcdvhx2icy7udle4d7e7k2/app.bsky.feed.post/3myaxkbgm4edf",
-          "cid": "bafyreihdnp5pjnsh75ysfz7hqkoatpfeqcrvp2e7u6cywye3ycxpzmke5e",
-          "authorDid": "did:plc:xcpcdvhx2icy7udle4d7e7k2",
-          "authorHandle": "monochromefx.bsky.social",
-          "text": "Chicago ‘26\n#chicago #toycamera #instax #pal2",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xcpcdvhx2icy7udle4d7e7k2/bafkreiand45lz53ihyowyu6bydpjr3thrc5cn2m3nwowhdndjxylzj5jiq"
-          ],
-          "indexedAt": "2026-10-19T20:29:58.991Z",
-          "matches": [
-            {
-              "keywordId": "filmStock-alias:Instax",
-              "category": "filmStock",
-              "matchedText": "instax"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:7x3dxdehkf3gbbranmpqcsnl",
-      "authorHandle": "patterned.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:7x3dxdehkf3gbbranmpqcsnl/app.bsky.feed.post/3myffkiwl5s2c",
-          "cid": "bafyreiac4j77bvxyhwuml6miegrdtptzcorokqfg2p7vf4figeqrygprze",
-          "authorDid": "did:plc:7x3dxdehkf3gbbranmpqcsnl",
-          "authorHandle": "patterned.bsky.social",
-          "text": "Good morning, I am very excited about these Hasselblad & Holga blocks I carved yesterday!\n\n#art #linocut #photography",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7x3dxdehkf3gbbranmpqcsnl/bafkreieezh6uyyiwbg373u75af52eofcmymn4hkltbgo4dgm4k7vqt7pym"
-          ],
-          "indexedAt": "2026-10-21T14:51:19.735Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:khpv2nre6onfsfyxtousanyr",
-      "authorHandle": "oldukprintadsxmas.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 1,
-      "sample": [
-        {
-          "uri": "at://did:plc:khpv2nre6onfsfyxtousanyr/app.bsky.feed.post/3myjhz5qyfv2b",
-          "cid": "bafyreiek625vghpcy3vns5entpr56cn2otbudmvwqebbx2fxpp7zruggmq",
-          "authorDid": "did:plc:khpv2nre6onfsfyxtousanyr",
-          "authorHandle": "oldukprintadsxmas.bsky.social",
-          "text": "Dec 1983: Cameras ad from SupaSnaps\n\n(+Konica EF3; Olympus; Konica Pop; Halina Micro; DISC PAC; Halina 208 Disc; and PIC-PAC)\n\n«SupaSnaps\nPOP IN AND SNAP UP A SUPER CHRISTMAS GIFT»",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:khpv2nre6onfsfyxtousanyr/bafkreih2ucfoerhhk4ko7uvybdmf6weesma3g36iupsadspree7k7knu2q"
-          ],
-          "indexedAt": "2026-10-23T05:45:54.035Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Olympus",
-              "category": "camera",
-              "matchedText": "Olympus"
             }
           ],
           "confidence": 1,

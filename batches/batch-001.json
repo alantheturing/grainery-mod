@@ -1,9 +1,124 @@
 {
   "batchNumber": 1,
-  "totalBatches": 3,
+  "totalBatches": 4,
   "orderBy": "confidence",
-  "generatedAt": "2026-10-31T20:59:36.136Z",
+  "generatedAt": "2026-11-02T18:42:34.577Z",
   "authors": [
+    {
+      "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+      "authorHandle": "m-archer-m.bsky.social",
+      "totalCandidates": 5,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mye3z37w6c2c",
+          "cid": "bafyreibumqhv5y4f6piwdujo7zdmxh5ihh2s5hfrze5yirij3zhkgbstde",
+          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+          "authorHandle": "m-archer-m.bsky.social",
+          "text": "Movie no. 28 of #ScaryMovieMonth\n\n#35mm special tonight! #NowWatching the new restoration of Ken Russell's \nTHE DEVILS",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreigklpkv2k2xpmx2hxm2t4gog6yaluboyqrtvggjtxrtr7qgxhaj5m"
+          ],
+          "indexedAt": "2026-10-21T02:28:03.942Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz4os6mffk2f",
+          "cid": "bafyreifefjotqdmimhnhv2y64dlca3xmvdmr2nzaybfrenutogzac6iiei",
+          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+          "authorHandle": "m-archer-m.bsky.social",
+          "text": "Movie no. 54 of #ScaryMovieMonth\n\n#NowWatching David Cronenburg's\nTHE FLY\n\n#NewBev #35mm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreidolcukqaphegunec5kzvufi6vqcm7ylupuoeb4zyzjp5nonpp46e"
+          ],
+          "indexedAt": "2026-10-30T21:07:51.781Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz6rh26pqs26",
+          "cid": "bafyreiflomce22cloaekawsipzt5bujvkgqhtatwfnzr2yk33uu4wrndbe",
+          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+          "authorHandle": "m-archer-m.bsky.social",
+          "text": "Movie no. 56 of #ScaryMovieMonth\n\n#NowWatching James Whale's\nBRIDE OF FRANKENSTEIN \n\n #35mm at Vista Theater",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreihcjsc2yd4r5wugyxxxzsj47c5kvnoa5pm7xhobe4lirtmjhily4m"
+          ],
+          "indexedAt": "2026-10-31T17:00:48.580Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz7fmkkcyc2w",
+          "cid": "bafyreieg2gpwr7bbdd63il3vch2cllf33dwycxwlieknj5dgwxocohjbba",
+          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+          "authorHandle": "m-archer-m.bsky.social",
+          "text": "Movie no. 58 of #ScaryMovieMonth\n\n#NowWatching Robert Zemeckis's\nDEATH BECOMES HER\n\n #35mm at Los Feliz 3",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreiakibumwf2ye6na4yvh5uvrfvkpgfx7iuz5esjzeaiws5hwyej77u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreidjqpmj7g26vxc5yhi4qvwqri7gfs66h4i3ci2nidntfnrmcllizu"
+          ],
+          "indexedAt": "2026-10-31T23:01:49.083Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz7f47dpcs26",
+          "cid": "bafyreib3ka6bfj77eonru4hpz7thtpb7cpgzi3f373n4nbowhaulmexm2u",
+          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
+          "authorHandle": "m-archer-m.bsky.social",
+          "text": "Movie no. 57 of #ScaryMovieMonth\n\n#NowWatching Robert Wise's\nTHE HAUNTING\n\n #35mm at Aero Theatre",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreidv75wstbjz5mfw5q6r5pegdcjlogut2y7mzaaebr2lncbaebjg2u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreibw5r67pbfjg633b4acgg6wfuutocvh6rpz7kdua4ejp7bh37bm2y"
+          ],
+          "indexedAt": "2026-10-31T22:52:37.773Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
     {
       "authorDid": "did:plc:zctia76dseqgexero5pufbxn",
       "authorHandle": "mahbub007.bsky.social",
@@ -91,77 +206,6 @@
       ]
     },
     {
-      "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
-      "authorHandle": "m-archer-m.bsky.social",
-      "totalCandidates": 3,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mye3z37w6c2c",
-          "cid": "bafyreibumqhv5y4f6piwdujo7zdmxh5ihh2s5hfrze5yirij3zhkgbstde",
-          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
-          "authorHandle": "m-archer-m.bsky.social",
-          "text": "Movie no. 28 of #ScaryMovieMonth\n\n#35mm special tonight! #NowWatching the new restoration of Ken Russell's \nTHE DEVILS",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreigklpkv2k2xpmx2hxm2t4gog6yaluboyqrtvggjtxrtr7qgxhaj5m"
-          ],
-          "indexedAt": "2026-10-21T02:28:03.942Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:35mm",
-              "category": "hashtag",
-              "matchedText": "#35mm"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        },
-        {
-          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz4os6mffk2f",
-          "cid": "bafyreifefjotqdmimhnhv2y64dlca3xmvdmr2nzaybfrenutogzac6iiei",
-          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
-          "authorHandle": "m-archer-m.bsky.social",
-          "text": "Movie no. 54 of #ScaryMovieMonth\n\n#NowWatching David Cronenburg's\nTHE FLY\n\n#NewBev #35mm",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreidolcukqaphegunec5kzvufi6vqcm7ylupuoeb4zyzjp5nonpp46e"
-          ],
-          "indexedAt": "2026-10-30T21:07:51.781Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:35mm",
-              "category": "hashtag",
-              "matchedText": "#35mm"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        },
-        {
-          "uri": "at://did:plc:7lwkbsv4reyw3xf3f5arqvny/app.bsky.feed.post/3mz6rh26pqs26",
-          "cid": "bafyreiflomce22cloaekawsipzt5bujvkgqhtatwfnzr2yk33uu4wrndbe",
-          "authorDid": "did:plc:7lwkbsv4reyw3xf3f5arqvny",
-          "authorHandle": "m-archer-m.bsky.social",
-          "text": "Movie no. 56 of #ScaryMovieMonth\n\n#NowWatching James Whale's\nBRIDE OF FRANKENSTEIN \n\n #35mm at Vista Theater",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lwkbsv4reyw3xf3f5arqvny/bafkreihcjsc2yd4r5wugyxxxzsj47c5kvnoa5pm7xhobe4lirtmjhily4m"
-          ],
-          "indexedAt": "2026-10-31T17:00:48.580Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:35mm",
-              "category": "hashtag",
-              "matchedText": "#35mm"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
       "authorDid": "did:plc:iwky3q4kuqhy2w62oaljmqux",
       "authorHandle": "stevehutch.bsky.social",
       "totalCandidates": 2,
@@ -222,6 +266,67 @@
       ]
     },
     {
+      "authorDid": "did:plc:3aliieqbae3nmblzbqg7d7xy",
+      "authorHandle": "franklyvhs.bsky.social",
+      "totalCandidates": 2,
+      "avgConfidence": 4,
+      "sample": [
+        {
+          "uri": "at://did:plc:3aliieqbae3nmblzbqg7d7xy/app.bsky.feed.post/3mz7cslbg4s2t",
+          "cid": "bafyreihx6xs2c6dwxja6qs5outjqx4g5vtpev5mm42hmhfb2ggay6iyczy",
+          "authorDid": "did:plc:3aliieqbae3nmblzbqg7d7xy",
+          "authorHandle": "franklyvhs.bsky.social",
+          "text": "Give me your food human 🐦 \n\n#filmphotography #believeinfilm #photography #grainisgood",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3aliieqbae3nmblzbqg7d7xy/bafkreicpz5zysw7gapghxccj5itb6wfcw6665d3nkwgkmat6g4cnvek7ra"
+          ],
+          "indexedAt": "2026-10-31T22:11:23.183Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:3aliieqbae3nmblzbqg7d7xy/app.bsky.feed.post/3mz6g7eqlrs2f",
+          "cid": "bafyreiast5grdkys2ntn5476et2audqvqxhlbyjfooncvah7ag2btybvhm",
+          "authorDid": "did:plc:3aliieqbae3nmblzbqg7d7xy",
+          "authorHandle": "franklyvhs.bsky.social",
+          "text": "Loving the warm tones from the SMC Takumar 50mm f/1.4 and Kodak Gold.\n\nWas freezing outside but the photo came out super warm 😂🎞️\n\n#believeinfilm #photography #35mm #finland #helsinki",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3aliieqbae3nmblzbqg7d7xy/bafkreih36fkszhxy7vxumtwekikdy65pdfwxmomqsmnaoogxzr3x47cq5u",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3aliieqbae3nmblzbqg7d7xy/bafkreic7pjd2rgpt362gg6or7ikqgqwzo75zbvmsro7ffszot3rrivu2ay"
+          ],
+          "indexedAt": "2026-10-31T13:39:34.484Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
       "authorDid": "did:plc:mi73czdhehltd27au5m5wdon",
       "authorHandle": "velantianqx.bsky.social",
       "totalCandidates": 1,
@@ -260,6 +365,58 @@
             }
           ],
           "confidence": 6,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:g2zt36y3bf5hcywnlydjga4x",
+      "authorHandle": "protosphere.me",
+      "totalCandidates": 2,
+      "avgConfidence": 3,
+      "sample": [
+        {
+          "uri": "at://did:plc:g2zt36y3bf5hcywnlydjga4x/app.bsky.feed.post/3mz72jld3dc27",
+          "cid": "bafyreidl3hzm3clta2ssvoet6n3otw5vbturjqrwq5rbznbkmaajd7txnu",
+          "authorDid": "did:plc:g2zt36y3bf5hcywnlydjga4x",
+          "authorHandle": "protosphere.me",
+          "text": "Flowers on APS!\n\nCanon EOS IX • Canon Lens EF 50mm 1:1.8 II • Fujifilm Fujicolor Nexia 200 (Expired 2004)\n\n#believeinfilm #deadformat",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2zt36y3bf5hcywnlydjga4x/bafkreieq7nnltxytbkjhohps3rsqxdg5hehcprwvlucj6kb6ov3ovpi4q4"
+          ],
+          "indexedAt": "2026-10-31T19:43:14.869Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
+          "source": "queue",
+          "blockMuteChecked": false
+        },
+        {
+          "uri": "at://did:plc:g2zt36y3bf5hcywnlydjga4x/app.bsky.feed.post/3mzauzbt7yc2p",
+          "cid": "bafyreidmsr6k4qclnpx6hpzljimafmz3qxnxgfxzrjbk33g5ikqd3qeuva",
+          "authorDid": "did:plc:g2zt36y3bf5hcywnlydjga4x",
+          "authorHandle": "protosphere.me",
+          "text": "Some very quick scans from the €12.50 Rollei 35 XF, now that my Flextight is no longer eating film #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2zt36y3bf5hcywnlydjga4x/bafkreia7xjd5u47ntwqgvsozbcvta43almwwvtonmrguqjiulerbg7jh7m",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2zt36y3bf5hcywnlydjga4x/bafkreib6azr4tq36s23vtdcffnhckjejkykfbrszwb4yujfov7g7yprrlu",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2zt36y3bf5hcywnlydjga4x/bafkreie5relx6mapocnsbffgxhfdz42jvuhgjxqdo6pxzjhfqkbm5dezoi"
+          ],
+          "indexedAt": "2026-11-01T13:09:52.272Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 3,
           "source": "queue",
           "blockMuteChecked": false
         }
@@ -387,6 +544,84 @@
       ]
     },
     {
+      "authorDid": "did:plc:nxix27p5su2e6czgtr7k2ocu",
+      "authorHandle": "newgennfoto.ca",
+      "totalCandidates": 1,
+      "avgConfidence": 5,
+      "sample": [
+        {
+          "uri": "at://did:plc:nxix27p5su2e6czgtr7k2ocu/app.bsky.feed.post/3mzbntxgqv226",
+          "cid": "bafyreigeio5an6zpn2ksto4jcatc2twhd5lilk3debrelhxolyddqwxsdi",
+          "authorDid": "did:plc:nxix27p5su2e6czgtr7k2ocu",
+          "authorHandle": "newgennfoto.ca",
+          "text": "Dead End\n\n📸 Nikon F100\n🔎 Nikon AF 50mm f/1.8D\n🎞️ Rollei RPX 400\n\n#Photography #NikonF100 #35mmFilm #RolleiRPX #blackAndWhitePhotography #BnWfilm #FilmPhotography #BelieveInFilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nxix27p5su2e6czgtr7k2ocu/bafkreiehppndt3c44etqa5bzu3v2q2nxkf2p5cbhmkcrscwtgcxmhzho7q"
+          ],
+          "indexedAt": "2026-11-01T20:34:16.780Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            }
+          ],
+          "confidence": 5,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:cuijmpoq5ix4d2iid4dondd2",
+      "authorHandle": "chiclenfingers.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 5,
+      "sample": [
+        {
+          "uri": "at://did:plc:cuijmpoq5ix4d2iid4dondd2/app.bsky.feed.post/3mzcj3c22zc2p",
+          "cid": "bafyreiapk62pvhsyhcrt2blof4algsgtqecnxw6icv3zrwzndyspwmethm",
+          "authorDid": "did:plc:cuijmpoq5ix4d2iid4dondd2",
+          "authorHandle": "chiclenfingers.bsky.social",
+          "text": "Paris: Fluctuat nec mergitur No. 1, Cimitière du Père-Lachaise\nContax G1, Carl Zeiss Planar 35mm, scanned from RC print \n#classicmono #blackandwhitephotography #urbangaze #filmphotography #35mm #monuments #cemeteries   #cimitière #grief #sorrow #paris #france #chagrin #spiderwebs",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cuijmpoq5ix4d2iid4dondd2/bafkreiecbdoz75gxg5eaot2j7jmy2pdmqig3cfqa6vpwxm4u3ucyhf7aim"
+          ],
+          "indexedAt": "2026-11-02T04:41:33.479Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:filmphotography",
+              "category": "hashtag",
+              "matchedText": "#filmphotography"
+            },
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            },
+            {
+              "keywordId": "camera-alias:Contax",
+              "category": "camera",
+              "matchedText": "Contax"
+            }
+          ],
+          "confidence": 5,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
       "authorDid": "did:plc:dxrfb6ujfxf4rv46usxx6aoa",
       "authorHandle": "ibaumann.bsky.social",
       "totalCandidates": 1,
@@ -448,6 +683,76 @@
               "keywordId": "hashtag:believeinfilm",
               "category": "hashtag",
               "matchedText": "#believeinfilm"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:d7mn3cidjvx33zgabcmmvilj",
+      "authorHandle": "flexaretcetera.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 4,
+      "sample": [
+        {
+          "uri": "at://did:plc:d7mn3cidjvx33zgabcmmvilj/app.bsky.feed.post/3mzbkd2fezk2i",
+          "cid": "bafyreidzolfyfrtgamowddqvt7dg2fu6jzv5vvb66nocgdtv6lfjiuhnzq",
+          "authorDid": "did:plc:d7mn3cidjvx33zgabcmmvilj",
+          "authorHandle": "flexaretcetera.bsky.social",
+          "text": "Swamp things\n\n🎞️ Svema / FPP 6 ISO blue sensitive\n📷 Contax IIIa\n🔎 Zeiss Sonnar 50mm f2\n\n#blackandwhite #shootfilm #believeinfilm",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7mn3cidjvx33zgabcmmvilj/bafkreife3akuedh64ccjvllajqdrnt6yqaggae3llqgqrrr6k3yhwu2tsi",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7mn3cidjvx33zgabcmmvilj/bafkreiana372ie6othfg6shnfythghsrddpmrvi5yeuvfklfweaztfjpqe",
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7mn3cidjvx33zgabcmmvilj/bafkreigdvb6k3jmy3grue5zsiqce23pxykr4ki4hz624drzepjizfghrca"
+          ],
+          "indexedAt": "2026-11-01T19:31:16.488Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:believeinfilm",
+              "category": "hashtag",
+              "matchedText": "#believeinfilm"
+            },
+            {
+              "keywordId": "camera-alias:Contax",
+              "category": "camera",
+              "matchedText": "Contax"
+            }
+          ],
+          "confidence": 4,
+          "source": "queue",
+          "blockMuteChecked": false
+        }
+      ]
+    },
+    {
+      "authorDid": "did:plc:fw3nk23suehhjxrwwlk2bwfu",
+      "authorHandle": "therollingtroll.bsky.social",
+      "totalCandidates": 1,
+      "avgConfidence": 4,
+      "sample": [
+        {
+          "uri": "at://did:plc:fw3nk23suehhjxrwwlk2bwfu/app.bsky.feed.post/3mzcxpygims2t",
+          "cid": "bafyreifmj44lqxaw7bctgcvi47oczgz4i2oakkf3qmt2xo47j6godts7ie",
+          "authorDid": "did:plc:fw3nk23suehhjxrwwlk2bwfu",
+          "authorHandle": "therollingtroll.bsky.social",
+          "text": "I had no idea Leica went this \"Low\".\nIt feels nice though, let's give it a shot\n\n#leica #camera #analog #analogphotography #135film #35mmfilm #camera #wetzlar #compactcamera #filmcamera #kodakgold #cheapcamera",
+          "imageUrls": [
+            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fw3nk23suehhjxrwwlk2bwfu/bafkreicijjnldt256z4bdw5q3gkr2q4ymbrb5rmgodjkivabqtrufr2waq"
+          ],
+          "indexedAt": "2026-11-02T09:03:40.079Z",
+          "matches": [
+            {
+              "keywordId": "hashtag:35mm",
+              "category": "hashtag",
+              "matchedText": "#35mm"
+            },
+            {
+              "keywordId": "camera-alias:Leica",
+              "category": "camera",
+              "matchedText": "Leica"
             }
           ],
           "confidence": 4,
@@ -564,208 +869,6 @@
               "keywordId": "hashtag:35mm",
               "category": "hashtag",
               "matchedText": "#35mm"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:2rehcjkvnwpb66z5r3ub75s2",
-      "authorHandle": "orwo-shop.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:2rehcjkvnwpb66z5r3ub75s2/app.bsky.feed.post/3mxycwlands2t",
-          "cid": "bafyreig3xh55kbr23flwamob2xe325b5c7odvncrrgo2uw6zka3c6tb6ke",
-          "authorDid": "did:plc:2rehcjkvnwpb66z5r3ub75s2",
-          "authorHandle": "orwo-shop.bsky.social",
-          "text": "Every photograph tells a story, and film photography makes each moment feel special. With ORWO Shop, explore the creative possibilities of analog photography, experiment with different photo films, and capture memories with a timeless touch. #OrwoShop #FilmPhotography #AnalogPhotography #PhotoFilm",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rehcjkvnwpb66z5r3ub75s2/bafkreiau7cqmg3qyl34in5szey6wxhrlc6jwdc3yrc7gpgqvkrqdetqpmm"
-          ],
-          "indexedAt": "2026-10-16T09:59:47.257Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:filmphotography",
-              "category": "hashtag",
-              "matchedText": "#filmphotography"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:sqp5l4lzahyzfmwd55jfjn33",
-      "authorHandle": "dendrobatus-azureus.bsd.cafe.ap.brid.gy",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:sqp5l4lzahyzfmwd55jfjn33/app.bsky.feed.post/3my73g56a6xz2",
-          "cid": "bafyreie4bxlxaafelgctigyljzcwbngv2uxqtbeujc6o6meptulg4ngk6m",
-          "authorDid": "did:plc:sqp5l4lzahyzfmwd55jfjn33",
-          "authorHandle": "dendrobatus-azureus.bsd.cafe.ap.brid.gy",
-          "text": "Shri Hanuman & Lakshmi posing in the Shri Krishna Mandir\n\n#Photography #Nikon #large #sensor #35mm #DSLR #filters #CIRC #Pol #Polarizer #Azul #81A #warming #UV",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqp5l4lzahyzfmwd55jfjn33/bafkreifroh46z4q4ec2y34vuplxj6ffj7ttcho5nnbr5is25p4hmgwzfbe"
-          ],
-          "indexedAt": "2026-10-19T02:33:52.559Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:35mm",
-              "category": "hashtag",
-              "matchedText": "#35mm"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
-      "authorHandle": "lucianaviuisso.bsky.social",
-      "totalCandidates": 2,
-      "avgConfidence": 1.5,
-      "sample": [
-        {
-          "uri": "at://did:plc:vuctw7of2fqqo6uigl4s7xzy/app.bsky.feed.post/3mygjhwk6as2u",
-          "cid": "bafyreienkz5llgbpuqfsk6k32z55uqcx52qvy2hj6gmdwh3lfgmejw3jva",
-          "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
-          "authorHandle": "lucianaviuisso.bsky.social",
-          "text": "Câmera instax mini 13 Dreamy Purple\n\nDe: R$679,00\nPor: R$530,82\nEm até 10x de R$53,08 sem juros\n\nlink.amazon/B07fhUyOx",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vuctw7of2fqqo6uigl4s7xzy/bafkreic5brahsexazrb75ljt7gqpbe2mbocrri3c6ryzxe3kmtawmrd7qi"
-          ],
-          "indexedAt": "2026-10-22T01:34:04.737Z",
-          "matches": [
-            {
-              "keywordId": "filmStock:Instax Mini",
-              "category": "filmStock",
-              "matchedText": "instax mini"
-            },
-            {
-              "keywordId": "filmStock-alias:Instax",
-              "category": "filmStock",
-              "matchedText": "instax"
-            }
-          ],
-          "confidence": 2,
-          "source": "queue",
-          "blockMuteChecked": false
-        },
-        {
-          "uri": "at://did:plc:vuctw7of2fqqo6uigl4s7xzy/app.bsky.feed.post/3myis3gfd7s2j",
-          "cid": "bafyreibgutw2kwjpkwjsllpmtfbvziocsk552tfpmr3qev3j4gmml6xjrm",
-          "authorDid": "did:plc:vuctw7of2fqqo6uigl4s7xzy",
-          "authorHandle": "lucianaviuisso.bsky.social",
-          "text": "Smartphone OPPO Find X9 Pro 512GB 16GB RAM Desbloqueado 5G Titanio Grafite\nCâmera teleobjetiva Hasselblad de 200MP, Dimensity 9500 e bateria de 7500mAh\n\nDe: R$11.999,00\nPor: R$9.699,96\nEm até 12x de R$808,33 sem juros\n\nOu no Pix:\nR$8.729,99\n\nlink.amazon/B00mty3DE",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vuctw7of2fqqo6uigl4s7xzy/bafkreifszku5bw7mawjtvrzaa6viw7jzqexpyazn5l6xi3kblqzklhsiea"
-          ],
-          "indexedAt": "2026-10-22T23:13:27.437Z",
-          "matches": [
-            {
-              "keywordId": "camera-alias:Hasselblad",
-              "category": "camera",
-              "matchedText": "Hasselblad"
-            }
-          ],
-          "confidence": 1,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:cczq7k22mlrmrpqn6ygy762n",
-      "authorHandle": "maurostagi.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:cczq7k22mlrmrpqn6ygy762n/app.bsky.feed.post/3mymgzcb66c22",
-          "cid": "bafyreigqf35nujkubk2hm4yh6n6jdlyzazmxiifwugqwp65hvi6qxucqsu",
-          "authorDid": "did:plc:cczq7k22mlrmrpqn6ygy762n",
-          "authorHandle": "maurostagi.bsky.social",
-          "text": "#fimphoto #filmphotography #film #indie #movie #blackandwhite #pic #photography #photo #shooting #cinema #youtube #actor  #attore #director #regista #amazonprime #instablackandwhite #instapic #instaactor #instafilm #castiglionellapescaia #italy",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreibpxwqtukhrr6uultfxi7rb4ahlpxcgffbfwlxghg3uexsgh6uzxm",
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreid2sx2kfri4w4akqlzzm4bqjxruphvwldq5w5r2ia4vcndhblxyrq",
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cczq7k22mlrmrpqn6ygy762n/bafkreia4hdtrlcvzy3i7ukvsh7lvg6y3iv5y3ihlybjqwgsa347w4qgfui"
-          ],
-          "indexedAt": "2026-10-24T10:06:10.246Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:filmphotography",
-              "category": "hashtag",
-              "matchedText": "#filmphotography"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:azgyqygl4zfymvfoykv7xp4q",
-      "authorHandle": "evanmichio.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:azgyqygl4zfymvfoykv7xp4q/app.bsky.feed.post/3mz6svtewpc2u",
-          "cid": "bafyreihkyevnrhwhxhechxk6nxvvodumqforfzvr5qqgtpkxt4u3xaqkh4",
-          "authorDid": "did:plc:azgyqygl4zfymvfoykv7xp4q",
-          "authorHandle": "evanmichio.bsky.social",
-          "text": "Identity series . . .\n#BlueskyArtShow #spooky#classicmono #monochrome #photography #artphotography #kodak #filmphotography",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:azgyqygl4zfymvfoykv7xp4q/bafkreib25nmaxzeracfwxfctgiqxhkn6lcuvo5ozbzuspoyew67ye5cokq"
-          ],
-          "indexedAt": "2026-10-31T17:26:48.884Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:filmphotography",
-              "category": "hashtag",
-              "matchedText": "#filmphotography"
-            }
-          ],
-          "confidence": 3,
-          "source": "queue",
-          "blockMuteChecked": false
-        }
-      ]
-    },
-    {
-      "authorDid": "did:plc:gvzimagvutmrzquz35zc23xn",
-      "authorHandle": "kcphoto.bsky.social",
-      "totalCandidates": 1,
-      "avgConfidence": 3,
-      "sample": [
-        {
-          "uri": "at://did:plc:gvzimagvutmrzquz35zc23xn/app.bsky.feed.post/3mz6rmgspdc24",
-          "cid": "bafyreia7e2l26lhzm6v6ufwpbf3ngvfd7lbmts4tjlb3yhbgr77gin6t7q",
-          "authorDid": "did:plc:gvzimagvutmrzquz35zc23xn",
-          "authorHandle": "kcphoto.bsky.social",
-          "text": "Dead oak tree in Tollesbury on the Essex coast. Taken using the Harman Titan 4x5 pinhole camera on Ilford FP4. \n\n#believeinfilm #pinholephotography #ilfordfp4",
-          "imageUrls": [
-            "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvzimagvutmrzquz35zc23xn/bafkreia6q2tsh4uevxgbmmpm4xlawvehgagjzjal3wxfoeqoqyqmlf6ybu"
-          ],
-          "indexedAt": "2026-10-31T17:03:40.276Z",
-          "matches": [
-            {
-              "keywordId": "hashtag:believeinfilm",
-              "category": "hashtag",
-              "matchedText": "#believeinfilm"
             }
           ],
           "confidence": 3,
